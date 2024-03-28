@@ -171,6 +171,10 @@
     {
       "url": "https://jihulab.com/mdxgh/mdxgh/-/raw/main/mdxgh.json",
       "name": "码点小干货"
+    },
+    {
+      "url": "https://盒子迷.top/禁止贩卖",
+      "name": "小盒子迷"  
     },  
     {
       "url": "https://jxjson.icu/balabala",
