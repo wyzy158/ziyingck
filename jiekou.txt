@@ -221,6 +221,18 @@
       "name": "玉玉线路"
     },
     {
+      "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t.json",
+      "name": "追剧影院"  
+    },
+    {
+      "url": "https://k.seavod.cc/uploads/itvbox/json/yxdezynew.json",
+      "name": "厂长线路"  
+    },
+    {
+      "url": "http://tv.4kdyg.top/4k.json",
+      "name": "影视君线路"  
+    },
+    {
       "url": "http://qrh.yimkj.cn/se/少儿.json",
       "name": "少儿益智"
     },
