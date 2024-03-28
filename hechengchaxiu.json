@@ -111,6 +111,93 @@
        "ext": "./lib/haixingys.json"
     },
     {
+       "key":"天天开心自建站",
+       "name":"🎦开心自建站",
+       "type":3,
+       "api":"csp_XBPQ",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+       "playerType": "1",
+       "ext":"./lib/ttkxrhzjw.json"
+    },
+    {
+       "key":"开心影视",
+       "name":"🎦开心站",
+       "type":3,
+       "api":"csp_XBPQ",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+       "playerType": "1",
+       "ext":"./lib/ttkxzjw.json"
+    },
+    {
+      "key":"csp_大师兄",
+      "name":"🎦大师兄┃秒播",
+      "type":3,"api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./lib/dsxys.json"
+    },
+    {
+      "key":"csp_星辰",
+      "name":"🎦星辰┃秒播",
+      "type":3,"api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./lib/xcys.json"
+    },
+    {
+      "key":"csp_vs",
+      "name":"🎦VS┃秒播",
+      "type":3, 
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./lib/vsys.json"
+    },
+    {
+      "key":"csp_xBPQ_九八",
+      "name":"🎦九八┃秒播",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./lib/98.json"
+    },
+    {
+      "key":"csp_xBPQ_疯狗",
+      "name":"🎦疯狗┃秒播",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./lib/fgys.json"
+    },
+    {
+      "key":"csp_干饭",
+      "name":"🎦干饭┃秒播",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./lib/gfys.json"
+    },
+{"key":"csp_五五","name":"🎦五五┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/55.json"},
+{"key":"农民影视","name":"🎦农民┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/nongmin.json"},
+{"key":"csp_盒子","name":"🎦盒子┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/hezi.json"},
+{"key":"348影视","name":"🎦348┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/348.json"},
+{"key":"csp_Free","name":"🎦Free┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/Free.json"},
+{"key":"csp_345","name":"🎦三四五┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/345.json"},
+
+    {
       "key": "csp_七新",
       "name": "🅱️七新影视|T追剧",
       "type": 3,
