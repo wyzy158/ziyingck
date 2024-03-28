@@ -101,6 +101,16 @@
       "ext": "./lib/98影视.json"
     },
     {
+       "key": "海星影视",
+       "name": "🎦海星┃秒播",
+       "type": 3,
+       "api": "csp_XBPQ",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "./lib/haixingys.json"
+    },
+    {
       "key": "csp_七新",
       "name": "🅱️七新影视|T追剧",
       "type": 3,
