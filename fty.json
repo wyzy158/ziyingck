@@ -96,6 +96,29 @@
       "ext": "https://www.libvio.pw/"
     },
     {
+      "key": "jisu",
+      "name": "极速影院",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.jisu000.com/"
+    },
+    {
+      "key": "cabeihu",
+      "name": "茶杯狐",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "timeout": 15,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.cupfox123.com/"
+    },
+    {
       "key": "Auete",
       "name": "奥特┃直连",
       "type": 3,
