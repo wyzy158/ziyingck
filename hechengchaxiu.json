@@ -91,6 +91,17 @@
       "changeable": 1,
       "ext": "https://www.czzy77.com/"
     },
+     {
+      "key": "奈飞",
+      "name": "奈飞",
+      "type": 3,
+      "api": "csp_laifei",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.netflixgc.com/"
+    },
     {
       "key": "csp_南瓜",
       "name": "南瓜影视",
