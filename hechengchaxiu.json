@@ -80,6 +80,18 @@
       "ext": "https://bo.czys.me@@荷城茶秀"
     },
     {
+      "key": "厂长",
+      "name": "厂长无广",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy77.com/"
+    },
+    {
       "key": "csp_南瓜",
       "name": "南瓜影视",
       "type": 3,
