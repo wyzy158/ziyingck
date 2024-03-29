@@ -63,18 +63,18 @@
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "ext": "http://ys.changmengyun.com/api.php/provide/@@荷城茶秀"
+      "ext": "https://www.yunanbaicha.com/"
     },
 	{
       "key": "csp_JianPian",
-      "name": "荐片秒播",
+      "name": "策驰影视",
       "type": 3,
       "api": "csp_JianPian",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+      "ext": "http://www.bopolt.com/"
     },
     {
       "key": "77",
