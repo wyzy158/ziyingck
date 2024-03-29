@@ -55,6 +55,28 @@
       "ext": "https://www.czzy77.com/"
     },
     {
+      "key": "csp_南瓜",
+      "name": "南瓜影视",
+      "type": 3,
+      "api": "csp_AppHccxNg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "http://ys.changmengyun.com/api.php/provide/@@荷城茶秀"
+    },
+	{
+      "key": "csp_JianPian",
+      "name": "荐片秒播",
+      "type": 3,
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+    },
+    {
       "key": "77",
       "name": "七七┃秒播",
       "type": 3,
