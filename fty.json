@@ -101,10 +101,10 @@
       "type": 3,
       "api": "csp_Xinsj",
       "timeout": 15,
-      "playerType": 2,
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "ext": "https://www.jisu000.com/"
     },
     {
@@ -113,10 +113,10 @@
       "type": 3,
       "api": "csp_Czsapp",
       "timeout": 15,
-      "playerType": 2,
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "ext": "https://www.cupfox123.com/"
     },
     {
