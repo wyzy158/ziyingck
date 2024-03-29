@@ -65,6 +65,10 @@
       "name": "小张线路"
     },
     {
+      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/fty.json",
+      "name": "采集线路"    
+    },
+    {
       "url": "https://tvbox.aoki.fun/M",
       "name": "青木线路"
     },
