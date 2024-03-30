@@ -49,6 +49,10 @@
       "name": "荷城茶秀"
     },
     {
+      "url": "http://饭太硬.top/tv",
+      "name": "玩偶哥哥"
+    },
+    {
       "url": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/duoduo/dduo.json",
       "name": "多多影音"
     },
