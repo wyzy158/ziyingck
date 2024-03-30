@@ -113,6 +113,14 @@
       "name": "飞龙影视"
     },
     {
+      "url": "http://lin.aosoubao.com/2/ymjr.json",
+      "name": "4k资源"
+    },
+    {
+      "url": "http://lin.ohphp.com/1/my.json",
+      "name": "畅影线路"
+    },
+    {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
       "name": "环宇轩线"
     },
