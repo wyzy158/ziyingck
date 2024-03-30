@@ -5,10 +5,6 @@
       "name": "毒盒影视"
     },
     {
-      "url": "https://tv.youdu.fan:666/饭太硬/",
-      "name": "饭太硬线"
-    },
-    {
       "url": "https://tv.youdu.fan:666/小米/",
       "name": "小米线路"
     },
