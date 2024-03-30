@@ -61,6 +61,41 @@
       "name": "吾爱线路"
     },
     {
+      "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xzwei528/qixia/main/qixia.json",
+      "name": "七夏传媒"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/tvbox/master/%F0%9F%8E%AC%E7%9C%8B%E7%8E%A9%E5%81%B64K.txt",
+      "name": "酷云七七"
+    },                 
+    {
+      "url":
+    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/tvbox/master/%F0%9F%92%9D%E5%85%A8%E7%BD%91%E5%BD%B1%E7%BA%BF.txt",
+      "name": "金影影视"
+    },
+    {
+      "url":
+      "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/tvbox/master/%F0%9F%8E%B5%E7%8C%AB%E7%88%AA%E8%B5%84%E6%BA%90.txt",
+      "name": "荐片资源"
+    },
+    {
+      "url":
+    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/tvbox/master/%F0%9F%9B%B5%E9%AB%98%E5%A4%A9%E5%BC%B9%E5%B9%95.txt",
+      "name": "高天资源"
+    },
+    {
+      "url": "http://61.183.41.92:588/%E5%BD%B1%E8%A7%86/%E9%BC%8E%E7%9B%9BMAX.json",
+      "name": "小苹果源"
+    },
+    {
+      "url":      "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/tvbox/master/%F0%9F%9A%98%E4%BA%8E%E6%B0%8F%E5%BD%B1%E4%B8%9A.txt",
+      "name": "于氏影业"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/tvbox/master/%F0%9F%A4%99%E4%B8%83%E4%B8%83%E7%BA%BF%E8%B7%AF.txt",
+      "name": "推荐线路"
+    },
+    {
       "url": "https://www.rjjjh.com/xzbgg.json",
       "name": "小张线路"
     },
