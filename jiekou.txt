@@ -73,6 +73,10 @@
       "name": "青木线路"
     },
     {
+      "url": "http://www.lyyytv.cn/yt/yt.json",
+      "name": "挺好线路"
+    },
+    {
       "url": "https://atomgit.com/tvkj/feilong/raw/main/svip.json",
       "name": "天微影视"
     },
