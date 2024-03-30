@@ -151,6 +151,38 @@
       "ext": "http://www.xb6v.com/"
     },
     {
+	  "key":"厂长",
+	  "name":"厂长┃影视",
+	  "type":3,
+	  "api":"csp_Czsapp",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://bo.czys.me"
+	},
+    {
+	  "key":"荐片",
+	  "name":"荐片┃影视",
+	  "type":3,
+	  "api":"csp_JianPian",
+	  "playerType":1,
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ownjpykxttjzuhy.jiesiwa.com"
+	},
+    {
+      "key": "csp_Czsapp",
+      "name": "厂长资源",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.czzy55.com"
+    },
+	{
       "key": "量子",
       "name": "量子",
       "type": 0,
