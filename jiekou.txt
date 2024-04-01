@@ -9,8 +9,8 @@
       "name": "香雅情XYQ"
     },
     {
-      "url": "https://tv.youdu.fan:666/道长JS/",
-      "name": "道长JS"
+      "url": "http://61.183.41.92:588/%E5%BD%B1%E8%A7%86/%E9%BC%8E%E7%9B%9BMAX.json",
+      "name": "小苹果源"
     },
     {
       "url": "https://tv.youdu.fan:666/南风/",
@@ -39,10 +39,6 @@
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/tvbox/master/%F0%9F%8E%B5%E7%8C%AB%E7%88%AA%E8%B5%84%E6%BA%90.txt",
       "name": "荐片资源"
-    },
-    {
-      "url": "http://61.183.41.92:588/%E5%BD%B1%E8%A7%86/%E9%BC%8E%E7%9B%9BMAX.json",
-      "name": "小苹果源"
     },
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/tvbox/master/%F0%9F%9A%98%E4%BA%8E%E6%B0%8F%E5%BD%B1%E4%B8%9A.txt",
