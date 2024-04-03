@@ -28,7 +28,7 @@
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
       "name": "吾爱线路"
     },
-     {
+    {
       "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xzwei528/qixia/main/qixia.json",
       "name": "七夏传媒"
     },
