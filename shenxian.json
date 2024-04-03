@@ -1,7 +1,7 @@
 {
   "spider": "./sx.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
   "wallpaper": "./bizhi.php",
-  "warningText": "神仙影视完全免费，切勿付费购买!",
+  "warningText": "接口定期维护",
   "lives": [
     {
       "name": "live",
@@ -14,7 +14,7 @@
   "sites": [
     {
       "key": "nongmin",
-      "name": "💘神仙影视 请关注公众号：神仙APP",
+      "name": "观影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -23,8 +23,8 @@
       "ext": "./lib/nm.json"
     },
     {
-      "key": "神仙影视",
-      "name": "影视 | 神仙自营",
+      "key": "观影视",
+      "name": "自营线路",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
