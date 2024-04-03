@@ -5,8 +5,12 @@
       "name": "自营线路"   
     },
     {
-      "url": "https://tv.youdu.fan:666/香雅情XYQ/",
-      "name": "香雅情XYQ"
+      "url": "http://www.lyyytv.cn/yt/yt.json",
+      "name": "影探线路"
+    },
+    {
+      "url": "https://k.seavod.cc/uploads/itvbox/json/yxdezynew.json",
+      "name": "厂长线路"  
     },
     {
       "url": "http://61.183.41.92:588/%E5%BD%B1%E8%A7%86/%E9%BC%8E%E7%9B%9BMAX.json",
@@ -85,16 +89,8 @@
       "name": "心魔线路"
     },
     {
-      "url": "http://www.lyyytv.cn/yt/yt.json",
-      "name": "影探线路"
-    },
-    {
       "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t.json",
       "name": "追剧影院"  
-    },
-    {
-      "url": "https://k.seavod.cc/uploads/itvbox/json/yxdezynew.json",
-      "name": "厂长线路"  
     },
     {
       "url": "http://qrh.yimkj.cn/se/少儿.json",
