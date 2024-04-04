@@ -56,6 +56,13 @@
       "ext": "./lib/Bili.json"
     },
     {
+      "key": "4K电影网",
+      "name": "影视 | 4K电影网[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/4K电影网.js"
+    },
+    {
       "key": "Wogg",
       "name": "阿里 | 玩偶哥哥",
       "type": 3,
