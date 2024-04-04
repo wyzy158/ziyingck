@@ -1,7 +1,7 @@
 {
   "spider": "./sx.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
   "wallpaper": "./bizhi.php",
-  "warningText": "接口定期维护",
+  "warningText": "接口定期维护,请勿相信视频中任何广告,以免上当受骗",
   "lives": [
     {
       "name": "live",
