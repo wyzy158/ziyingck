@@ -56,20 +56,6 @@
       "ext": "./lib/Bili.json"
     },
     {
-      "key": "drpy_js_大师兄影视",
-      "name": "起飞 | 大师兄影视[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/大师兄影视.js"
-    },
-    {
-      "key": "4K电影网",
-      "name": "影视 | 4K电影网[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/4K电影网.js"
-    },
-    {
       "key": "Wogg",
       "name": "阿里 | 玩偶哥哥",
       "type": 3,
@@ -79,66 +65,6 @@
       "changeable": 0,
       "jar": "./lib/fan.txt;md5;9fdf355f7d803698900ccf4ceb4626cb",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-    },
-    {
-      "key": "影视车",
-      "name": "阿里 | 影视车",
-      "type": 3,
-      "api": "csp_Wogg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "jar": "./lib/dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
-      "ext": "./lib/wogg.json"
-    },
-    {
-      "key": "Wobg",
-      "name": "阿里 | 玩偶表哥",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "jar": "./lib/dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
-      "ext": "./lib/wogg.json"
-    },
-    {
-      "key": "Ppxzy",
-      "name": "阿里 | 皮皮虾",
-      "type": 3,
-      "api": "csp_Ppxzy",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "jar": "./lib/dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
-      "ext": "./lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"
-    },
-    {
-      "key": "校长影视",
-      "name": "阿里 | 校长影视",
-      "type": 3,
-      "api": "csp_XiaoZhang",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "jar": "./lib/dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
-      "ext": "./lib/tokenm.json$$$null$$$1"
-    },
-    {
-      "key": "团长资源",
-      "name": "阿里 | 团长资源",
-      "type": 3,
-      "api": "csp_TZFile",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "jar": "./lib/dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
-      "ext": "./lib/tokenm.json$$$null$$$1"
     },
     {
       "key": "厂长",
@@ -359,13 +285,6 @@
       "changeable": 1
     },
     {
-      "key": "网飞影视",
-      "name": "影视 | 网飞",
-      "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/网飞TV.js"
-    },
-    {
       "key": "csp_XYQHikerdyx",
       "name": "影视 | 港湾蓝光",
       "type": 3,
@@ -410,13 +329,6 @@
       "ext": "./lib/不开心.js"
     },
     {
-      "key": "追剧迷",
-      "name": "影视 | 追剧迷",
-      "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/追剧迷.js"
-    },
-    {
       "key": "T4-360",
       "name": "影视 | 360影视",
       "type": 4,
@@ -448,28 +360,11 @@
       "ext": "./lib/03影院.json"
     },
     {
-      "key": "wuya",
-      "name": "影视 | 乌鸦影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/乌鸦影视.json"
-    },
-    {
       "key": "两个磁力",
       "name": "影视 | 两个磁力",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/两个磁力.js"
-    },
-    {
-      "key": "兄弟影视",
-      "name": "影视 | 兄弟影视",
-      "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/兄弟影视.js"
     },
     {
       "key": "策驰影院",
@@ -505,25 +400,6 @@
       "api": "csp_TTian",
       "playerType": 1,
       "ext": "http://op.ysdqjs.cn"
-    },
-    {
-      "key": "二三",
-      "name": "影视 | 二三",
-      "type": 3,
-      "api": "csp_Ys23",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "喵播",
-      "name": "影视 | 喵播",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://111.230.51.151:9696/api.php/app/"
     },
     {
       "key": "圣城影视",
@@ -646,16 +522,6 @@
       "ext": "./lib/奇趣影视.json"
     },
     {
-      "key": "天天视频",
-      "name": "APP | 天天视频",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://ttsp.live/api.php/app/"
-    },
-    {
       "key": "酷影视",
       "name": "APP | 酷影视",
       "type": 3,
@@ -666,13 +532,6 @@
       "ext": "https://www.tvkuys.xyz/api.php/app/"
     },
     {
-      "key": "影探",
-      "name": "APP | 影探4K",
-      "type": 3,
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/yt.js"
-    },
-    {
       "key": "ysjj-duo",
       "name": "APP | 影视之家",
       "type": 3,
@@ -681,16 +540,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-    },
-    {
-      "key": "kuin-duo",
-      "name": "APP | 酷音影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kuin.one/api.php/app/"
     },
     {
       "key": "69美剧",
