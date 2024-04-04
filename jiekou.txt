@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/shenxian.json",
+      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/guanyinsi.json",
       "name": "自营线路"   
     },
     {
