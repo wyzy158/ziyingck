@@ -56,6 +56,13 @@
       "ext": "./lib/Bili.json"
     },
     {
+      "key": "drpy_js_大师兄影视",
+      "name": "起飞 | 大师兄影视[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/大师兄影视.js"
+    },
+    {
       "key": "4K电影网",
       "name": "影视 | 4K电影网[js]",
       "type": 3,
