@@ -90,29 +90,6 @@
       "ext": "https://bo.czys.me"
     },
     {
-      "key": "MP4电影",
-      "name": "️MP4┃电影",
-      "type": 3,
-      "api": "csp_WexMp4dy",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "新6V",
-      "name": "🛩新6V┃电影",
-      "type": 3,
-      "api": "csp_WexXb6v",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "Twobt",
-      "name": "🛩️Twobt┃电影",
-      "api": "csp_WexTwobt",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
       "key": "哔嘀",
       "name": "影视 | 哔嘀",
       "type": 3,
