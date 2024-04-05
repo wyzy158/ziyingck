@@ -464,6 +464,16 @@
       "ext": "./lib/爱看影视.json"
     },
     {
+      "key": "蛋蛋",
+      "name": "蛋蛋影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/蛋蛋影视.json"
+    },
+    {
       "key": "maolvys",
       "name": "影视 | 毛驴影视",
       "type": 3,
