@@ -137,6 +137,16 @@
       "ext": "./lib/新视觉影视.json"
     },
     {
+      "key": "达达龟",
+      "name": "影视 | 达达龟",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/dadagui.json"
+    },
+    {
       "key": "LW",
       "name": "影视 | 老王影视",
       "type": 3,
