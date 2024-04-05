@@ -484,6 +484,16 @@
       "ext": "./lib/miaiys.json"
     },
     {
+      "key": "csp_Voflix",
+      "name": "影视 | Voflix",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/voflix.json"
+    },
+    {
       "key": "maolvys",
       "name": "影视 | 毛驴影视",
       "type": 3,
