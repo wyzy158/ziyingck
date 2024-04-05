@@ -176,15 +176,15 @@
       "filterable": 1,
       "ext": "./lib/liangzi.json"
     },
-    {
-      "key": "石榴影视",
-      "name": "影视 | 石榴影视",
+   {
+      "key": "兄弟影视",
+      "name": "影视 ┃兄弟",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/shiliu.json"
+      "ext": "./lib/xdys.json"
     },
     {
       "key": "LW",
