@@ -157,6 +157,16 @@
       "ext": "./lib/dadagui.json"
     },
     {
+      "key": "在线",
+      "name": "影视｜在线电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/zaixiandianying8.json"
+    },
+    {
       "key": "free",
       "name": "影视 | Free",
       "type": 3,
