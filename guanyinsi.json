@@ -136,6 +136,36 @@
       "filterable": 1,
       "ext": "./lib/新视觉影视.json"
     },
+     {
+      "key": "Vidhub视频",
+      "name": "影视｜vidhub",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/Vidhub.json"
+    },
+    {
+      "key": "热播之家",
+      "name": "影视 | 热播之家",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/rebozj.json"
+    },
+	{
+      "key": "真不卡",
+      "name": "影视｜真不卡",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/zhenbuka.json"
+    },
     {
       "key": "达达龟",
       "name": "影视 | 达达龟",
