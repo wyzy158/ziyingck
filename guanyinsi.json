@@ -147,6 +147,16 @@
       "ext": "./lib/dadagui.json"
     },
     {
+      "key": "free",
+      "name": "影视 | Free",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/Free.json"
+    },
+    {
       "key": "LW",
       "name": "影视 | 老王影视",
       "type": 3,
