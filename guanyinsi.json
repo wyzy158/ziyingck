@@ -177,6 +177,16 @@
       "ext": "./lib/Free.json"
     },
     {
+      "key": "爱看",
+      "name": "影视｜爱看影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/ikan6.json"
+    },
+    {
       "key": "csp_盒子",
       "name": "影视┃秒播",
       "type": 3,
