@@ -137,16 +137,6 @@
       "ext": "./lib/新视觉影视.json"
     },
     {
-      "key": "HDmoli",
-      "name": "影视 | 魔力高清",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/HDmoli.json"
-    },
-    {
       "key": "达达龟",
       "name": "影视 | 达达龟",
       "type": 3,
@@ -175,6 +165,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/hezi.json"
+    },
+    {
+      "key": "lzi",
+      "name": "影视 | 量子资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/liangzi.json"
     },
     {
       "key": "LW",
