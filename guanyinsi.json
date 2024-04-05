@@ -127,6 +127,16 @@
       "ext": "./lib/鲸落.json"
     },
     {
+      "key": "新视觉",
+      "name": "影视 | 新视觉影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/新视觉影视.json"
+    },
+    {
       "key": "LW",
       "name": "影视 | 老王影视",
       "type": 3,
