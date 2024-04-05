@@ -177,6 +177,16 @@
       "ext": "./lib/liangzi.json"
     },
     {
+      "key": "石榴影视",
+      "name": "影视 | 石榴影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/shiliu.json"
+    },
+    {
       "key": "LW",
       "name": "影视 | 老王影视",
       "type": 3,
