@@ -524,36 +524,6 @@
       "ext": "分类url:https://www.zqzdzj.com/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
     },
     {
-      "key": "新视觉",
-      "name": "影视 | 新视觉",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.hdmyy.com/"
-    },
-    {
-      "key": "锐行加速",
-      "name": "影视 | 锐行加速",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/锐行加速.json"
-    },
-    {
-      "key": "深蓝影视",
-      "name": "影视 | 深蓝影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/深蓝影视.json"
-    },
-    {
       "key": "奇趣影视",
       "name": "影视 | 奇趣影视",
       "type": 3,
