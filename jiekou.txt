@@ -61,10 +61,6 @@
       "name": "一夫线路"
     },
     {
-      "url": "https://cn.kstore.space/download/2863/01.txt",
-      "name": "潇洒线路"
-    },
-    {
       "url": "https://agit.ai/leevi/xpg/raw/branch/master/api.json",
       "name": "水果线路"
     },
