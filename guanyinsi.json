@@ -167,6 +167,16 @@
       "ext": "./lib/zaixiandianying8.json"
     },
     {
+      "key": "新飞集",
+      "name": "影视｜新飞集",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/xfeiji.json"
+    },
+    {
       "key": "free",
       "name": "影视 | Free",
       "type": 3,
