@@ -266,6 +266,16 @@
       "ext": "./lib/速播小屋.json"
     },
     {
+      "key": "BT天堂",
+      "name": "影视｜BT天堂",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/BT天堂.json"
+    },
+    {
       "key": "free",
       "name": "影视 | Free",
       "type": 3,
