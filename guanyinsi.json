@@ -156,6 +156,16 @@
       "filterable": 1,
       "ext": "./lib/看一看影视xbpq.json"
     },
+     {
+      "key": "Auete",
+      "name": "影视｜Auete",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/Auetexbpq.json"
+    },
     {
       "key": "free",
       "name": "影视 | Free",
