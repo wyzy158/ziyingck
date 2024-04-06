@@ -49,10 +49,6 @@
       "name": "小美线路"
     },
     {
-      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/lib/fm.json",
-      "name": "推荐线路"  
-    },
-    {
       "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json",
       "name": "炫猪线路"
     },
