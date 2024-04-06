@@ -177,6 +177,16 @@
       "ext": "./lib/LIBVIOxbpq.json"
     },
     {
+      "key": "NikeTV",
+      "name": "影视｜Nike影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/NikeTVxbpq.json"
+    },
+    {
       "key": "free",
       "name": "影视 | Free",
       "type": 3,
