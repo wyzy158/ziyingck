@@ -213,7 +213,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/在线之家xbpq.json"
+      "ext": "./lib/在线之家.json"
     },
     {
       "key": "LIBVIO",
