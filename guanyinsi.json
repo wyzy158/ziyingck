@@ -147,6 +147,16 @@
       "ext": "./lib/快看影视xbpq.json"
     },
     {
+      "key": "映迷",
+      "name": "影视｜映迷",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/映迷影院xbpq.json"
+    },
+    {
       "key": "free",
       "name": "影视 | Free",
       "type": 3,
