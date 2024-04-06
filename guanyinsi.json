@@ -167,6 +167,16 @@
       "ext": "./lib/Auetexbpq.json"
     },
     {
+      "key": "LIBVIO",
+      "name": "影视｜立播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/LIBVIOxbpq.json"
+    },
+    {
       "key": "free",
       "name": "影视 | Free",
       "type": 3,
