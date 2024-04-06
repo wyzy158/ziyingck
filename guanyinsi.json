@@ -147,6 +147,16 @@
       "ext": "./lib/dadagui.json"
     },
     {
+      "key": "子子",
+      "name": "影视｜子子",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/子子影视xbpq.json"
+    },
+    {
       "key": "在线",
       "name": "影视｜在线电影",
       "type": 3,
