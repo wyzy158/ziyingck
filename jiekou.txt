@@ -5,10 +5,6 @@
       "name": "自营线路"   
     },
     {
-      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/lib/fm.txt",
-      "name": "推荐线路"  
-    },
-    {
       "url": "https://k.seavod.cc/uploads/itvbox/json/yxdezynew.json",
       "name": "厂长线路"  
     },
@@ -51,6 +47,10 @@
     {
       "url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xiaomeitv.json",
       "name": "小美线路"
+    },
+    {
+      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/lib/fm.txt",
+      "name": "推荐线路"  
     },
     {
       "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json",
