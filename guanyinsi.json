@@ -90,6 +90,16 @@
       "ext": "https://bo.czys.me"
     },
     {
+       "key": "新视觉",
+       "name": "影视┃视觉影视",
+       "type": 3,
+       "api": "csp_Xinsj",
+       "searchable": 0,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "https://www.80yy3.com/"
+    },
+    {
       "key": "哔嘀",
       "name": "影视 | 哔嘀",
       "type": 3,
