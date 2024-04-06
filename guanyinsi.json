@@ -147,14 +147,14 @@
       "ext": "./lib/dadagui.json"
     },
     {
-      "key": "子子",
-      "name": "影视｜子子",
+      "key": "qiuxia",
+      "name": "影视｜秋霞",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/子子影视xbpq.json"
+      "ext": "./lib/秋霞影视xbpq.json"
     },
     {
       "key": "在线",
