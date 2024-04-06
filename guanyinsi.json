@@ -127,16 +127,6 @@
       "ext": "./lib/鲸落.json"
     },
     {
-      "key": "新视觉",
-      "name": "影视 | 新视觉影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/新视觉影视.json"
-    },
-     {
       "key": "Vidhub视频",
       "name": "影视｜vidhub",
       "type": 3,
@@ -155,16 +145,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/dadagui.json"
-    },
-     {
-      "key": "神马",
-      "name": "影视｜神马",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/神马影院.json"
     },
     {
       "key": "在线",
