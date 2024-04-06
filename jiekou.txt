@@ -89,16 +89,8 @@
       "name": "追剧影院"  
     },
     {
-      "url": "http://qrh.yimkj.cn/se/少儿.json",
-      "name": "少儿益智"
-    },
-    {
       "url": "https://www.yingm.cc/dm/dm.json",
       "name": "动漫频道"
-    },
-    {
-      "url": "http://tt.iitvba.com/bata/教育.json",
-      "name": "儿童教育"
     },
     {
       "url": "http://tt.iitvba.com/bata/老年戏曲.json",
@@ -107,11 +99,8 @@
     {
       "url": "https://tv.youdu.fan:666/短剧频道/",
       "name": "短剧频道"
-    },
-    {
-      "url": "https://tv.youdu.fan:666/少儿频道/",
-      "name": "少儿频道"
     }
+   
   ]
 }
 
