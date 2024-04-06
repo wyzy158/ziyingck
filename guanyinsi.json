@@ -520,6 +520,13 @@
       "ext": "./lib/不开心.js"
     },
     {
+      "key":"drpy_js_新视觉影视",
+      "name":"影视 | 新视觉影视",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./js/新视觉影视.js"
+    },
+    {
       "key": "T4-360",
       "name": "影视 | 360影视",
       "type": 4,
