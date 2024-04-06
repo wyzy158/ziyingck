@@ -147,14 +147,14 @@
       "ext": "./lib/dadagui.json"
     },
     {
-      "key": "qiuxia",
-      "name": "影视｜秋霞",
+      "key": "真不卡",
+      "name": "影视｜真不卡",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/秋霞影视xbpq.json"
+      "ext": "./lib/真不卡影院xbpq.json"
     },
     {
       "key": "在线",
