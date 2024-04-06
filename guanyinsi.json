@@ -177,6 +177,16 @@
       "ext": "./lib/xfeiji.json"
     },
     {
+      "key": "小熊",
+      "name": "影视｜小熊",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小熊影视.json"
+    },
+    {
       "key": "free",
       "name": "影视 | Free",
       "type": 3,
