@@ -46,11 +46,6 @@
 {"key": "csp_UpYun","name": "┃Up搜┃网盘","type": 3,"api": "csp_UpYun","timeout": 30,"changeable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"},
 {"key": "csp_XiaoZhiTiao","name": "┃纸条┃网盘","type": 3,"api": "csp_XiaoZhiTiao","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"},
 {"key": "drpy_哔哩","name": "┃哔哩┃合集","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","playerType": 1,"ext": "http://dt.xn--yety82d.love/js/B站.js"},
-{"key": "儿童","name": "┃儿童┃启蒙","type": 3,"api": "http://alist.xn--z7x900a.live/ddrpy2.m.js","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.597},"ext": "http://alist.xn--z7x900a.live/兔小贝.js"},
-{"key": "少儿","name": "┃少儿┃教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.597},"ext": "http://alist.xn--z7x900a.live/少儿教育.json"},
-{"key": "小学","name": "┃小学┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.597},"ext": "http://alist.xn--z7x900a.live/小学课堂.json"},
-{"key": "初中","name": "┃初中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.597},"ext": "http://alist.xn--z7x900a.live/初中课堂.json"},
-{"key": "高中","name": "┃高中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.597},"ext": "http://alist.xn--z7x900a.live/高中课堂.json"},
 {"key": "push_agent","name": "观影视","type": 3,"api": "csp_Push","playerType": "1","searchable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"}
   ],
   "parses": [
