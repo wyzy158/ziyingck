@@ -226,6 +226,16 @@
       "ext": "./lib/NikeTVxbpq.json"
     },
     {
+      "key": "星球",
+      "name": "影视｜星球影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/歪片星球.json"
+    },
+    {
       "key": "free",
       "name": "影视 | Free",
       "type": 3,
