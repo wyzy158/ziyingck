@@ -156,6 +156,16 @@
       "filterable": 1,
       "ext": "./lib/dadagui.json"
     },
+     {
+      "key": "神马",
+      "name": "影视｜神马",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/神马影院.json"
+    },
     {
       "key": "在线",
       "name": "影视｜在线电影",
