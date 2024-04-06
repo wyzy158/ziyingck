@@ -266,6 +266,16 @@
       "ext": "./lib/速播小屋.json"
     },
     {
+      "key": "素白白",
+      "name": "影视｜素白白影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/素白白影视.json"
+    },
+    {
       "key": "free",
       "name": "影视 | Free",
       "type": 3,
