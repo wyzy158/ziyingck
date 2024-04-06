@@ -49,7 +49,7 @@
       "name": "小美线路"
     },
     {
-      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/lib/fm.txt",
+      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/lib/fm.json",
       "name": "推荐线路"  
     },
     {
