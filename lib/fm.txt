@@ -1,6 +1,6 @@
 {
   "sites": [
-{"key":"drpy_js_豆瓣","name":"🐼┃公众号┃肥猫宝贝","type":3,"api":"http://127.0.0.1:9978/file/TVBox/JS/lib/drpy.min.js","ext":"http://127.0.0.1:9978/file/TVBox/JS/js/drpy.js","jar":"http://127.0.0.1:9978/file/TVBox/jar/fm.jar"},
+{"key":"drpy_js_豆瓣","name":"🐼┃观影视","type":3,"api":"http://127.0.0.1:9978/file/TVBox/JS/lib/drpy.min.js","ext":"http://127.0.0.1:9978/file/TVBox/JS/js/drpy.js","jar":"http://127.0.0.1:9978/file/TVBox/jar/fm.jar"},
 {"key": "豆瓣","name": "🐼┃豆瓣┃预告","type": 3,"api": "csp_YGP","playerType": 2,"searchable": 0},
 {"key": "nangua","name": "🎃┃南瓜┃影视","type": 3,"playerType": "2","api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","ext": "http://dt.xn--yety82d.love/js/南瓜.js"},
 {"key": "新视觉","name": "🐦┃视觉┃影视","type": 3,"api": "csp_Xinsj","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://www.80yy3.com/"},
@@ -61,13 +61,13 @@
 {"key": "小学","name": "📚┃小学┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.597},"ext": "http://alist.xn--z7x900a.live/小学课堂.json"},
 {"key": "初中","name": "📚┃初中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.597},"ext": "http://alist.xn--z7x900a.live/初中课堂.json"},
 {"key": "高中","name": "📚┃高中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.597},"ext": "http://alist.xn--z7x900a.live/高中课堂.json"},
-{"key": "push_agent","name": "关注公众号：肥猫宝贝","type": 3,"api": "csp_Push","playerType": "1","searchable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"}
+{"key": "push_agent","name": "观影视","type": 3,"api": "csp_Push","playerType": "1","searchable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"}
   ],
   "parses": [
 {"name": "Json聚合","type": 3,"url": "Demo"},
 {"name": "Web聚合","type": 3,"url": "Web"},
-{"name": "公众号：肥猫宝贝","type": 1,"url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
-{"name": "肥猫最可爱","type": 1,"url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}}
+{"name": "观影视","type": 1,"url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
+{"name": "观影视","type": 1,"url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}}
   ],
   "lives": [{"name": "live","type": 0,"playerType": 1,"url": "http://我不是.肥猫.live/TV/tvzb.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
   "ijk": [{"group": "软解码","options": [
