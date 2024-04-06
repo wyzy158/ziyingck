@@ -137,36 +137,6 @@
       "ext": "./lib/Vidhub.json"
     },
     {
-      "key": "达达龟",
-      "name": "影视 | 达达龟",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/dadagui.json"
-    },
-    {
-      "key": "真不卡",
-      "name": "影视｜真不卡",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/真不卡影院xbpq.json"
-    },
-    {
-      "key": "在线",
-      "name": "影视｜在线电影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/zaixiandianying8.json"
-    },
-    {
       "key": "快看",
       "name": "影视｜快看",
       "type": 3,
@@ -175,16 +145,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/快看影视xbpq.json"
-    },
-    {
-      "key": "新飞集",
-      "name": "影视｜新飞集",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/xfeiji.json"
     },
     {
       "key": "free",
