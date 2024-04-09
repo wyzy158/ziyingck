@@ -306,6 +306,17 @@
       "ext": "./lib/shiliu.json"
     },
     {
+      "key": "达达龟",
+      "name": "影视┃达达龟",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": "1",
+      "ext": "./lib//dadagui.json"  
+    },   
+    {
       "key": "free",
       "name": "影视 | Free",
       "type": 3,
