@@ -13,18 +13,8 @@
   ],
   "sites": [
     {
-      "key": "nongmin",
-      "name": "观影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/nm.json"
-    },
-    {
       "key": "观影视",
-      "name": "自营线路",
+      "name": "观影视自营线路",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
