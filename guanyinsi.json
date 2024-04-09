@@ -253,7 +253,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/HDmoli.json"
+      "ext": "./lib/HDmoli.json"
     },  
     {
       "key": "星球",
