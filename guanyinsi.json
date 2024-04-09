@@ -278,6 +278,16 @@
       "ext": "./lib/996影视.json"
     },
     {
+      "key": "石榴",
+      "name": "影视｜石榴影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/shiliu.json"
+    },
+    {
       "key": "free",
       "name": "影视 | Free",
       "type": 3,
