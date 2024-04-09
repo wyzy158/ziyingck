@@ -246,16 +246,6 @@
       "ext": "./lib/NikeTVxbpq.json"
     },
     {
-      "key": "HDmoli",
-      "name": "影视｜魔力",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/HDmoli.json"
-    },  
-    {
       "key": "星球",
       "name": "影视｜星球影视",
       "type": 3,
@@ -294,16 +284,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/996影视.json"
-    },
-    {
-      "key": "石榴",
-      "name": "影视｜石榴影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/shiliu.json"
     },
     {
       "key": "达达龟",
