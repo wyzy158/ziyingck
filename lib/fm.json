@@ -1,7 +1,5 @@
 {
   "sites": [
-{"key":"drpy_js_豆瓣","name":"观影视","type":3,"api":"http://127.0.0.1:9978/file/TVBox/JS/lib/drpy.min.js","ext":"http://127.0.0.1:9978/file/TVBox/JS/js/drpy.js","jar":"http://127.0.0.1:9978/file/TVBox/jar/fm.jar"},
-{"key": "豆瓣","name": "┃豆瓣┃预告","type": 3,"api": "csp_YGP","playerType": 2,"searchable": 0},
 {"key": "新视觉","name": "┃视觉┃影视","type": 3,"api": "csp_Xinsj","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://www.80yy3.com/"},
 {"key": "csp_LiteApple","name": "┃苹果┃影视","type": 3,"playerType": "2","api": "csp_LiteApple"},
 {"key": "csp_Panda_玩偶哥哥","name": "┃玩偶┃影视","api": "csp_Wogg","type": 3,"searchable": 1,"playerType": 2,"timeout": 30,"changeable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"},
