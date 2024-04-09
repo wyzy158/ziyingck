@@ -214,9 +214,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/APP影院xbpq.json"
-    },   
-
-
+    },
+    {
+      "key": "酷云",
+      "name": "影视｜酷云影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/sc1080.json"
+    },
     {
       "key": "LIBVIO",
       "name": "影视｜立播",
