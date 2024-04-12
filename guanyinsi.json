@@ -236,6 +236,58 @@
       "ext": "./lib/NikeTVxbpq.json"
     },
     {
+      "key": "往往",
+      "name": "影视｜往往",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/往往影视.json"
+    },
+  
+
+   {
+      "key": "港口",
+      "name": "影视｜港口",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/港口.json"
+    },
+{
+      "key": "子子",
+      "name": "影视｜子子",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/子子影视.json"
+    },
+    {
+      "key": "柒月",
+      "name": "影视｜柒月",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/柒月.json"
+    },
+    {
+      "key": "盒子",
+      "name": "影视｜盒子",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/电影盒子.json"
+    },
+    {
       "key": "影探",
       "name": "影视｜影探",
       "type": 3,
