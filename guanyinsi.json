@@ -596,6 +596,16 @@
       "ext":"./lib/腾云驾雾.js"
     },
     {
+      "key": "宿命影视",
+      "name": "影视┃宿命",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./json/宿命影视.json",
+      "jar": "./jars/宿命影视.jar"
+    },
+    {
       "key": "策驰影院",
       "name": "影视 | 策驰影院",
       "type": 3,
