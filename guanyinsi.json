@@ -296,6 +296,17 @@
       "ext": "./lib/996影视.json"
     },
     {
+      "key": "玩偶表哥",
+      "name": "影视┃4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/wobg.json",
+      "jar": "http://www.wya6.cn/tz/wyog.php"
+    },
+    {
       "key": "达达龟",
       "name": "影视┃达达龟",
       "type": 3,
