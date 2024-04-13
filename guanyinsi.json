@@ -338,6 +338,27 @@
       "jar": "http://www.wya6.cn/tz/wyog.php"
     },
     {
+       "key": "sh",
+       "name": "影视┃骚火",
+       "type": 3,
+       "searchable": 1,
+       "changeable": 0,
+       "quickSearch": 1,
+       "jar": "./jars/sh.jar",
+       "api": "csp_XBPQ",
+       "ext": "./json/骚火.json"
+    },
+	{
+        "key": "去看吧",
+        "name": "影视｜去看吧",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "./lib/去看吧.json"
+    },
+    {
       "key": "达达龟",
       "name": "影视┃达达龟",
       "type": 3,
