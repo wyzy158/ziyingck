@@ -398,16 +398,6 @@
       "ext": "./lib/xdys.json"
     },
     {
-       "key": "奈飞中文",
-        "name": "影视 ┃ 奈飞",
-        "type": 3,
-        "api": "csp_XYQHiker",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "./lib/ynfys.json"
-    },
-    {
       "key": "LW",
       "name": "影视 | 老王影视",
       "type": 3,
