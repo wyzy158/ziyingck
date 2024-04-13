@@ -325,8 +325,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/wobg.json",
-      "jar": "http://www.wya6.cn/tz/wyog.php"
+      "ext": "./lib/wobg.json"
+    },
+    {
+        "key": "csp_XYQBiu_骚火VIP",
+        "name": "影视 | 骚火",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "./lib/shyyVIP.json"
+    },
+	{
+        "key": "DJ呦呦音乐网",
+        "name": "DJ呦呦音乐",
+        "type": 3,
+        "api": "csp_XYQHiker",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "./lib/DJyyyyw.json"
     },
     {
       "key": "达达龟",
