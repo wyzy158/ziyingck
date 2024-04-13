@@ -367,6 +367,13 @@
       "ext": "./lib/播视童趣.json"
     },
     {
+        "key": "去看吧",
+        "name": "影视 | 去看吧",
+        "type": 3,
+        "api": "./api/drpy.min.js",
+        "ext": "./js/去看吧.js"
+    },
+    {
       "key": "达达龟",
       "name": "影视┃达达龟",
       "type": 3,
