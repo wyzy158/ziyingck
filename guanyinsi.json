@@ -266,38 +266,6 @@
       "ext": "./lib/黑狐影视.json"
     },
     {
-      "key": "骚火",
-      "name": "影视｜骚火影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/骚火影视.json"
-    },
-    {
-      "key": "往往",
-      "name": "影视｜往往",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/往往影视.json"
-    },
-  
-
-   {
-      "key": "港口",
-      "name": "影视｜港口",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/港口.json"
-    },
-{
       "key": "子子",
       "name": "影视｜子子",
       "type": 3,
