@@ -236,6 +236,46 @@
       "ext": "./lib/NikeTVxbpq.json"
     },
     {
+      "key": "348",
+      "name": "影视｜348",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/348影视.json"
+    },
+    {
+      "key": "奇优",
+      "name": "影视｜奇优影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/奇优影视.json"
+    },
+    {
+      "key": "黑狐",
+      "name": "影视｜黑狐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/黑狐影视.json"
+    },
+    {
+      "key": "骚火",
+      "name": "影视｜骚火影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/骚火影视.json"
+    },
+    {
       "key": "往往",
       "name": "影视｜往往",
       "type": 3,
