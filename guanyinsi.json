@@ -367,16 +367,6 @@
       "ext": "./lib/播视童趣.json"
     },
     {
-        "key": "去看吧",
-        "name": "影视 | 去看吧",
-        "type": 3,
-        "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-        "api": "csp_XYQHiker",
-        "ext": "./lib/去看吧.json"
-    },
-    {
       "key": "达达龟",
       "name": "影视┃达达龟",
       "type": 3,
