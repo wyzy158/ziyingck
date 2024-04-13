@@ -59,6 +59,30 @@
       "ext": "https://bo.czys.me"
     },
     {
+      "key": "传奇",
+      "name": "影视 | 传奇",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.chuanqi365.com/"
+    },
+	{
+      "key": "橙汁",
+      "name": "影视 | 橙子",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.orangek.org/?ref=yingjuso.com"
+    },
+    {
       "key": "低端",
       "name": "影视 | 低端",
       "type": 3,
