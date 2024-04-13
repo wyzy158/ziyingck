@@ -370,8 +370,8 @@
         "key": "去看吧",
         "name": "影视 | 去看吧",
         "type": 3,
-        "api": "./api/drpy.min.js",
-        "ext": "./js/去看吧.js"
+        "api": "csp_XBPQ",
+        "ext": "./lib/去看吧.json"
     },
     {
       "key": "达达龟",
