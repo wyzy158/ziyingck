@@ -80,15 +80,6 @@
       "ext": "https://bo.czys.me"
     },
     {
-      "key": "哔嘀",
-      "name": "影视 | 哔嘀",
-      "type": 3,
-      "api": "csp_Bdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "低端",
       "name": "影视 | 低端",
       "type": 3,
