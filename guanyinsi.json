@@ -59,6 +59,58 @@
       "ext": "https://bo.czys.me"
     },
     {
+            "key": "视觉",
+            "name": "影视┃直连",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.80yy3.com/"
+    },
+	{
+            "key": "新6V",
+            "name": "影视┃6V",
+            "type": 3,
+            "api": "csp_SixV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://www.xb6v.com/"
+    },
+     {
+            "key": "zxzj",
+            "name": "影视┃外剧",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.zxzja.com/"
+        },
+		{
+            "key": "萌米",
+            "name": "影视┃萌米",
+            "type": 3,
+            "api": "csp_AppTT",
+            "timeout": 15,
+            "playerType": 1,
+            "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+        },
+		{
+            "key": "南瓜",
+            "name": "影视┃南瓜",
+            "type": 3,
+            "api": "csp_NanGua",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+    {
       "key": "nongmin",
       "name": "影视 | 农民",
       "type": 3,
