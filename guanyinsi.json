@@ -59,50 +59,14 @@
       "ext": "https://bo.czys.me"
     },
     {
-      "key": "传奇",
-      "name": "影视 | 传奇",
+      "key": "nongmin",
+      "name": "观影视",
       "type": 3,
-      "api": "csp_Czsapp",
-      "timeout": 15,
-      "playerType": 2,
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.chuanqi365.com/"
-    },
-	{
-      "key": "橙汁",
-      "name": "影视 | 橙子",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.orangek.org/?ref=yingjuso.com"
-    },
-    {  
-	  "key": "人人",
-      "name": "影视 | 人人",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://kuaizi.cc/?ref=www.9eip.com"
-    },
-	{  
-	  "key": "琉璃",
-      "name": "影视 | 琉璃",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.liuliyy.com/?ref=www.9eip.com"
+      "ext": "./lib/nm.json"
     },
     {
       "key": "低端",
