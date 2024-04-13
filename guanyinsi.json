@@ -379,26 +379,6 @@
       "ext": "./lib/fgys.json"
     },
     {
-      "key": "guangun",
-      "name": "影视｜guangun",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/guangun.json"
-    },
-    {
-      "key": "huamao",
-      "name": "影视｜huamao",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/huamao.json"
-    },
-    {
       "key": "free",
       "name": "影视 | Free",
       "type": 3,
