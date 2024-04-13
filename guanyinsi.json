@@ -986,25 +986,11 @@
       "ext": "./lib/动漫岛.js"
     },
     {
-      "key": "去看吧",
-      "name": "动漫 | 去看吧",
-      "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/去看吧.js"
-    },
-    {
       "key": "爱弹幕",
       "name": "动漫 | 爱弹幕",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/爱弹幕.js"
-    },
-    {
-      "key": "异世界",
-      "name": "动漫 | 异世界",
-      "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/异世界.js"
     },
     {
       "key": "plipili",
@@ -1046,16 +1032,6 @@
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/奇米动漫.js"
-    },
-    {
-      "key": "维奇动漫",
-      "name": "动漫 | 维奇动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/维奇动漫.json"
     },
     {
       "key": "动漫巴士",
