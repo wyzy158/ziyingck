@@ -358,6 +358,46 @@
       "playerType": "1",
       "ext": "./lib//dadagui.json"  
     },
+     {
+      "key": "555",
+      "name": "影视｜555",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/555.json"
+    },
+    {
+      "key": "fgys",
+      "name": "影视｜fgys",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/fgys.json"
+    },
+    {
+      "key": "guangun",
+      "name": "影视｜guangun",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/guangun.json"
+    },
+    {
+      "key": "huamao",
+      "name": "影视｜huamao",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/huamao.json"
+    },
     {
       "key": "free",
       "name": "影视 | Free",
