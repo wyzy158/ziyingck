@@ -227,16 +227,6 @@
       "ext": "./lib/348影视.json"
     },
     {
-      "key": "98",
-      "name": "影视｜98",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/98.json"
-    },
-    {
       "key": "奇优",
       "name": "影视｜奇优影视",
       "type": 3,
