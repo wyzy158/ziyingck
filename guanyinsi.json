@@ -283,7 +283,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/往往影视.json"
+      "ext": "./json/往往影视.json"
     },
   
 
