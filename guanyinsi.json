@@ -60,7 +60,7 @@
     },
     {
       "key": "nongmin",
-      "name": "观影视",
+      "name": "影视 | 农民",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
