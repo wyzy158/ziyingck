@@ -357,6 +357,16 @@
       "filterable": 0,
       "playerType": "1",
       "ext": "./lib//dadagui.json"  
+    },
+    {
+      "key": "UM",
+      "name": "影视｜UM",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/nfzw.json"
     },   
     {
       "key": "free",
