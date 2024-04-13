@@ -358,6 +358,16 @@
       "playerType": "1",
       "ext": "./lib//dadagui.json"  
     },
+    {
+      "key": "91",
+      "name": "影视｜91",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/91ys.json"
+    },
      {
       "key": "555",
       "name": "影视｜555",
