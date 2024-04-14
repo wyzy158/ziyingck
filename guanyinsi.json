@@ -59,16 +59,6 @@
       "ext": "https://bo.czys.me"
     },
     {
-      "key": "nongmin",
-      "name": "影视 | 农民",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/nongmin.json"
-    },
-    {
       "key": "低端",
       "name": "影视 | 低端",
       "type": 3,
