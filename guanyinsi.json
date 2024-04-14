@@ -317,6 +317,26 @@
       "ext": "./lib/996影视.json"
     },
     {
+      "key": "乐播",
+      "name": "影视｜乐播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/rebozj.json"
+    },
+    {
+      "key": "麻衣",
+      "name": "影视｜麻衣",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/mayiyahu.json"
+    },
+    {
       "key": "玩偶表哥",
       "name": "影视┃4K",
       "type": 3,
