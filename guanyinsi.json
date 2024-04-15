@@ -494,6 +494,326 @@
       "filterable": 1,
       "ext": "分类url:https://www.yanaifei.me/vod/type/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
     },
+    
+{
+ "key":"酷影视",
+ "name":"影视┃酷影",
+ "type":3,
+ "api":"csp_AppYsV2",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext":"https://www.tvkuys.xyz/api.php/app/"
+ },
+ {
+  "key":"天天",
+  "name":"影视┃天天",
+  "type":3,
+  "api":"csp_TTian",
+  "ext":"http://op.ysdqjs.cn"
+ },
+ {
+  "key":"橙汁",
+  "name":"影视┃橙汁",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext": {"分类":"短剧$42#电视剧$2#动漫$4#电影$1#综艺$3#纪录片$5","分类url":"https://ork.ink/show/{cateId}--------{catePg}---{year}.html"}
+ },
+ {
+  "key":"热播之家",
+  "name":"影视┃热播",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext": {"分类":"电影$1#电视剧$2#动漫$4#综艺$5","分类url":"https://rebozj.pro/type/{cateId}.html"}
+ },
+ {
+  "key": "csp_奇异",
+  "name":"影视┃奇异",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext": {"作者": "实沈","请求头": "手机","主页url": "https://www.777111.xyz","线路数组":"class=\"module\">&&</div>","线路标题":"class=\"module-tab-value\">&&</span>","搜索url": "https://www.777111.xyz/index.php/vod/search/wd/{wd}.html","分类url": "https://www.777111.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/year/{year}.html","分类": "电影&连续剧&动漫&综艺","分类值": "1&2&4&3"}
+ },
+ {
+  "key":"csp_hmhd",
+  "name":"影视┃河马",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext":{"作者": "实沈","站名": "河马影视","请求头": "手机","编码": "UTF-8","主页url": "https://www.hemahd.com/","线路标题":"class=\"pull-right1\">&&</span","分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}
+ },
+ {
+  "key":"csp_chrf",
+  "name":"影视┃小米",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext":{"作者": "实沈","站名": "小米影视","请求头": "手机","编码": "UTF-8","主页url": "https://www.chrf.cn/","分类url": "https://www.chrf.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{year}.html","分类":"电影&电视剧&综艺&动漫&纪录片&短剧","分类值": "1&2&3&4&28&36"}
+ },
+ {
+  "key":"csp_mgtva",
+  "name":"影视┃木瓜",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext":{"作者": "实沈","站名": "木瓜影视","请求头": "手机","编码": "UTF-8","主页url": "https://www.muguatva.com/","分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}
+ },
+ {
+  "key":"csp_ipianba",
+  "name":"影视┃片吧",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext":{"作者": "实沈","站名": "片吧影视","请求头": "手机","编码": "UTF-8","主页url": "https://www.ipianba.com/","导演": "导演：&&</a >","主演": "主演：&&</a >","简介": "style=\"display: none;\"&&</span>","线路标题": "[替换:选集>>线路]","搜索url": "https://www.ipianba.com/sou/{wd}-------------.html","分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"}
+ },
+ {
+  "key":"XBPQ_BaiPiao",
+  "name":"影视┃白嫖",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext":{"分类":"电影$1#电视剧$2#动漫$3#短剧$4#综艺$5","分类url":"https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"}
+ },
+  {
+      "key": "Wexalist",
+      "name": "影视┃秒播",
+      "type": 3,
+      "api": "csp_Wexalist",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "賤賤",
+      "name": "影视┃賤片",
+      "type": 3,
+      "api": "csp_WexJianpian",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexxiongdiys",
+      "name": "影视┃基友",
+      "type": 3,
+      "api": "csp_Wexxiongdiys",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "南瓜",
+      "name": "影视┃南瓜",
+      "type": 3,
+      "api": "csp_WexNgys",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexxpgtv",
+      "name": "影视┃红富士",
+      "type": 3,
+      "api": "csp_Wexxpgtv",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexdiguatv",
+      "name": "影视┃桃子",
+      "type": 3,
+      "api": "csp_Wexdiguatv",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexkukantv",
+      "name": "影视┃看呗",
+      "type": 3,
+      "api": "csp_Wexkukantv",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Tiantianys",
+      "name": "影视┃天天",
+      "type": 3,
+      "api": "csp_WexTiantianys",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "mingriyingshi",
+      "name": "影视┃明日",
+      "type": 3,
+      "api": "csp_WexMingriys",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Fujutv",
+      "name": "影视┃腐剧",
+      "type": 3,
+      "api": "csp_WexFujutv",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Fangniu4k",
+      "name": "影视┃放牛",
+      "type": 3,
+      "api": "csp_WexFangniu4k",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Kuyun77",
+      "name": "影视┃小七",
+      "type": 3,
+      "api": "csp_WexKuyun77",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexjiohub",
+      "name": "影视┃啾啾",
+      "type": 3,
+      "api": "csp_Wexjiohub",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexwencai",
+      "name": "影视┃文才",
+      "type": 3,
+      "api": "csp_Wexwencai",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Subaibai",
+      "name": "影视┃拜拜",
+      "type": 3,
+      "api": "csp_Subaibai",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "WexShijuedy",
+      "name": "影视┃看看",
+      "type": 3,
+      "api": "csp_WexShijuedy",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "影视┃伯伯",
+      "type": 3,
+      "api": "csp_WexNmys",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexbaipiao",
+      "name": "影视┃喇叭",
+      "type": 3,
+      "api": "csp_Wexbaipiao",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "哔嘀影视",
+      "name": "影视┃哔嘀",
+      "type": 3,
+      "api": "csp_WexBDys",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexlibhd",
+      "name": "影视┃进口",
+      "type": 3,
+      "api": "csp_Wexlibhd",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Diduanys",
+      "name": "影视┃深渊",
+      "type": 3,
+      "api": "csp_WexDiduanys",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "F4kvm",
+      "name": "影视┃纯享",
+      "type": 3,
+      "api": "csp_WexF4kvm",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexbttwo",
+      "name": "影视┃大鼻涕",
+      "type": 3,
+      "api": "csp_Wexbttwo",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Lingsanys",
+      "name": "影视┃第三",
+      "type": 3,
+      "api": "csp_Lingsanys",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexvipduanju",
+      "name": "影视┃短劇",
+      "type": 3,
+      "api": "csp_Wexvipduanju",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "BT",
+      "name": "影视┃BT之家",
+      "type": 3,
+      "api": "csp_Wexbtbbt",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list",
+        "ratio": 1
+      }
+    },
+    {
+      "key": "音范丝",
+      "name": "影视┃音范丝",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/fys.json"
+    },
+    {
+      "key": "MP4电影",
+      "name": "影视┃MP4",
+      "type": 3,
+      "api": "csp_WexMp4dy",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "新6V",
+      "name": "影视┃新6V",
+      "type": 3,
+      "api": "csp_WexXb6v",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Twobt",
+      "name": "影视┃电影",
+      "type": 3,
+      "api": "csp_WexTwobt",
+      "searchable": 1,
+      "changeable": 0
+    },
     {
       "key": "新浪",
       "name": "影视 | 新浪资源",
