@@ -315,8 +315,8 @@
         "aliToken": "tvfan/token.txt",
         "from": "4k|auto|fhd"
       }
-    },
-{
+    }
+ ],
      "doh": [
     {
       "name": "Google",
