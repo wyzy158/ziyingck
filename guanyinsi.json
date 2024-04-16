@@ -572,7 +572,7 @@
       "key": "Wexalist",
       "name": "影视┃秒播",
       "type": 3,
-      "api": "csp_Wexalist",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 1
     },
