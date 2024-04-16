@@ -2,32 +2,9 @@
   "spider": "./PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "sites": [
-    {
-      "key": "drpy_js_豆瓣",
-      "name": "🐼┃公众号┃肥猫宝贝",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
-      "key": "豆瓣",
-      "name": "🐼┃豆瓣┃预告",
-      "type": 3,
-      "api": "csp_YGP",
-      "playerType": 2,
-      "searchable": 0
-    },
-    {
-      "key": "nangua",
-      "name": "🎃┃南瓜┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/南瓜.js"
-    },
-    {
+   {
       "key": "新视觉",
-      "name": "🐦┃视觉┃影视",
+      "name": "视觉┃影视",
       "type": 3,
       "api": "csp_Xinsj",
       "searchable": 0,
@@ -37,7 +14,7 @@
     },
     {
       "key": "csp_Nkdy",
-      "name": "🏔┃耐看┃影视",
+      "name": "耐看┃影视",
       "type": 3,
       "playerType": "2",
       "api": "csp_Nkdy",
@@ -45,14 +22,14 @@
     },
     {
       "key": "csp_LiteApple",
-      "name": "🍎┃苹果┃影视",
+      "name": "苹果┃影视",
       "type": 3,
       "playerType": "2",
       "api": "csp_LiteApple"
     },
     {
       "key": "csp_Panda_玩偶哥哥",
-      "name": "👲┃玩偶┃影视",
+      "name": "玩偶┃影视",
       "api": "csp_Wogg",
       "type": 3,
       "searchable": 1,
@@ -63,13 +40,13 @@
     },
     {
       "key": "比特",
-      "name": "✌️️┃比特┃影视",
+      "name": "比特┃影视",
       "type": 3,
       "api": "csp_Bttwo"
     },
     {
       "key": "荐片",
-      "name": "🎬┃荐片┃影视",
+      "name": "荐片┃影视",
       "api": "csp_Jianpian",
       "type": 3,
       "playerType": "2",
@@ -77,7 +54,7 @@
     },
     {
       "key": "csp_Vidhub2",
-      "name": "🎼┃Vid┃影视",
+      "name": "Vid┃影视",
       "type": 3,
       "api": "csp_Vidhub2",
       "searchable": 1,
@@ -86,7 +63,7 @@
     },
     {
       "key": "厂长",
-      "name": "🏭┃厂长┃影视",
+      "name": "厂长┃影视",
       "type": 3,
       "playerType": "2",
       "api": "csp_Czsapp",
@@ -96,7 +73,7 @@
     },
     {
       "key": "csp_AppRZ",
-      "name": " 🕵┃忍者┃影视",
+      "name": " 忍者┃影视",
       "type": 3,
       "playerType": "2",
       "api": "csp_AppRZ",
@@ -104,21 +81,21 @@
     },
     {
       "key": "攻阁",
-      "name": "🏮┃攻阁┃影视",
+      "name": "攻阁┃影视",
       "type": 3,
       "api": "csp_Lggys",
       "playerType": 2
     },
     {
       "key": "csp_Freeok",
-      "name": "️️👌┃FreeOK┃影视",
+      "name": "️️FreeOK┃影视",
       "type": 3,
       "playerType": "1",
       "api": "csp_Freeok"
     },
     {
       "key": "csp_Nmys",
-      "name": "🌾┃农民┃影视",
+      "name": "农民┃影视",
       "type": 3,
       "api": "csp_Nmys",
       "playerType": "1",
@@ -129,7 +106,7 @@
     },
     {
       "key": "csp_Auete",
-      "name": "🦝┃Aue┃影视",
+      "name": "Aue┃影视",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -138,7 +115,7 @@
     },
     {
       "key": "csp_Kuaikan",
-      "name": "👀┃快看┃影视",
+      "name": "快看┃影视",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -147,7 +124,7 @@
     },
     {
       "key": "Libvio",
-      "name": "💐┃Lib┃影视",
+      "name": "Lib┃影视",
       "type": 3,
       "playerType": "1",
       "api": "./lib/drpy2.min.js",
@@ -155,14 +132,14 @@
     },
     {
       "key": "FreeOK",
-      "name": "️️👌┃Fre┃影视",
+      "name": "️️Fre┃影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/FreeOK.js"
     },
     {
       "key": "哔嘀",
-      "name": "️️💦┃哔嘀┃影视",
+      "name": "️️哔嘀┃影视",
       "type": 3,
       "api": "csp_Bdys",
       "searchable": 1,
@@ -172,7 +149,7 @@
     },
     {
       "key": "毛驴",
-      "name": "🦙┃毛驴┃影视",
+      "name": "毛驴┃影视",
       "type": 3,
       "api": "csp_MaoLv",
       "searchable": 1,
@@ -181,7 +158,7 @@
     },
     {
       "key": "兄弟",
-      "name": "👯┃兄弟┃影视",
+      "name": "兄弟┃影视",
       "type": 3,
       "api": "csp_Xdys",
       "searchable": 1,
@@ -190,14 +167,14 @@
     },
     {
       "key": "白嫖",
-      "name": "🌅┃白嫖┃影视",
+      "name": "白嫖┃影视",
       "type": 3,
       "api": "csp_BaiPiao",
       "playerType": "2"
     },
     {
       "key": "saohuo",
-      "name": " 👗┃骚火┃影视",
+      "name": " 骚火┃影视",
       "type": 3,
       "playerType": "2",
       "api": "./lib/drpy2.min.js",
@@ -205,7 +182,7 @@
     },
     {
       "key": "爱看影视",
-      "name": "❤┃爱看┃影视",
+      "name": "爱看┃影视",
       "type": 3,
       "playerType": "2",
       "api": "./lib/drpy2.min.js",
@@ -213,14 +190,14 @@
     },
     {
       "key": "外剧影视",
-      "name": "🙋┃外剧┃影视",
+      "name": "外剧┃影视",
       "type": 3,
       "playerType": "1",
       "api": "csp_KmeiJu"
     },
     {
       "key": "云播影视",
-      "name": "☁️┃云播┃影视",
+      "name": "云播┃影视",
       "type": 3,
       "playerType": "2",
       "api": "./lib/drpy2.min.js",
@@ -228,14 +205,14 @@
     },
     {
       "key": "csp_Xb6v",
-      "name": "🐤┃6V磁力┃影视",
+      "name": "6V磁力┃影视",
       "type": 3,
       "api": "csp_Xb6v",
       "playerType": "2"
     },
     {
       "key": "乐乐",
-      "name": "🎡️┃乐乐┃影视",
+      "name": "乐乐┃影视",
       "type": 1,
       "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
       "searchable": 1,
@@ -244,7 +221,7 @@
     },
     {
       "key": "开心",
-      "name": "🥰️┃开心┃影视",
+      "name": "开心┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -254,7 +231,7 @@
     },
     {
       "key": "小胡",
-      "name": "🍈️┃小胡┃影视",
+      "name": "小胡┃影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/小胡.js",
@@ -262,7 +239,7 @@
     },
     {
       "key": "低端",
-      "name": "🛣┃低端┃影视",
+      "name": "低端┃影视",
       "type": 3,
       "playerType": "2",
       "api": "./lib/drpy2.min.js",
@@ -270,7 +247,7 @@
     },
     {
       "key": "奇优",
-      "name": " 🍩┃奇优┃影视",
+      "name": " 奇优┃影视",
       "type": 3,
       "playerType": "2",
       "api": "./lib/drpy2.min.js",
@@ -278,14 +255,14 @@
     },
     {
       "key": "虎虎",
-      "name": "🐯┃虎虎┃影视",
+      "name": "虎虎┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/虎虎.json"
     },
     {
       "key": "黑狐",
-      "name": "🦊┃黑狐┃影视",
+      "name": "黑狐┃影视",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -327,37 +304,21 @@
     },
     {
       "key": "csp_SP360",
-      "name": "📺┃360┃官源",
+      "name": "360┃官源",
       "type": 3,
       "api": "csp_SP360"
     },
     {
       "key": "csp_Voflix",
-      "name": " 🎋┃Voflix┃影视",
+      "name": " Voflix┃影视",
       "type": 3,
       "api": "csp_Voflix",
       "playerType": "2",
       "ext": "https://www.voflix.me/"
     },
     {
-      "key": "csp_Duanju",
-      "name": "🎭┃短剧┃视频",
-      "type": 3,
-      "api": "csp_Duanju",
-      "playerType": "2",
-      "searchable": 0
-    },
-    {
-      "key": "种子短剧",
-      "name": "🍒┃短剧┃种子",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/种子短剧.js",
-      "playerType": 2
-    },
-    {
       "key": "alist",
-      "name": "🍰┃小鸭┃网盘",
+      "name": "小鸭┃网盘",
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
@@ -367,7 +328,7 @@
     },
     {
       "key": "csp_BookTing",
-      "name": "📚┃听书┃音频",
+      "name": "听书┃音频",
       "type": 3,
       "playerType": "2",
       "api": "csp_BookTing",
@@ -379,45 +340,29 @@
       }
     },
     {
-      "key": "樱花动漫",
-      "name": "🌸┃樱花┃动漫",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Ying"
-    },
-    {
       "key": "csp_Dm84",
-      "name": "🤣┃动漫┃巴士",
+      "name": "动漫┃巴士",
       "type": 3,
       "playerType": "2",
       "api": "csp_Dm84"
     },
     {
       "key": "csp_Anime1",
-      "name": "🐶┃日本┃动漫",
+      "name": "日本┃动漫",
       "type": 3,
       "playerType": "2",
       "api": "csp_Anime1"
     },
     {
       "key": "csp_Ysj",
-      "name": "📺┃異界┃动漫",
+      "name": "異界┃动漫",
       "type": 3,
       "playerType": "2",
       "api": "csp_Ysj"
     },
     {
-      "key": "csp_xifan",
-      "name": "🍚┃稀饭┃动漫",
-      "type": 3,
-      "api": "csp_Xifan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_FirstAid",
-      "name": "🚑┃急救┃教学",
+      "name": "急救┃教学",
       "type": 3,
       "api": "csp_FirstAid",
       "searchable": 0,
@@ -429,20 +374,8 @@
       "gridview": "0-0-4.1"
     },
     {
-      "key": " 在线┃直播1",
-      "name": "📺┃竞技┃直播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/JustLive.js",
-      "gridview": "0-0-H",
-      "style": {
-        "type": "rect",
-        "ratio": 1.68
-      }
-    },
-    {
       "key": "看球",
-      "name": "⚾┃看球┃直播",
+      "name": "看球┃直播",
       "type": 3,
       "api": "csp_Kanqiu",
       "searchable": 1,
@@ -454,41 +387,29 @@
       }
     },
     {
-      "key": "drpy_js_310直播",
-      "name": "🏀┃体育┃直播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "changeable": 0,
-      "gridview": 3,
-      "style": {
-        "type": "list"
-      },
-      "ext": "./lib/310直播.js"
-    },
-    {
       "key": "七夜",
-      "name": "🌖┃七夜┃网盘",
+      "name": "七夜┃网盘",
       "type": 3,
       "api": "csp_Dovx",
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {
       "key": "csp_Pansou",
-      "name": "🚢┃盘搜┃网盘",
+      "name": "盘搜┃网盘",
       "type": 3,
       "api": "csp_Pansou",
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {
       "key": "csp_PanSearch",
-      "name": "🚃┃盘搜┃网盘2",
+      "name": "盘搜┃网盘2",
       "type": 3,
       "api": "csp_PanSearch",
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {
       "key": "csp_UpYun",
-      "name": "🍒┃Up搜┃网盘",
+      "name": "Up搜┃网盘",
       "type": 3,
       "api": "csp_UpYun",
       "timeout": 30,
@@ -497,7 +418,7 @@
     },
     {
       "key": "csp_XiaoZhiTiao",
-      "name": "📜┃纸条┃网盘",
+      "name": "纸条┃网盘",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
@@ -506,86 +427,8 @@
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {
-      "key": "drpy_哔哩",
-      "name": "🅱┃哔哩┃合集",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "playerType": 1,
-      "ext": "./lib/B站.js"
-    },
-    {
-      "key": "儿童",
-      "name": "📚┃儿童┃启蒙",
-      "type": 3,
-      "api": "./lib/ddrpy2.m.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "./lib/兔小贝.js"
-    },
-    {
-      "key": "少儿",
-      "name": "📚┃少儿┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "./lib/少儿教育.json"
-    },
-    {
-      "key": "小学",
-      "name": "📚┃小学┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "./lib/小学课堂.json"
-    },
-    {
-      "key": "初中",
-      "name": "📚┃初中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "./lib/初中课堂.json"
-    },
-    {
-      "key": "高中",
-      "name": "📚┃高中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "./lib/高中课堂.json"
-    },
-    {
       "key": "push_agent",
-      "name": "关注公众号：肥猫宝贝",
+      "name": "观影视",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
@@ -605,7 +448,7 @@
       "url": "Web"
     },
     {
-      "name": "公众号：肥猫宝贝",
+      "name": "观影视",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
       "ext": {
@@ -640,7 +483,7 @@
       }
     },
     {
-      "name": "肥猫最可爱",
+      "name": "观影视分享",
       "type": 1,
       "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
       "ext": {
