@@ -13,12 +13,12 @@
       "name": "厂长线路"  
     },
     {
-      "url": "https://gitee.com/hailin886/fty/raw/master/tvbox/aishang.json",
-      "name": "爱尚影视"
+      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/lib/%E5%A4%87%E7%94%A8%E7%BA%BF%E8%B7%AF.json",
+      "name": "备用线路"
     },
     {
-      "url": "http://61.183.41.92:588/%E5%BD%B1%E8%A7%86/%E9%BC%8E%E7%9B%9BMAX.json",
-      "name": "小苹果源"
+      "url": "https://gitee.com/hailin886/fty/raw/master/tvbox/aishang.json",
+      "name": "爱尚影视"
     },
     {
       "url": "https://tv.youdu.fan:666/南风/",
@@ -61,16 +61,8 @@
       "name": "一夫线路"
     },
     {
-      "url": "https://agit.ai/leevi/xpg/raw/branch/master/api.json",
-      "name": "水果线路"
-    },
-    {
       "url": "http://home.jundie.top:81/top98.json",
       "name": "俊佬线路"
-    },
-    {
-      "url": "http://我不是.摸鱼儿.top",
-      "name": "摸鱼线路"
     },
     {
       "url": "https://jxjson.icu/balabala",
