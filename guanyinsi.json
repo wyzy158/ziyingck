@@ -59,14 +59,6 @@
       "ext": "https://bo.czys.me"
     },
     {
-      "key": "荐片",
-      "name": "┃荐片┃影视",
-      "api": "csp_Jianpian",
-      "type": 3,
-      "playerType": "2",
-      "ext": "http://api2.rinhome.com"
-    },
-    {
       "key": "低端",
       "name": "影视 | 低端",
       "type": 3,
