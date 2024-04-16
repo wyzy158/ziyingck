@@ -506,13 +506,6 @@
  "ext":"https://www.tvkuys.xyz/api.php/app/"
  },
  {
-  "key":"天天",
-  "name":"影视┃天天",
-  "type":3,
-  "api":"csp_TTian",
-  "ext":"http://op.ysdqjs.cn"
- },
- {
   "key":"橙汁",
   "name":"影视┃橙汁",
   "type":3,
