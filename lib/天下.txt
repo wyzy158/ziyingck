@@ -4,7 +4,7 @@
 
 "sites":[
 { "key": "drpy_js_豆瓣", "name": "天下线路（接口定期维护）", "type": 3, "api": "./lib/drpy2.min.js", "ext": "./lib/douban.js" }, 
-{"key":"YGP","name":"👉春盈┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"YGP","name":"新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
       {
       "key": "T4-nongmin",
       "name": "农民影院",
