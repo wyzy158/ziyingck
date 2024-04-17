@@ -117,6 +117,16 @@
       "ext": "./lib/鲸落.json"
     },
     {
+      "key": "土豆阿里",
+      "name": "影视 | 土豆阿里",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/土豆阿里.json"
+    },
+    {
       "key": "Vidhub视频",
       "name": "影视｜vidhub",
       "type": 3,
