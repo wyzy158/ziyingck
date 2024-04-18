@@ -59,15 +59,15 @@
       "ext": "https://bo.czys.me"
     },
     {
-      "key": "csp_XYQHiker_VSYY",
-      "name": "短剧",
+      "key": "duanju",
+      "name": "影视 | 短剧",
       "type": 3,
       "api": "csp_Duanjuw",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.besttoneh.com/"
+      "ext": "https://www.besttoneh.com/vsaitp/34.html"
     },
     {
       "key": "低端",
