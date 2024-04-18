@@ -156,7 +156,17 @@
       "filterable": 1,
       "ext": "./lib/nfzw.json"
     },
-     {
+    {
+      "key": "多多影音",
+      "name": "影视｜多多",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/多多影音.json"
+    },
+    {
       "key": "Auete",
       "name": "影视｜Auete",
       "type": 3,
