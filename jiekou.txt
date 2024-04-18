@@ -13,6 +13,10 @@
       "name": "厂长线路"  
     },
     {
+      "url": "https://raw.gitcode.com/2301_79001949/jiekou/raw/main/xdcj.json",
+      "name": "采集线路"
+    },
+    {
       "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/lib/%E5%A4%87%E7%94%A8%E7%BA%BF%E8%B7%AF.json",
       "name": "备用线路"
     },
