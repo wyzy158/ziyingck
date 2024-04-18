@@ -197,16 +197,6 @@
       "ext": "./lib/LIBVIOxbpq.json"
     },
     {
-      "key": "csp_XYQHiker_蚂蚁4K",
-      "name": "影视 | 蚂蚁4K ",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/蚂蚁4K.json"
-    },
-    {
       "key": "NikeTV",
       "name": "影视｜Nike影视",
       "type": 3,
