@@ -59,16 +59,16 @@
       "ext": "https://bo.czys.me"
     },
     {
-      "key": "短剧",
-      "name": "影视┃短剧",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "timeout": 15,
+      "key": "横版影院",
+      "name": "短剧   ",
+      "type": 1,
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.besttoneh.com/"
+      "categories": [
+      "短剧"
+      ]
     },
     {
       "key": "低端",
