@@ -77,6 +77,10 @@
       "name": "追剧影院"  
     },
     {
+      "url": "https://raw.gitcode.com/2301_79001949/jiekou/raw/main/%E7%9F%AD%E5%89%A7.json",
+      "name": "短剧线路"
+    },
+    {
       "url": "https://www.yingm.cc/dm/dm.json",
       "name": "动漫频道"
     },
