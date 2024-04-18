@@ -724,15 +724,6 @@
       "changeable": 1
     },
     {
-      "key": "短剧网",
-      "name": "影视 | 短剧网",
-      "type": 3,
-      "api": "csp_Duanjuw",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "T4-360",
       "name": "影视 | 360影视",
       "type": 4,
