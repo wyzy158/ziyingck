@@ -59,6 +59,17 @@
       "ext": "https://bo.czys.me"
     },
     {
+      "key": "csp_XYQHiker_VSYY",
+      "name": "短剧",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_XYQHiker",
+      "jar": "./jars/csp_XYQHiker_VSYY.jar",
+      "ext": "./lib/VS影院.json"
+    },
+    {
       "key": "低端",
       "name": "影视 | 低端",
       "type": 3,
