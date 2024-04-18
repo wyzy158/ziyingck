@@ -45,10 +45,6 @@
       "name": "荐片资源"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/tvbox/master/%F0%9F%9A%98%E4%BA%8E%E6%B0%8F%E5%BD%B1%E4%B8%9A.txt",
-      "name": "于氏影业"
-    },
-    {
       "url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xiaomeitv.json",
       "name": "小美线路"
     },
