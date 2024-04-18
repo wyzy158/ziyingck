@@ -61,13 +61,12 @@
     {
       "key": "duanju",
       "name": "影视 | 短剧",
-      "type": 3,
-      "api": "csp_Duanjuw",
+      "type": 0,
+      "api": "https://www.besttoneh.com/vsaitp/34.html",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.besttoneh.com/vsaitp/34.html"
+      "filterable": 1
     },
     {
       "key": "低端",
