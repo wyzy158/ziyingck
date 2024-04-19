@@ -62,17 +62,6 @@
       "changeable": 1,
       "ext": "https://www.80yy3.com/"
     },
-     {
-      "key": "短剧",
-      "name": "短剧┃直连",
-      "type": 3,
-      "api": "csp_duanju",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.syshunfa.com/"
-    },
     {
       "key": "南瓜",
       "name": "南瓜┃App",
