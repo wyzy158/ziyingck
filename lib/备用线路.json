@@ -62,6 +62,20 @@
       "changeable": 1,
       "ext": "https://www.80yy3.com/"
     },
+     {
+      "key": "dj",
+      "name": "短剧┃直连",
+      "type": 3,
+      "api": "csp_duanju",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext":  {"分类url": "https://www.syshunfa.com/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$5#短剧$21"
+      }
+    },  
+    
     {
       "key": "南瓜",
       "name": "南瓜┃App",
