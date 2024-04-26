@@ -39,6 +39,36 @@
       }
     },
     {
+      "key": "多聚影视",
+      "name": "影视 | 多聚影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "分类url:https://duoju.vip/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
+    },
+    {
+      "key": "海兔",
+      "name": "影视 | 海兔影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "filterable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "分类url:https://www.haituu.tv/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
+    },
+    {
+      "key": "无心影视",
+      "name": "影视 | 无心影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "filterable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "分类url:https://www.57mv.cn/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/,分类:电影$1#电视剧$2#综艺$3#动漫$4#动画片$20#短剧$29"
+    },
+    {
       "key": "阿里云盘登录",
       "name": "Token | 获取",
       "type": 3,
