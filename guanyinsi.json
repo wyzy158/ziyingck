@@ -26,6 +26,19 @@
       }
     },
     {
+      "key": "zztong",
+      "name": "饭团影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "http://www.zztong.net/t/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"
+      }
+    },
+    {
       "key": "阿里云盘登录",
       "name": "Token | 获取",
       "type": 3,
