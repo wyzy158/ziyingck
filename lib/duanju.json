@@ -1,0 +1,100 @@
+{
+  "spider": "./jar/dongchen.jar",
+  "sites": [
+    {
+      "key": "榜一短剧",
+      "name": "榜一短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/duanjuu.json"
+    },
+
+    {
+      "key": "无忧短剧",
+      "name": "无忧短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://6741.kstore.space/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"分类": "古装言情$17#战神$19#神医$21#神豪$23#超能$25#萌宝$27#复仇$29#脑洞$31#赘婿$33#玄幻$35#热血$37#逆袭$1#甜宠$3#虐恋$5#穿越$7#重生$9#都市$11#现代言情$13#古装$15#其他$39",
+                "分类url": "http://5uduanju.com/vodtype/{cateId}.html"
+            }
+    },
+
+    {
+      "key": "Wexduanjuvop",
+      "name": "短剧直连",
+      "type": 3,
+      "api": "csp_Wexduanjuvop",
+      "jar": "./jar/wex.txt",
+      "searchable": 1,
+      "changeable": 1
+    },
+    
+
+{     "key":"横版影院",
+      "name":"横版短剧",
+      "type":1,
+      "api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "categories":["短剧"]
+},
+
+
+{
+	"key": "快看采集",
+	"name": "快看短剧",
+	"searchable":1,
+	"type": 1,"playerType":2,
+	"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
+	"categories":[
+        "热门短剧",
+        ]
+        } 
+
+
+],
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "parses": [
+    {
+      "name": "聚合1",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "聚合0",
+      "type": 3,
+      "url": "Web"
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu"
+  ],
+  "wallpaper": "http:/太硬.top/深色壁纸/api.php"
+}
