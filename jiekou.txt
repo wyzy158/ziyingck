@@ -12,6 +12,10 @@
       "url": "https://k.seavod.cc/uploads/itvbox/json/yxdezynew.json",
       "name": "短剧频道"  
     },
+     {
+      "url": "https://raw.gitcode.com/2301_79001949/jiekou/raw/main/%E7%9F%AD%E5%89%A7.json",
+      "name": "短剧线路"
+    },
     {
       "url": "https://raw.gitcode.com/2301_79001949/jiekou/raw/main/xdcj.json",
       "name": "采集线路1"
@@ -79,10 +83,6 @@
     {
       "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t.json",
       "name": "追剧影院"  
-    },
-    {
-      "url": "https://raw.gitcode.com/2301_79001949/jiekou/raw/main/%E7%9F%AD%E5%89%A7.json",
-      "name": "短剧线路"
     },
     {
       "url": "https://www.yingm.cc/dm/dm.json",
