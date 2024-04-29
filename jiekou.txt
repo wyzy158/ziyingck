@@ -21,6 +21,10 @@
       "name": "采集线路1"
     },
     {
+      "url": "https://raw.gitcode.com/2301_79001949/jiekou/raw/main/cytx.json",
+      "name": "采集线路2"
+    },
+    {
       "url": "https://codeberg.org/Xym/ymz/raw/branch/main/夜猫子",
       "name": "采集线路3"
     },
