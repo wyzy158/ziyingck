@@ -58,7 +58,7 @@
     },
     {
       "url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xiaomeitv.json",
-      "name": "苹果线路"
+      "name": "影视专享"
     },
     {
       "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json",
