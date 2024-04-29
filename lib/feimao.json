@@ -2,22 +2,7 @@
   "spider": "./PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "sites": [
-    {
-      "key": "drpy_js_豆瓣",
-      "name": "🐼┃公众号┃肥猫宝贝",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
-      "key": "豆瓣",
-      "name": "🐼┃豆瓣┃预告",
-      "type": 3,
-      "api": "csp_YGP",
-      "playerType": 2,
-      "searchable": 0
-    },
-    {
+   {
       "key": "nangua",
       "name": "🎃┃南瓜┃影视",
       "type": 3,
