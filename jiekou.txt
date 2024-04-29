@@ -10,7 +10,7 @@
     },
     {
       "url": "https://k.seavod.cc/uploads/itvbox/json/yxdezynew.json",
-      "name": "厂长线路"  
+      "name": "短剧频道"  
     },
     {
       "url": "https://raw.gitcode.com/2301_79001949/jiekou/raw/main/xdcj.json",
