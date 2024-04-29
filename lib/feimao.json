@@ -3,13 +3,6 @@
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "sites": [
     {
-      "key": "csp_Nkdy",
-      "name": "🏔┃耐看┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Nkdy"
-    },
-    {
       "key": "csp_NfApp",
       "name": "🔷┃南坊┃影视",
       "type": 3,
