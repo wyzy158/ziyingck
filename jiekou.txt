@@ -58,15 +58,11 @@
     },
     {
       "url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xiaomeitv.json",
-      "name": "小美线路"
+      "name": "苹果线路"
     },
     {
       "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json",
       "name": "炫猪线路"
-    },
-    {
-      "url": "http://yydf.540734621.xyz/yydf/yydf/bd/watson/watson.json",
-      "name": "苹果线路"
     },
     {
       "url": "https://jxjson.icu/balabala",
