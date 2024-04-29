@@ -53,10 +53,6 @@
       "name": "金影影视"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/tvbox/master/%F0%9F%8E%B5%E7%8C%AB%E7%88%AA%E8%B5%84%E6%BA%90.txt",
-      "name": "荐片资源"
-    },
-    {
       "url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xiaomeitv.json",
       "name": "小美线路"
     },
@@ -66,11 +62,7 @@
     },
     {
       "url": "http://yydf.540734621.xyz/yydf/yydf/bd/watson/watson.json",
-      "name": "一夫线路"
-    },
-    {
-      "url": "http://home.jundie.top:81/top98.json",
-      "name": "俊佬线路"
+      "name": "苹果线路"
     },
     {
       "url": "https://jxjson.icu/balabala",
