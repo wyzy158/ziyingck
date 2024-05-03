@@ -69,10 +69,6 @@
       "name": "炫猪线路"
     },
     {
-      "url": "https://jxjson.icu/balabala",
-      "name": "巴拉线路"
-    },  
-    {
       "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json",
       "name": "心魔线路"
     },
