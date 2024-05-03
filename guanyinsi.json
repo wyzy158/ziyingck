@@ -6,7 +6,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./lib/直播挺快.txt",
+      "url": "./lib/itv.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     }
