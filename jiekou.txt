@@ -60,6 +60,10 @@
       "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json",
       "name": "采集线路10"
     },
+    {
+      "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/Yu.json",
+      "name": "采集线路11"
+    },
      {
       "url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xiaomeitv.json",
       "name": "影视专享"
