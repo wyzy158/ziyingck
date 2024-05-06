@@ -67,7 +67,7 @@
     {
       "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/ceshi.json?ref_type=heads",
       "name": "采集线路13"
-    }
+    },
      {
       "url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xiaomeitv.json",
       "name": "影视专享"
