@@ -5,10 +5,6 @@
       "name": "自营线路"   
     },
     {
-      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/lib/feimao.json",
-      "name": "推荐线路"
-    },
-    {
       "url": "https://k.seavod.cc/uploads/itvbox/json/yxdezynew.json",
       "name": "影视短剧"  
     },
@@ -63,6 +59,10 @@
     {
       "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/Yu.json",
       "name": "采集线路11"
+    },
+    {
+      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/lib/feimao.json",
+      "name": "采集线路12"
     },
      {
       "url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xiaomeitv.json",
