@@ -559,7 +559,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/少儿教育.json"
+      "ext": "./lib/少儿.json"
     },
     {
       "key": "小学",
@@ -569,7 +569,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/小学课堂.json"
+      "ext": "./lib/小学.json"
     },
     {
       "key": "初中",
@@ -579,7 +579,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/初中课堂.json"
+      "ext": "./lib/初中.json"
     },
     {
       "key": "高中",
@@ -589,7 +589,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/高中课堂.json"
+      "ext": "./lib/高中.json"
     }
   ],
   "parses": [
