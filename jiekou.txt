@@ -77,6 +77,10 @@
       "name": "追剧影院"  
     },
     {
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "name": "少小初高"
+    },
+    {
       "url": "https://www.yingm.cc/dm/dm.json",
       "name": "动漫频道"
     },
