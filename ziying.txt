@@ -1,0 +1,45 @@
+{
+  "urls": [
+    {
+      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/guanyinsi.json",
+      "name": "自营线路"   
+    },
+    {
+      "url": "https://raw.gitcode.com/2301_79001949/jiekou/raw/main/%E7%9F%AD%E5%89%A7.json",
+      "name": "短剧线路1"
+    },
+    {
+      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+      "name": "短剧线路2"
+    },
+    {
+      "url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xiaomeitv.json",
+      "name": "影视专享"
+    },
+    {
+      "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t.json",
+      "name": "追剧影院"  
+    },
+    {
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "name": "少小初高1"
+    },
+    {
+      "url": "https://gitee.com/heidelinou/ss/raw/master/%E7%B2%BE%E7%AE%80.json",
+      "name":"少小初高2"
+    },
+    {
+      "url": "https://www.yingm.cc/dm/dm.json",
+      "name": "动漫频道"
+    },
+    {
+      "url": "http://tt.iitvba.com/bata/老年戏曲.json",
+      "name": "老年戏曲"
+    }
+   
+   
+  ]
+}
+
+
+ 
