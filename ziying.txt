@@ -14,7 +14,15 @@
     },
     {
       "url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xiaomeitv.json",
-      "name": "影视专享"
+      "name": "影视线路1"
+    },
+    {
+      "url": "https://pastebin.com/raw/5NHaxyGR",
+      "name": "影视线路2"
+    },
+    {
+      "url": "https://raw.gitcode.com/2301_79001949/jiekou/raw/main/xdcj.json",
+      "name": "影视线路3
     },
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
