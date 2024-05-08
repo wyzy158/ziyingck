@@ -6,7 +6,11 @@
     },
     {
       "url": "https://www.macms.pro/box/3.json",
-      "name": "影视短剧儿童"  
+      "name": "影视短剧儿童1"  
+    },
+    {
+      "url": "https://k.seavod.cc/uploads/itvbox/json/yxdezynew.json",
+      "name": "影视短剧儿童2"  
     },
     {
       "url": "https://raw.gitcode.com/2301_79001949/jiekou/raw/main/%E7%9F%AD%E5%89%A7.json",
