@@ -5,7 +5,7 @@
       "name": "自营线路"   
     },
     {
-      "url": "https://k.seavod.cc/uploads/itvbox/json/yxdezynew.json",
+      "url": "https://www.macms.pro/box/3.json",
       "name": "影视短剧儿童"  
     },
     {
