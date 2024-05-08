@@ -1,0 +1,423 @@
+央视频道,#genre#
+CCTV-1 综合,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/bHJISHhtajJnUmZLaVI4Q0hWSkQ4VnNlZ29TYi9DbVo5NGlpL1NJK3NzSzJ0K09uOVUrZ0lpL0M3cVZlS3cvbVNISGJEUXZKdDkxaUVBWUR4WUR4OU9VcUVOUGlHS2ha/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源2
+CCTV-1 综合,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3RaUSt6Y2p4OUYyWkd1L2x1elFPVmxscnM4SjhSODdsMGhwSFl3WVBPL2dsUU5kNlBrMWoybXVaVzA0dVltNk1UTHhNNk9lOEJMNk16L2ZoaVphakJV/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源3
+CCTV-1 综合,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndvNnhWVzRaVFdPdjlJOUNQdG9IMVcybElwUEhBMUdocTFqam9jVFo1QlR0aFFHdi9jR0xody8xZ3haeUc4UXgwTExUbTBuZWZOS24ydmNHb0hFdXZtanhVUldlSnpyWkU9/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源4
+CCTV-1 综合,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhPalBMSHRWM1M3RXhhbVJtOWVPL0s4eXZNenlaUnRXQ1laN0hRNWhRQ01ET2pNTnRWUnRFTHJ2MUJPdEVsMFp0b09jYnJoMldsZ3c9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源5
+CCTV-1 综合,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndXc2ZsVm9uelBaNnNLUXVoT09rU2VwdVVWLzVObURyV2UrUnh1dFVOVFYyalJHWEFCclFqQWU5SVpxbXZRQmpvc0graUdSRVVxS3c9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源6
+CCTV-1 综合,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M085ck5Yei9EYWJxVDZENytaakd6aXdYakxBYkY1WEk1QTUyN0cxOHRtV1pK/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源7
+CCTV-1 综合,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnlyU2Y3clpSbnV6am0weEREdFRBU2pIdWx6Tll6MmVqb29uWWpDbkptVjh3dEVnN3QwS0x4ZEdXVS9YM3BIb2YySTdjYnEyZ0hjQlE9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源8
+
+CCTV1 综合,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
+CCTV1 综合,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
+CCTV1 综合,http://121.27.126.107:809/hls/1/index.m3u8
+CCTV1 综合,http://121.27.126.129:809/hls/1/index.m3u8
+CCTV1 综合,http://121.27.126.51:809/hls/1/index.m3u8
+CCTV1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV1 综合,http://gzly.hkychina.com:6001/rtp/239.252.219.200:5140?Cf=cfss.cc
+CCTV1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV2 财经,http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
+CCTV2 财经,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV2 财经,http://gzly.hkychina.com:6001/rtp/239.252.220.183:5140?Cf=cfss.cc
+CCTV2 财经,http://121.27.126.129:809/hls/2/index.m3u8
+CCTV2 财经,http://121.27.126.107:809/hls/2/index.m3u8
+CCTV2 财经,http://121.27.126.51:809/hls/2/index.m3u8
+CCTV2 财经,http://123.118.51.157:8888/rtp/239.3.1.60:8084
+CCTV2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
+CCTV2 财经,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
+CCTV-2 财经,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yMWdqVmdTY0JnS1lzOFNnQUxmdGUxRDBaVk9sbkZZdU1lM2NQQlBZSXJiOFpCSVJ4b2g2QVJBQWJpamx5S2V5R05NaUYreTZOSHdXVXE1U1ZLdU5OMk5DUzV4L050MmJEanVscjNwcys1aXdQTjRudTJ3S1Iyc1cyL2EvL3FSOEt6bUVCQnJtQWpFbw==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV6_源2
+CCTV-2 财经,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yMWdqVmdTY0JnS1lzOFNnQUxmdGUxRDBaVk9sbkZZdU1lM2NQQlBZSXJiOFpCSVJ4b2g2QVJBQWJpamx5S2V5R05NaUYreTZOSHdXT01BN0IrWld6bGFHSldKNXNVYWt6MENpNFZRUndjRHR5TmVRTnVvWTcyUEgrWDV5NUZtQ1V3RzM1VkliUDlnRw==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV6_源3
+CCTV-2 财经,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yNUQrTHRodzFvUEsrQ29peTZKZFFWTTVyT0ZKVlhVYUltL280K1I3R0xBUGxLVUtNeEJSNEFEK1RSZDdpZ3ZibkdLT01lcDZvN0p1S3hDSVJrMlEvaG9aaEFwWGdSeWwvYXN1RkxNMjFnbFNuUUVNVFpNd0RLYzFaK3VKMDBTdVA3ajVmaklIaVMyNGJyTWVSNzVRODk4YitldS95WGZLL0w4S1pZbHdMNWowREMvYUxnN1R6UmcrYzN0WFNONms2UUVSbHBHN1FkUU14Zkl2djMvWUg3S3RmVnllazBNK010eU82MkRBMXE5ei9pOWJhODdzdUVvU2ptYWxjeXZrZmFoS3dSbEx3UjNwSldjalhSd3pTK0RLNmFvZjFGdUVodz09/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV6_源4
+CCTV-2 财经,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yNUQrTHRodzFvUEsrQ29peTZKZFFWTTVyT0ZKVlhVYUltL280K1I3R0xBUGxLVUtNeEJSNEFEK1RSZDdpZ3ZibkdLT01lcDZvN0p1S3hDSVJrMlEvaG9aaEFwWGdSeWwvYXN1RkxNMjFnbFNuUUVNVFpNd0RLYzFaK3VKMDBTdVA3ajVmaklIaVMyNGJyTWVSNzVRODk4YitldS95WGZLL0w4S1pZbHdMNWowREMvYUxnN1R6UmcrYzN0WFNONms2UUVSbHBHN1FkUU14Zkl2djMvWUg3S3RmVnllazBNK010eU82MkRBMXE5ei9pOWJhODdzdUVvU2ptYWxjeXZrZlo2cVhWMGh0cSt1a0N6Vk5wdHNjd2Mwb2lsWlJaUDhEZz09/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV6_源5
+CCTV-3 综艺,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/bHJISHhtajJnUmZLaVI4Q0hWSkQ4VnNlZ29TYi9DbVo5NGlpL1NJK3NzSzJ0K09uOVUrZ0lwWmJGR09MeUdnQ2lRZjZSMStxRWFVZWtGMGwxYm9OVXVLSjU1cnUyWmVp/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源1
+CCTV-3 综艺,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndXc2ZsVm9uelBaNnNLUXVoT09rU2VwdVVWLzVObURyV2UrUnh1dFVOVFY1bVJxNFg4d1RSMC8vTkNMYWEwU0lkQ2RHRkNFS0ZiQksvTENxZnVyYXhB/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源2
+CCTV-3 综艺,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3RaUSt6Y2p4OUYyWkd1L2x1elFPVmxscnM4SjhSODdsMGhwSFl3WVBPL2dwaG55VFJxd2E2Rmw1dGMvcEJpSW96U2RUbkJ3M2pJc0s2YzlOTkFkSDE1/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源3
+CCTV-3 综艺,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TENuMHlKbWU3Zno1ZEpWQ0dRc0tzZ3J2QjV2YjgxMDU4VDQ5YTY4WWFnTTNDR2dDZGV5emo5SlpxWDdPM0lHd0QrQ2x4cjc4UjQ3T1FMbXMwSVBPVGJhUFZoRnBjZFJW/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源4
+CCTV-3 综艺,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Vjc5eXFtcmZFa3JrQ1dhZTV0N1FCZm1vei9McHh1NVplT0tYWVRMOUhadThKYmUxT3pUSndZdnBWcEJVSkZYQmplcGZ4STBGdUIxeE5tWS9Fc3R5Vmc9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源5
+CCTV-3 综艺,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3RaUSt6Y2p4OUYyWkd1L2x1elFPVmxscnM4SjhSODdsMmVEZjRtWS9memN3ZjlaN2I4akdkclBuNW5hNFBRK1JLNFl2Sm1IUk9PaTlXa0Q1RFFRcnNk/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源6
+CCTV-3 综艺,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/bHJISHhtajJnUmZLaVI4Q0hWSkQ4VnNlZ29TYi9DbVo5NGlpL1NJK3NzSzJ0K09uOVUrZ0lpL0M3cVZlS3cvbUVCUDZVRWhLeWk4VitPeVI5RXZpMlpoblA0dWFzTkI0/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源7
+CCTV-3 综艺,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhCTmc5WmpZQzJUYXVBOEt2MXo1cytDc1hCZ0V6Ym1Ua0JWYmFVVkxta0N3MUg1UjZ4L1lqVi9zOXNteGNuUlRiTzZlT3A1bHBqSi9lck81N1E1OEo2/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源8
+CCTV-3 综艺,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0FJZFd6b3FjdlVCRG50UkNJM0QxZk11Uk84cll0Z2dpUFVUKzM5c2tYeVZNSElXUkdBVStOR3FHcWVLdGp3ZW9HbmxQcnlmR2dHRHJWam1GVHBzeFRXbUdqeXhWWHdrYXM9/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源9
+CCTV-3 综艺,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TENuMHlKbWU3Zndhb1NoUXVSWkVTUFVud096YkpzdHdVYkhqMjVBSiswaDlHQWZBK25OSTNaeXB0QVNPam1MS3BYM0lDekN0cmlTNHRjQ3p1dGNUK1E9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源10
+CCTV-3 综艺,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yNUQrTHRodzFvUEtSNWJvOENQM2VhL1kvODd2RTcwTmRaMFowajFUelpUVkphMU9sV3BpMW9OWFlXSkdYUk9ydjI4L3pUOHV4Q1QvU0hXbXFaUldCRHBFSCtIU3lvdmlUTnJrTi8rYVVwakRJYUUwNFVMUWdKK1VXeHFMOUtPSzN2cWhsMCtZSC82SUJjdWgxU005TklucElUT3ViaEcxOXU4RkIzSytYTmdrYm9VYzF4MHB0MnBLVm1wOXBnR1Evc3Z6YTQyMGs5WmFIcjFkWEN2OCt5RmxUZFhGRUdhb3RyUjFrOHZVWVBLM2k4KzhVUUJDQWhOWWh0UlVaS0VIMDZIcVV3SUluYVdGTlBFOXI5MmNCTWoyMFk2NHZZbEZNR0tDOUZxdWVrUXUxM3hEQjdBRzlOcE1ZRk9CNEppdFVrREptZ2cydEN5VQ==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV6_源1
+CCTV-3 综艺,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yMWdqVmdTY0JnS1lzOFNnQUxmdGUxRDBaVk9sbkZZdU1lM2NQQlBZSXJiOFpCSVJ4b2g2QVJBQWJpamx5S2V5R05NaUYreTZOSHdXVXE1U1ZLdU5OMk83UWdwWEw3dTJHSFhlNUFweENFMDZHVzB0SkprVmQzNHJvc1VYVnMwTTB6QlFoMGVlSW1FMg==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV6_源2
+CCTV-3 综艺,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yNUQrTHRodzFvUEsrQ29peTZKZFFWTTVyT0ZKVlhVYUltL280K1I3R0xBUGxLVUtNeEJSNEFBQnRHeXJ0Lzh0dXdQWU1WNU95M1lzOXVZNERzSHZQa2RyaU5KdEJid0g5ckFxQ3VXNHZ2eVZlcTRGb1JrcWxIb2QzMlI5Ry9yZGhoUXNMMzlVQUp5WHBtK3JzUjFQdnFQZkpCbmhETlkrQ0cySXJJeHVkN1owenNkRUFsRUM3MkdVZlRkVThhMWIvNTdVdkR5SUFWUkpaeHRMSkVpZGZQM01JSlNxb05iVytzSHM1WFNlRnUwSkJvclluSTlYRktka0VBT3ZabG5aMEt5VU11L1FpM3laR1lqaFAxemVRL2c9/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV6_源3
+CCTV-3 综艺,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yMWdqVmdTY0JnS1lzOFNnQUxmdGUxRDBaVk9sbkZZdU1lM2NQQlBZSXJiOFpCSVJ4b2g2QVJBQWJpamx5S2V5R05NaUYreTZOSHdXVXE1U1ZLdU5OMk83UWdwWEw3dTJHSFhlNUFweENFMDZHVzB0SkprVmQzNHJvc1VYVnMwTTB6QlFoMGVlSW1FMg==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV6_源4
+CCTV-3 综艺,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yMWdqVmdTY0JnS1lzOFNnQUxmdGUxRDBaVk9sbkZZdU1lM2NQQlBZSXJiOFpCSVJ4b2g2QVJBQWJpamx5S2V5R05NaUYreTZOSHdXT01BN0IrWld6bFptbm1wR3haeWw0a0h2SVhlZmxCQWJSb0tnSkRGblpzaGtlUkdPeW1MYmVpYUZCMmovekFrZA==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV6_源5
+CCTV-3 综艺,http://59.173.243.210:9901/tsfile/live/0003_1.m3u8
+CCTV-3 综艺,http://58.57.21.166:9901/tsfile/live/0003_1.m3u8
+CCTV-3 综艺,http://www.yao87.com:4022/udp/239.76.253.153:9000
+CCTV3 综艺,http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8
+CCTV3 综艺,http://58.220.219.14:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3 综艺,http://110.80.17.38:9901/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV3 综艺,http://111.160.17.2:59901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3 综艺,http://gzly.hkychina.com:6001/rtp/239.252.219.252:5140?Cf=cfss.cc
+CCTV3 综艺,http://121.27.126.103:809/hls/3/index.m3u8
+CCTV3 综艺,http://121.27.126.129:809/hls/3/index.m3u8
+CCTV3 综艺,http://121.27.126.107:809/hls/3/index.m3u8
+CCTV-4 中文国际,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0NIUENmMzNLMEJGZUUySXpFdWYvL0R4YkNmVVhTamJWcjJEczE2NWxSZjJjMzN0bkh4aElZTjVYTzdBNXk4di9tbHovQ1hBS3dNM2k4RlhYcWQxVnpPUkVyeU9LWkFVcWx2YU5melZDUVV2VUNuVGljQmNIWHdERmREc1l0TUwrZz0=/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源1
+CCTV-4 中文国际,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/bHJISHhtajJnUmZLaVI4Q0hWSkQ4VnNlZ29TYi9DbVo5NGlpL1NJK3NzSzJ0K09uOVUrZ0lwWmJGR09MeUdnQ1FZd2RzeUw3N1lhclhoaEVLWEZwL2JxMHk4KytKVEtw/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源2
+CCTV-4 中文国际,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/bHJISHhtajJnUmZLaVI4Q0hWSkQ4VnNlZ29TYi9DbVo5NGlpL1NJK3NzSzJ0K09uOVUrZ0luSXk4WWk2VTZ6ZmcyWitMY3UvenlQcDhzQk5yd3dMeVVBbmVTcFpCVSsw/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源3
+CCTV-4 中文国际,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/bHJISHhtajJnUmR6TXlKS1RDbHdReEY2cmJRbnBTc0JaT1licHdSNGtRV3ZJU25Wc2hhOEtkeEhxZHFrVkNLK0FmL0daSVhDeGczWFV6bGx6TzBKaHc9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源4
+CCTV-4 中文国际,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/bHJISHhtajJnUmZLaVI4Q0hWSkQ4VnNlZ29TYi9DbVo5NGlpL1NJK3NzSzJ0K09uOVUrZ0luSXk4WWk2VTZ6ZlZ4ejNjeUdnK2NvRkRBRmtOa0ZHZEx0OU9DYnJTdEhu/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源5
+CCTV-4 中文国际,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0RmTURWTEh3NmZ6ZzZnZ053MW1NQnlpOHVZTnVhazFqRHlMSXAvR1Vmc2RFNzFDY2tnbE9nUFUwNzVwUzMzVWlvTE0vRjRDei9UTWc9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源6
+CCTV-4 中文国际,http://111.160.17.2:59901/tsfile/live/1000_1.m3u8
+CCTV-4 中文国际,http://gd.ikhs.cn:8880/rtp/239.69.1.138:10466
+CCTV-4 中文国际,http://gd.ikhs.cn:8880/rtp/239.69.1.231:11028
+CCTV-4 中文国际,http://gd.ikhs.cn:8880/rtp/239.69.1.232:11034
+CCTV4 中文国际,http://39.134.66.66/PLTV/88888888/224/3221225797/index.m3u8
+CCTV4 中文国际,http://110.80.17.38:9901/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV4 中文国际,http://111.160.17.2:59901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4 中文国际,http://123.118.51.157:8888/rtp/239.3.1.214:4220
+CCTV4 中文国际,http://123.118.51.157:8888/rtp/239.3.1.105:8092
+CCTV4 中文国际,http://123.118.51.157:8888/rtp/239.3.1.213:4220
+CCTV4 中文国际,http://gzly.hkychina.com:6001/rtp/239.252.219.193:5140?Cf=cfss.ccCCTV-5 体育,http://xingyang.net.cn:4000/udp/225.1.4.159:1195
+CCTV-5 体育,http://123.122.162.222:19999/rtp/239.3.1.173:8001
+CCTV-5 体育,http://111.74.155.231:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-5 体育,http://111.160.17.2:59901/tsfile/live/1002_1.m3u8
+CCTV-5 体育,http://gd.ikhs.cn:8880/rtp/239.69.1.123:10376
+CCTV-5 体育,http://www.jeremyoto.com:82/udp/233.50.201.197:5140
+CCTV-5 体育,http://110.80.17.38:9901/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV5 体育,http://121.27.126.103:809/hls/5/index.m3u8
+CCTV5 体育,http://121.27.126.129:809/hls/5/index.m3u8
+CCTV5 体育,http://123.118.51.157:8888/rtp/239.3.1.173:8001
+CCTV5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV5 体育,http://gzly.hkychina.com:6001/rtp/239.252.219.198:5140?Cf=cfss.cc
+CCTV5 体育,http://gzly.hkychina.com:6001/rtp/239.252.219.236:5140?Cf=cfss.cc
+CCTV5+ 体育赛事,http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
+CCTV5+ 体育赛事,http://111.160.17.2:59901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+ 体育赛事,http://123.118.51.157:8888/rtp/239.3.1.130:8004
+
+CCTV-5+ 体育赛事,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yMWdqVmdTY0JnS1lzOFNnQUxmdGUxRDBaVk9sbkZZdU1lM2NQQlBZSXJiOFpCSVJ4b2g2QVJBQWJpamx5S2V5R05NaUYreTZOSHdXVXE1U1ZLdU5OMk5keFl5Z2M5bEQwSUltQldYVTd0dEtOV3R6RUpOQytwT0sveW9DR3VJQlpOTUZhZFlGUStvRQ==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV6_源5
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MlpEUkJnUHUxeUxrZXNiRDlNVCs5V2lRSURnaW5peXd5MDRpSWh0aVdTV08vbDk1UTdaQmRXbDNlUmpQSmdnL0taUFRBNHBDQzRRekZ0Q21KRHNNd1dWYlRxdDFpU3ky/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源1
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0RiYlA0NFRBNC81RFptWEZuSjY3Q3EzZjhadlA4VFJCODFpWkp3aHRJdm5wMHpDdEVFbWNuWGx1bjNSMnpzWEtzV0EvcWVTdGZXRWc9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源2
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3NlSyt0cHJmSTJSZytpcjcyckxJZEFFam9hazF1TjR5b2krYUJVSkNYUi9aaFd3SW5VNThlVUhzdUF0Kzh3eWpHYktKalBYS3kvOE5TamdRdUtrZDFS/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源3
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhPalBMSHRWM1M3RXhhbVJtOWVPL0s4eXZNenlaUnRXQUMzdXVETndtUU1oV0ZMNWdnd01wMzl4L2ZvUmt3NDRnMnpqVWV0eEI5emc9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源4
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndXc2ZsVm9uelBaNnNLUXVoT09rU2VwdVVWLzVObURyV2UrUnh1dFVOVFY0c0U2ZHRmdUtQdUFqbGpUcFFmNm1WaFhTUks4R045cDhRaXdDaVVwSVpi/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源5
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/bHJISHhtajJnUmZLaVI4Q0hWSkQ4VnNlZ29TYi9DbVo5NGlpL1NJK3NzSzJ0K09uOVUrZ0lpL0M3cVZlS3cvbUlxNW1ydnFoMVROZDZhbmFPU1J5c1Jjdms3Q09ZbS9y/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源6
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M08wbnhvVVA4TmNEMkVqM1VMK29aYkZXcnZZRitrZmRuYkw5RHc1U1ViTCs2/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源7
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnlyU2Y3clpSbnV6am0weEREdFRBU2pIdWx6Tll6MmVqcG5UbjMrM3dWN0dZYUZZQlFpWlVNOVFoOUtFTHM1QXNVOEg2MkxrMHIyWWc9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源8
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhHemdKRVl2UlN5RysvbjZhNGdSNm9YVlRldjFIWEtCMXF3bnJtaG0waFg1OU1OdEV1azJZcml1MzBGSlYrNGRkMWg0Y2sraFVKdUE9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源9
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3RaUSt6Y2p4OUYyWkd1L2x1elFPVmxscnM4SjhSODdsMGhwSFl3WVBPL2dtOFdYS2p4aUpLL0lUU3VZdzJQdlQyQ3JDQmFsVlhFdGc4T0QxaXlVUTI0/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV4_源10
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yNUQrTHRodzFvUEtSNWJvOENQM2VhL1kvODd2RTcwTmRaMFowajFUelpUVkphMU9sV3BpMW9OWFlXSkdYUk9ydi9QZDlTSUsvSU1TMElHQ05nQi9sN2t1TklxNjlWbzAwU1FEcElMQnNKQzhjZE8zdENsVEFFaVkxdmQyc3k2cDlxVHV2U0RsVGI2RjVGL3R6cmh0RC9FTk5BT1hHN3pIVC9YMW9mYlYrSmkzdlZBdDYwTlg2NjhzM28rNHFGM1RFODVtWEIvMEFSazE5cHE0a3dRaFZoMTJXUVZ5ZWhId3p6MTNRd2NMMHJKbnErL0YwNUFETU55NjMySUUxdmR3RG92UkV5dDBJZVlJcHYxbENkdjdLNVdmZVFkbi90YVpCL3hzVjk4TnNyUDRFakM4SkJiOEhRZmUvQUNsN2JUc2xIRlIxVDNPR0hkWE1QVlpXZ1E0WllNPQ==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV6_源1
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yMWdqVmdTY0JnS1lzOFNnQUxmdGUxRC9SU1FZQlczdHNCQzBVN2x3dkR5Z01kcXBodFFGYmxzNWZkWSs5eVF5eVBDTVBIVmltb3RCNDBqejBoOHk2TDdORWloeDhZUlNsSE9XckxBeW9KUW9EdTE1bWJNdDB1SjZYQ2twNXNUU3Q3ZG9qWk9tS2tMbA==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV6_源2
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yMWdqVmdTY0JnS1lzOFNnQUxmdGUxQkVPVUJDMmRRbERtYllFSDlRQjJWWmhWTEgwU244bm5SUEgwRTlremo4NUJwOTViOU43STZwbWpxU0hvM1lPanNTS1lxdnc2bzZMQ3NFMWtUYmtOeUU=/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV6_源3
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yMWdqVmdTY0JnS1lzOFNnQUxmdGUxRDBaVk9sbkZZdU1lM2NQQlBZSXJiOFpCSVJ4b2g2QVJBQWJpamx5S2V5R05NaUYreTZOSHdXVXE1U1ZLdU5OMlBEbE43dHR2MHRBWTBuSkJoT25ZVW53THYrV1ZsNkl2RHJpd3RXVEpIWG5ma0kvbUtCZThUNw==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV6_源4
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yMWdqVmdTY0JnS1lzOFNnQUxmdGUxRDBaVk9sbkZZdU1lM2NQQlBZSXJiOFpCSVJ4b2g2QVJBQWJpamx5S2V5R05NaUYreTZOSHdXT01BN0IrWld6bFpFNk93NXNLMG5KbVFzVy96SlN5YmZ0ek9sc212L3ZhMnhRUDUxYXYwbzA3NGduK3NoczBpSg==/VACYlPAXIvizVAezpDxuhA==/txt/0$IPV6_源5
+CCTV6 电影,http://39.134.66.66/PLTV/88888888/224/3221225814/index.m3u8
+CCTV6 电影,http://58.220.219.14:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6 电影,http://110.80.17.38:9901/tsfile/live/0005_2.m3u8?key=txiptv
+CCTV6 电影,http://111.160.17.2:59901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6 电影,http://121.27.126.103:809/hls/6/index.m3u8
+CCTV6 电影,http://123.118.51.157:8888/rtp/239.3.1.174:8001
+CCTV6 电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+CCTV6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8#http://111.20.40.167/PLTV/88888893/224/3221226393/index.m3u8#http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8
+CCTV7国防军事,http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
+CCTV7国防军事,http://1.195.111.251:11190/tsfile/live/0007_1.m3u8
+CCTV7国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV8 电视剧,http://39.134.66.66/PLTV/88888888/224/3221225795/index.m3u8
+CCTV8 电视剧,http://110.80.17.38:9901/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV8 电视剧,http://123.118.51.157:8888/rtp/239.3.1.175:8001
+CCTV8 电视剧,http://gzly.hkychina.com:6001/rtp/239.252.219.253:5140?Cf=cfss.cc
+CCTV8 电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8#http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8#http://111.20.40.172/PLTV/88888893/224/3221226391/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+CCTV9纪录,http://39.134.66.66/PLTV/88888888/224/3221225676/index.m3u8
+CCTV9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
+CCTV10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
+CCTV10科教,http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
+CCTV11戏曲,http://39.134.66.66/PLTV/88888888/224/3221225517/index.m3u8
+CCTV11戏曲,http://1.195.111.251:11190/tsfile/live/0011_1.m3u8
+CCTV12社会与法,http://1.195.111.251:11190/tsfile/live/0012_1.m3u8
+CCTV12社会与法,http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+CCTV12社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV13 新闻http://39.134.66.66/PLTV/88888888/224/3221225812/index.m3u8
+CCTV13 新闻,http://110.80.17.38:9901/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV13 新闻,http://111.160.17.2:59901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13 新闻,http://121.27.126.103:809/hls/13/index.m3u8
+CCTV13 新闻,http://121.27.126.129:809/hls/13/index.m3u8
+CCTV13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV14 少儿,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
+CCTV14 少儿,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
+CCTV14 少儿,http://121.27.126.129:809/hls/14/index.m3u8
+CCTV14 少儿,http://121.27.126.103:809/hls/14/index.m3u8
+CCTV14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV15 音乐,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
+CCTV15 音乐,http://39.134.66.66/PLTV/88888888/224/3221225513/index.m3u8
+CCTV15 音乐,http://123.118.51.157:8888/rtp/239.3.1.153:8136
+CCTV15 音乐,http://124.115.205.101:8888/newlive/live/hls/17/live.m3u8
+CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+
+1905电影-国内,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MlpEUkJnUHUxeUtqaGwzKzR4azMzZWRIdGJWTCt2S0pwTnZZU0JOR1NKcnBsN1pndGZJYmxLZGR2SjFWeVZXOEVWeUEzZWQ3R05WNWI3Ly9SNG5TTTduZXhzcTVXQzQ4dnVRd3VWYWdCMVh5REFCazVSRThVbFVTY01aTGcyNWs=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+1905电影-国内,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/aENpNEFMZ1BwWXhMQmdLZUlORHBQUmpSMndnK2t0M1lHcnpFa2RScjN2VCtOTjJiTkd2aDBMbTVhM2x4UG9RRS9NUVpXTWdPd2FpK1NpTWFPYTVFTGc9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+1905电影-国内,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MlpEUkJnUHUxeUtqaGwzKzR4azMzZWRIdGJWTCt2S0pwTnZZU0JOR1NKcE5pN0lsODhzeURodzBuaEt0c1pmdElaNnFrYTEzd2ZnPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+1905电影-国内,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MlpEUkJnUHUxeUtqaGwzKzR4azMzZWRIdGJWTCt2S0pwTnZZU0JOR1NKb01LNWt0SUNKWjAwT3lESGlzMVVFbVNla044alNydWFRPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源4
+CHC动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0RiYlA0NFRBNC81RFptWEZuSjY3Q3EzZjhadlA4VFJCK0hDMjczbkU2dFNMR2pkMm9wdEZQQnVzZm45ZEJ2RVJSL2d4U1FQOXFVNlE9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+CHC动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhPalBMSHRWM1M3RXhhbVJtOWVPL0s4eXZNenlaUnRXQlkxRkxSdTkvS1A3ek1iNU14eS84NHhucW1NZmRTNkhENzJnY2MxajF5eEE9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+CHC动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3RaUSt6Y2p4OUYyWkd1L2x1elFPVmxscnM4SjhSODdsM2VHSHdLaG9POGl5RXRyVjM1TmhFb0JmOFpDTkhOOXJXd0JlRURZaDEvazZSVTFtejh2VEd6/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+CHC动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndXc2ZsVm9uelBaNnNLUXVoT09rU2VwdVVWLzVObURyV2UrUnh1dFVOVFYvdkxvV2MybW9OMjR6dGNrWkNIOWtXSW11T01PU3NsTjYxMkdsbkp6emww/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源4
+CHC动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M080R2RYaFFLeVpnV2xlRVNsaVN2V1FMTm1oU3Y0ZTN2Tis4QStwSllWSDF4/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源5
+CHC动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3RaUSt6Y2p4OUYyWkd1L2x1elFPVmxscnM4SjhSODdsM2VHSHdLaG9POGl5RXRyVjM1TmhFb0JmOFpDTkhOOXJXd0JlRURZaDEvazdFdlMvWW9TcmFx/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源6
+CHC动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhCTmc5WmpZQzJUYXVBOEt2MXo1cytDc1hCZ0V6Ym1Ua0JWYmFVVkxta0MxRGQ2cWNWNStxMmdJYU5Mc1k5R09hNzdXU3NBeHBCVmc9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源7
+CHC动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndXc2ZsVm9uelBaOENxWmNQR0VkUE92c2pEaFJKbGxIcHloTkliWVZDTXFjWlIvR1g3SkJJZktoaU52RUN1OVFFUE9SWjNyNDFJQ1ZCOW4wZXRURFQv/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源8
+CHC动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnpBSGdHclJCRUo5cFh2NmJmR3RsRjhIaHZsMWoyampFNmN0Sjd6TXJHVTN4QUI4OTNSOFNXdmxQNTdIL2FicStGcVVSNFgyVkRTbEMvODV0SE0zUzJs/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源9
+CHC动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VjVmVTZRTEZuK3RYRW1tcVZPZlFQQks2UERmMVg4THdqclRPQ3huTFVUSy9rODdZWldwSDkxbzlHT0x5Q0ZqRC9hZTIrUmxhTFljMGdDUGE4dE1MYWlmaWxIT0ZESy80/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源10
+CHC家庭影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qno3UGZmZGs5Ymo3ak1DcVJFbndndFhIMzAxS1ZUNTlrSjA4VHY3ZnF2UzBDWVg1NFIrU1BEY0ZEZmJGK1VEZkN1VzZzRTRRcFJiWDBPZFJDOHhzb043/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+CHC家庭影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0RiYlA0NFRBNC81RFptWEZuSjY3Q3EzZjhadlA4VFJCOEc3L1lIUDlEQW55Y0ZxK2N5WXN4eWl4Z1NXcGtkRzE0OEhQRXZlTzkrWkE9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+CHC家庭影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3RaUSt6Y2p4OUYyWkd1L2x1elFPVmxscnM4SjhSODdsM2VHSHdLaG9POGk4elhoRGNMRkZXbEJTVHNyaGtialE4ZEpFUlQ3dlVyWERiNktaUDhJNkw3/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+CHC家庭影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhPalBMSHRWM1M3RXhhbVJtOWVPL0s4eXZNenlaUnRXRGNaRG9LVndvYUhacFFMRzd1aVp2Zi9ib2U4QzNIRVRQWnRscGZ0S1RDQ3c9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源4
+CHC家庭影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndXc2ZsVm9uelBaNnNLUXVoT09rU2VwdVVWLzVObURyV2UrUnh1dFVOVFY4V3E4YXVadENZS01TOVhCRk9LZWZ4aDd2Zy9tZHRtTngyZE40SFlTNFBu/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源5
+CHC家庭影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhCTmc5WmpZQzJUYXVBOEt2MXo1cytDc1hCZ0V6Ym1Ua0JWYmFVVkxta0M5UklqdFRueHZxeXJ3bmtNa2ZPUVRFMWVvaStrQ1ZGcVpNQ1lmMGJNRGJk/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源6
+CHC家庭影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M083aEc2OEhRbmU1UThyYlBKdDJEanoxczJlaHp3dHJlaTk3bGVnN0xLVlVH/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源8
+CHC家庭影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhWLzVvYWR1TUMxU0JEeVoybkM3VWVCY1lFa3l6MGpTbTdDWDlpc3M1Mm1oeUMxcUtTVUV5NHF6anNiNVJvN2REeDNTeE1mQXRxa3dSVlBZWkFweEtI/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源9
+CHC家庭影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndXc2ZsVm9uelBaOENxWmNQR0VkUE92c2pEaFJKbGxIcHloTkliWVZDTXFlaVduR09YdS9Ed0pFcTdDVlR1NDBVT0NPUFhrZ2d1dEZGa3F3STZCYVM4/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源10
+CHC高清电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qno3UGZmZGs5Ymo3ak1DcVJFbndndFhIMzAxS1ZUNTlrSjA4VHY3ZnF2UzBBUUNLTWg2em1SLy9INUpINUErV3ZpSTBLVnFrUisxR09vd1k2VFM5NTAx/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+CHC高清电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0RiYlA0NFRBNC81RFptWEZuSjY3Q3EzZjhadlA4VFJCOFZpaVJHbWc0cXY1Q2E2bFgrbEQ5VS9vZGVtSzhDSzNRV2RyM0hpVFhsQ0E9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+CHC高清电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhPalBMSHRWM1M3RXhhbVJtOWVPL0s4eXZNenlaUnRXQVpxcVcyT05zODR2V0VaUmNacy9uLzVQVUg3L1lqa3BKMnc1NVo5eFI1WFE9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+CHC高清电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3RaUSt6Y2p4OUYyWkd1L2x1elFPVmxscnM4SjhSODdsM2VHSHdLaG9POGl4azVWelptZWNoZ2xBODE4WXdYNmg0QUxNSmc0UXRIelFhamJ6V2RpcFZC/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源4
+CHC高清电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3RaUSt6Y2p4OUYyWkd1L2x1elFPVmxscnM4SjhSODdsM2VHSHdLaG9POGl4azVWelptZWNoZ2xBODE4WXdYNmg2T01sWUxGSmdKZ1JmbnJDZjZiVGMy/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源5
+CHC高清电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndXc2ZsVm9uelBaNnNLUXVoT09rU2VwdVVWLzVObURyV2UrUnh1dFVOVFZ6T21kLzlGU1RidXVuMjYya1FOM2dyUi9uRlhRMUdZNnU1L2QwVEZjTktZ/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源6
+CHC高清电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndXc2ZsVm9uelBaOENxWmNQR0VkUE92c2pEaFJKbGxIcHloTkliWVZDTXFhbzg1ZFkvcVhLOWFmRWhMMVVpc2hUNk1PaW9aSTZReGFtZFIwdXZRcjZJ/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源7
+CHC高清电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M08xNHFiLzZ3ZGVINGc2UGxvV2ZyZnplUXpuZVNtNDZwTWU0eFFsTTc2Tksy/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源8
+CHC高清电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnc5UjdTNlhvNVBwN3dVNWVwTnR1SzVwNXRWdUwrbmJMeDRFMDBDNmVMbnBncVpHUm1sYzdBU3VBVjdFUVI0c0s4RlArNUQ4WG5GRVE9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源10
+
+亚洲功夫台,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEdRdXV0a1VYaEtNbElyWkltUEdRVTkyMnlRa0pLenJJdzh4Y0FSNDNjVVZZSEZwanVGZ3dRemRxbnNaVGhHSlVqdkFKN2d6T2ZYcGc9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+经典大片,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3ZBaWJ5MzcwZGhmdkt0MHEvc05uanZWQXFLTStsdkZrY2JQOTUzNWFjS24rdlpTdHM4aUQrLzVFQmV1Zys0OUMvTjNVTTJRVXd4UzFNcDZqMHp1Zlov/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+经典大片,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3ZBaWJ5MzcwZGhmdkt0MHEvc05uanZWQXFLTStsdkZrY2JQOTUzNWFjS24rdlpTdHM4aUQrLzVFQmV1Zys0OUMvTjNVTTJRVXd4UzFNcDZqMHp1Zlov/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+经典大片,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEc1MEhjNXN0bU5NdHp5VlJWZjlyQ3VOVHNPOE5KU3NKOUlXSFlOUlcxd2lhWWNvZEJjMDFlYUtxTFRFTHZXRENZYjIrNWQ0TEhUbFZGUHdSQ2dJQnVZ/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+经典大片,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEhZWTI3MVJqN3U1VTh2ZDMvbjlGNCtKcTVFaERuYmxPWk5RTVBnYjBKZTNvcFYzY3dNY3hyQkJRd0FXSU9qWERvekNwbGVmeFlzQlE9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源4
+经典大片,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/aENpNEFMZ1BwWXhMQmdLZUlORHBQUmpSMndnK2t0M1k2TjBQU0YwMVhPYkw1RTJsaE1FOENXMGI3SlFaSlVjZEZrS3RCTmZYMG5WUE95M2dycGtQOVNoc0tuOWJ0M3NM/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源5
+冰冰经典,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VEEvVEQxMU50SHgxVDQ4ckVMUktsemdrWDNXWjVtNXIzamJOcHlkdWJqYlZlZW1PSUtkMXlKVHRlSmVHVnl6K01lYmNkNTR3MnNrPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+冰冰经典,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUWjNOb1NtU0poY2E1RXBLbHJZNEpOaERwYlhjWGxyVjJ3PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+凌儿影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUWWdJZ3FwRWcrYlRaeTZwMXJGUnh4RUpKZG1pWFpkQXZzPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+凌儿影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEdRdXV0a1VYaEtNbElyWkltUEdRVTkyMnlRa0pLenJJdzh4bFVaZjZUUHFGUkNUMU5YMFhSUDF1bmxUZ2NJbms0PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3NlSyt0cHJmSTJSZytpcjcyckxJZEFFam9hazF1TjR5cm16aVZrWVJ5dGI5V2VSOGtNaGkrUzhrTDFNNGhkTkdpblpYYlJmMzN0SkQxbTNCWDFSR2hE/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/K2FNT3Q4WlFvQjArZytweUlQejVPL0Y0WEZ6blVlNlJGaXlqRHA1aGRsMEVraFFJc0tINTlUb2gvZEFlV2xqc1huaktsaTNhQWVkVXVOZWczNFBjbDlMMklkWDJVUEFi/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VEEvVEQxMU50SHo2dUZKcUZ4WmZ0N2ZUSURCWEluKzZnbHRlM2NFT09aZmpnUnFEcm9RditaTVJ1OVI5dUJIQXIzbmI3bDF3TlpPZElkNFhORVB2NmNLSmFHeUpMZ2hFdmR4c1NKY0NVaGZ5d1NkaEFFRFFTUFNCWVN3NS94VWo=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEZhUlZmcHJ2aS9Vd0Q1bHpSMzJkUTV1N0FrU3hhNlFrS3VSdVNaQVVxRlU5Z25XUDdrQlU0RXBTMDJCbnk0eEMrUGsvOWlqT0pXTk9wUHdYRlp4NWFlNTVoVEdkMTg4VEVrMmwxV1pzbWd4T3lsd2UxRzBiQ3B4RHJxaWpBcHdRaTg2ZkNNMUFJWDRRPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源4
+动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yMWdqVmdTY0JnS1lmSkdjM2dLMUQ3OC8yTEpzQ2FOemNQeldwVWVqYUhQRjBtTENScVBRRzdYUG50NlgwaWhrRjFubi9mZzVrV2UzK0RtbGQ5aEtYL0xDczRNT1hob3ZuRHpFampqMFZpZmw=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV6_源1
+动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yMWdqVmdTY0JnS1lmSkdjM2dLMUQ3L3pSRU9USXVja05ZUnhSKzZIckpnY2N3K0RxWGJLZkxBM3EzK20rbHJSLzZzdDM4dEdKZ3ZzT0FtUEkyTTU1NVlQcVZnTzZvSXk3Tk84d3JsUjlVdE9OekNUdFZ5QWYvZWl3emR2TXl4SFNieThvdDJFeDhtVA==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV6_源2
+动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yNGFjV3grNHp5R1EwNGRNWFNDeWhZYTZvMDA3Nmx4MDBGSGpPUUVBaTRwdWh1ZFhoV20wTitCUFFkWjlLdmNIdVRCc1VET2d0UU05ZERsaWZhU2VnSGRTTVdYQ1JDZmtEM01NUFJBalBkOEY=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV6_源3
+动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yNGFjV3grNHp5R1EwNGRNWFNDeWhZYTZvMDA3Nmx4MDBGSGpPUUVBaTRwdWh1ZFhoV20wTitCUFFkWjlLdmNIdVRCc1VET2d0UU05WWRYOHFFRkVIUGFlMzAzbUQvZnhLQy9jZGhMZmdZd24=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV6_源4
+动作电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yMWdqVmdTY0JnS1lmSkdjM2dLMUQ3L3pSRU9USXVja05ZUnhSKzZIckpnY2N3K0RxWGJLZkxBM3EzK20rbHJSLzZzdDM4dEdKZ3ZzT0FtUEkyTTU1NVlQcVZnTzZvSXk3Tk84d3JsUjlVdE9qMWVodldKOXBPa1pkZTZFSUJNbkxSc1ZLbmcyd081TQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV6_源5
+劲爆电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/Y1p1eWhDTHVneStJYjdUYUJLOUprZS95cHhsWWFVM21mQngzNTQ4R0pmUkdJMFlaU0tLQzNXSmxpa1h0eTU0UUpXTDVYMGNlS1hOWEI3cUR6ZVNwaVVjbndrQWpoQkdl/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+华语影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3ZBaWJ5MzcwZGhmdkt0MHEvc05uanZWQXFLTStsdkZrY2JQOTUzNWFjS24xcEIxL3FyQU9qWkZ0dHZvZVI2MTdWblRFWWkzMktvTk05K2J2YkZ2Qy9Q/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+华语影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3ZBaWJ5MzcwZGhmdkt0MHEvc05uanZWQXFLTStsdkZrY2JQOTUzNWFjS24xcEIxL3FyQU9qWkZ0dHZvZVI2MTdWblRFWWkzMktvTk05K2J2YkZ2Qy9Q/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+华语影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEc1MEhjNXN0bU5NdHp5VlJWZjlyQ3VOVHNPOE5KU3NKKzRTei9mMkZwdkFQSENpV0wrelhYVCthSmZHVnRXQllsY0RnTzd5eGlWcU5seFJSRW1VQmJt/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+华语影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/aENpNEFMZ1BwWXhMQmdLZUlORHBQUmpSMndnK2t0M1k2TjBQU0YwMVhPYkw1RTJsaE1FOENaOURGakExL1dvQzdZMGpFdW9hMEJTWU9JMWtVZGNXaUxoNlVmTjd0anYx/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源4
+华语影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEhZWTI3MVJqN3U1VTh2ZDMvbjlGNCtKcTVFaERuYmxPWlZ4YkxmNThBTjRVYkpST1B6WWFFaWw2VG9ONjBFL1g5Vyt1ZC9xeUU5V3c9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源5
+可乐影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUYndXOE1NNCtHVWpOQTNHYUswQ0prY2d0ZWxrcEhRT0N3PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+吃米滴虫,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUWUpPM2xwOUppVnBMZVJHdWl4WFVoRk1JRzhsWVkrM0hVPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+吃米滴虫,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUWklJbm5zL0JIRXVXdm8wK3RhdkN6M0tXVW9VOGVaNkNmMmNrUXJvbnY0VUVOTmw2a2VPT0F0UGJJRFpVTlNtZS9QMEZwVFVYWlhTa3RWNG5YbVRxNDNBRUllMUZIQVQvVT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+吃米滴虫,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VEEvVEQxMU50SHgxVDQ4ckVMUktsemdrWDNXWjVtNXIzamJOcHlkdWJqYWt6MURKTTVwYnh1WG9XdDVOTlpqSzR3WGVrWmpvOFpZPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+吃米滴虫,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUYlYydEdwdTFkVEp4Ym5Bcll0cllUU0ptczM2ZGJURG5RPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源4
+吃米滴虫,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEdRdXV0a1VYaEtNbElyWkltUEdRVTkyMnlRa0pLenJJenluSkl2b1NaNUJrSHZtbENkVHd2ODFVZlIzUFhyM3Y4PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源5
+喜剧电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUYWtMZkxkWU4vdGdWZ2RCMHUwYldmK1h1QUd4dmFjaG5zPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+喜剧电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUYmVyUnJNYmZHaE9sZmZMYVc0OWVsV2NlamR5RFg2eHFRZm9Bb2lMYzBoUzJLcmdlWk1XaEFGMjVjOHRtSTBvdmVqKytHb3RsUG5XS2xBRnRnYTZzUW1uTE5YSjJsQU8reWZEZkUxS0g5OGVRPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+喜剧电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VEEvVEQxMU50SHgxVDQ4ckVMUktsemdrWDNXWjVtNXIzamJOcHlkdWJqWTN5bWJuRjl1L01VRFlTc1BnQmtPdDBCK2ZzcDBtT2tVSUtYNTRDTE96cHc9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+喜剧电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEdRdXV0a1VYaEtNbElyWkltUEdRVTkyMnlRa0pLenJJeGpxWC9xS2ZiTmszNVEzZjJZb0o0cEQ2MUxSa0RGTTM0PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源4
+国产影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUWlBtYmFNVzlRTm5hMEdJcndwcCtsaWFJMG51emVuSDBjPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+天映经典,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qngvd24zYWV4anVabldBWkxIdEk2Ymd5WjlqRWE2Q0syV0xaTEF4REV0MDdyRWdVTDZmaW5Cc2NwTlJOWG5LUmpmMUd5d3FTbHh1K0RjOS9oWFFyY2dn/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+女神电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUYTlua3ZGanBsTUM5K3VOa2ZnZjYyTnFUeVBFSlVSeHlvPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+峨眉电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3NtR3RHcExLcm5xSlVwcGVUUXpBUm9KNkVHdEFHUEI0MitVRHVaZXVFaU56RkNtcXIrVDN0WFZaUEhQMXZtZUpoRXlMdFY4dVhiaVE9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+峨眉电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0N4RFRFWFNpcldxRDl1aWJUdWg5dm1RZ0lUeXcwcCtGL1J1eEl6VzJYa3JFaTdpVk1hUEZ6WDFRM3ozeTNOWVl1bXF5UGRXV2xaM1lIcVd3dlpZcHZj/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+峨眉电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnpkLzQ1RTRGV0FZMXpUenJrc3Y5cnVyWURjejJBRllubExlWUVjN0FaK05VRkUxWjlaNXpUbmtkUHdUdU56ODVCS0RUNFBtZzJiVGc9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+怀旧电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/YzkyR0Q2U2FIczV3d1lPS254MTl5ME9QWkNadWlIeEdhOVhxTERoY3o0T2VVdTNETUZJbi8wMmRIL2FPelpxLw==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+怀旧电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEdRdXV0a1VYaEtNbElyWkltUEdRVTlUM2E1L2dhcGpSeUh1Z3BENy9ZeHVMUCtYZlk4V3c5SDgzTm41U3Nub0I0PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+恐怖惊悚,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUYXVmSnpiV0VjaExiUStRc0NpMUVMS2FoUlNjY0xaMGVRPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+星光影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3ZBaWJ5MzcwZGhmdkt0MHEvc05uanZWQXFLTStsdkZrY2JQOTUzNWFjS245KzV5bVhXcFhYMElzdmtjdnlYVGtsbXoxRjNyL2pweTRDSUl6ajJaeExy/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+星光影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEc1MEhjNXN0bU5NdHp5VlJWZjlyQ3VOVHNPOE5KU3NKK29QQ2VNUmx5V3NEU0NXMjZqUTRBamhIY1JiVG1Bcm8xdW9YcXZ0UWtsMjlaMXBKa00rL3Vp/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+星光影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/aENpNEFMZ1BwWXhMQmdLZUlORHBQUmpSMndnK2t0M1k2TjBQU0YwMVhPYkw1RTJsaE1FOENkcFJNL2NWSEhCYUtRTnA5c0o4TEdjUDNwWldaZTRxYmpCM2ExaitWN0lr/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+星光影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEhZWTI3MVJqN3U1VTh2ZDMvbjlGNCtKcTVFaERuYmxPYWdEbTlDQmE0clBaQVJoSVVrZ3Ftdjc0L243dkJtQ1Y0eWFycTBNWmVsNGc9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源4
+星光视界,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VG12NFNITXlpWjlQMnlsVUpaMHFKbzhZUFN3Zkd1ZWFWR1pMZzVDckpMU2RJR1dEU3NVSGV3SGZiUVcyblJCdGI4UUdtWVFNZ0FiMDJFODVPOGFNNWJOQTM0eU5PTFhz/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+星光视界,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/YzkyR0Q2U2FIczV3d1lPS254MTl5NW5nNkp0OWE5SWFWQnVEOUZUV3o4cTZjcVZhMHZUUVdtZUlJME1oa09jN1BpR0VnMGFWdFBBPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+星星影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUYUp0THpxM1BhWUNodnkxUitXdTF1L0pLVXByd2YyRWZBPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+星爷影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUWndLRkExK1dUYllTMnVrY0hOLzJZMlR4S1IzcFFHOEdNPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+星爷影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEVBK2ZEOWdlTWRCU2h6a3RvT280UUN3TW04YUFCMG5wT0JsczZQU1ZLODhYZW45Wm1Sa0tVeEY2cytMQ0l0MFhvPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+星爷影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEdRdXV0a1VYaEtNbElyWkltUEdRVTkyMnlRa0pLenJJd0hObzQvQnh2N1J5eFovWFBabVZLaXJaSkdobjhlcG1jPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+欧美大片,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUWnhmcHBVYTJ0QThXRXl6UEk3bDZqaUJWaTIwTEM5cU56V3hoNEJjZUo5b2xRVDNLbVU0U1E4NFJ0M256SkNlWTJUUWZ6OXhydVRsZG5pUnRkSWsxdE9DbzFKbGJDZmwycWVQQkR1cUJwUndnPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+欧美大片,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUYUdEcWVKWStqMjEraVdjcnJpZTlGQnozNDUvUXZGODdvPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+港片经典电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEVBK2ZEOWdlTWRCU2h6a3RvT280UUNhalMvS0NTWWx6N0FIMUhDbnZuUk5yUUZONzNFYUptOCs2K1JCdFU1WjV3PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+漫威剧情,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUWnRYWkVFVHdCSjdxaW8rUWVuNFByY25uaWRkdVYxMTlTTnQrUmZzQ0QwL25LZ2RiNWxLM1B6VUtEM0xmd21DU3RCaEE5VDl0RW10a3lsekFyR1hCUElsVDdmVXA3ZVB4amFGUVBpd2lGOFhnPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+漫威剧情,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUWUJkQzFlNVRzU0NxanRxUzZqakRkZ1ZPTUp0dmk5cFBvPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+电影频道,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnpMcGZjZVM1cWhYdmdKSnpZU05rSzJYVkNER2dSWVJ2UjJFZmwyd3pENkJhT1lVOTI5SDZhdkpST1FvOFUvSmpjY3V5N3dEcUphbVk0eFlvbjRPVUEr/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+粤语电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEdRdXV0a1VYaEtNbElyWkltUEdRVTkyMnlRa0pLenJJd0VTd05XQ1hyVUZleFFwZ3VOSnNVWjhoZENXYytPNU44PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+精彩影视,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3ZZMk5xWGRRSUdVT0xUc1ZYdkptWHJMQUhSNDlMUS83Z0YvZFNMWGdjc3UxRFIxL3J2c1ZmOXhqaDJNZzRTRVFmQzRCWG9idVdERXVoNUZmTFk1SnM0/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+经典影视,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VG12NFNITXlpWjlQMnlsVUpaMHFKbzhZUFN3Zkd1ZWFWR1pMZzVDckpMUkxnSG9laktjd3d6QStJSDdDYkRzdGRrRzY0VENMUklWYVdKeDRVdVkrMzZrVTFseitmS2ho/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+经典影视,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEZwckh0WTFMcGo0Rlh4L1ZHTVVhdjBUdXNqOVp0cmxCOE1KdnBLUWJEMUlYY0Z2RnBrM3N2bnRYNU04ZldSODJYNVdESmdoMXdQbXhnL054b0RjRU1L/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+经典影视,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEVBK2ZEOWdlTWRCU2h6a3RvT280UUNlSXRNZmsvbjV1L0xnVWpzRlJPenJacFUyUzluY1hDbGhIRFVpT0hCYlBRPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+经典影视,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEdRdXV0a1VYaEtNbElyWkltUEdRVTlUM2E1L2dhcGpSeFAxMDBIMTV5MWYrMDJGUWxFSTJNL0hIdXFvSU4rWDBNPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源4
+经典电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VG12NFNITXlpWjlQMnlsVUpaMHFKbzhZUFN3Zkd1ZWFWR1pMZzVDckpMUkxnSG9laktjd3c4dDJQZnZmUFcxUUlYVjNOMnFGZkJMcGVWREZLbnlRcDdNa1UwSlhhMnhV/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+经典电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/Y0hRTGIrQnFMQmVJZGg1eXdsYzEwcE4xUVRzckRHQTVxVWFpOHdNSS9vYXRrRHNrdnFLU01QMXFIbXBTeVI3WDBQT3RtenYyUUd3VmJEbEdwZmpqWXVGSVZTbHg0VEhYZ2tJUWNubEgxYXJnWVVNblZhODd2QT09/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+经典电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VEEvVEQxMU50SHgxVDQ4ckVMUktsemdrWDNXWjVtNXIyUThGWVYrdWcvZnlsN1NkUmRlMTBBdDI1K2RkNCtCNjNKWElIcGFxSkFmalUwU0owR2VWNEE9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+经典电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEVBK2ZEOWdlTWRCU2h6a3RvT280UUM3cG5rQmFVY2Rpczg1aER0QzFualVnUVFRcUJ1Um84NllwSmw0Uk9zOFJJPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源4
+经典电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEVBK2ZEOWdlTWRCU2h6a3RvT280UUNaSnVSQ09SOS9MSzVZYmxBcG5YOHhOYXJHa2dMbTFDQmtDQW9EVGRSdTRNPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源5
+经典重现,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VEEvVEQxMU50SHgxVDQ4ckVMUktsemdrWDNXWjVtNXIzamJOcHlkdWJqYVBVLzZCYWhaOWZCcUNPNlNKTi9aN0cyWENQVFJ3K0hwc1FCS0d2bHhib0E9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+经典重现,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEdRdXV0a1VYaEtNbElyWkltUEdRVTkyMnlRa0pLenJJd2V2aTJPUE80Z21vZzg5VWdpMGludmtDVldaZlpTZFI4PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+绚影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnh4cC9QcGxoNzJwUG1WeE1sV1l4cVUwQnhFM2ZhdTZSaTVzcitnZkJKMHZmbjM3dThTS1VwbHZ2RjhHMjdOSklWUm9YYU1MVEZsMVNHaDhyd1hrMUNw/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+绚影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnpkLzQ1RTRGV0FZMXpUenJrc3Y5cnVyWURjejJBRllubUNlSkxFSFF4cTRzeUpQOVFiKzdWT1l5OVp2YVVPYmx4VXRkMURqOHQrdVE9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+绝版电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk1UFQ2RDErdFRHbG1rWTJpMXNCV3hGT2hyQWpaMDdGTVYzeDhhdmdVZWlBK2FtOEJXRk9KR3dXdFhPa0tXMDd6R1RkNTBRSkVlTDVyQWpySFloNzJqcmZnelVJL0VRTGc9/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+绝版电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEVBK2ZEOWdlTWRCU2h6a3RvT280UUM1RHlublgzdTArRzJRQ3dSU1NCNVJJNmRjZGtxTXE3VkZNNEY3YWVxUnNvPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+绝版电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEVBK2ZEOWdlTWRCU2h6a3RvT280UUNlSXRNZmsvbjV1OW5ndmlFYllvdGVlRENoQ0I2dEw1aEVnUnNTblJoNnhJPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+绝版电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEc1MEhjNXN0bU5NdHp5VlJWZjlyQ3U1b2Q1OTFGeU1zakJqR2VDNm16aGh0QjM4TDBNQWd5RjkvN2tWb3BsR0VvPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源4
+网神影厅,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEdRdXV0a1VYaEtNbElyWkltUEdRVTkyMnlRa0pLenJJeWlvaE5nV3AvZlU1bjQyQ2JWc0I1Vk9mM1lVcjhDYnM4PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+萌小鬼片,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUYkt6anBhcGhVRFRHQWduajR4cHZPLzdjd3BPUXZQbWZzPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+译制国语,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VEEvVEQxMU50SHgxVDQ4ckVMUktsemdrWDNXWjVtNXIzamJOcHlkdWJqWVp4Ym85MHYrV2s1dzZ1Mk84Z1J4dHN6SmNSOTZNTWFFc29QT0VYWEJvVlE9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+谍战剧场,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3ZBaWJ5MzcwZGhmdkt0MHEvc05uanZWQXFLTStsdkZrY2JQOTUzNWFjS24rOG55ejJNaVhMSWpYQW5meE0zM1N3U043aW1TZkt5Nlk0OFNTT1VOdStr/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+谍战剧场,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEc1MEhjNXN0bU5NdHp5VlJWZjlyQ3VOVHNPOE5KU3NKOFQrS1Ywd1FtY25vZVMvRS96SG1qOEYycnJ4QktqbEpsL00zT1ZycE10ZEJhUEpZcHI3eXRs/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+谍战剧场,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEhZWTI3MVJqN3U1VTh2ZDMvbjlGNCtKcTVFaERuYmxPYk55ZUl5eGd4UjBsREFSdS9adTlEWW5OYS9pNTlkUk1UZFVaSnZGTkN5bEE9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+谍战剧场,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/aENpNEFMZ1BwWXhMQmdLZUlORHBQUmpSMndnK2t0M1k2TjBQU0YwMVhPYkw1RTJsaE1FOENlMlQybUxoamswYzBBaDRnZm5Fcytwd25uazk0Q0Nzb0t3T0dvWGw3Y0FQ/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源4
+豆瓣高分,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VEEvVEQxMU50SHgxVDQ4ckVMUktsemdrWDNXWjVtNXIzamJOcHlkdWJqWURKTTZXSFFFM2pSZmc5SUgwUGQzZmhWc1NuelkyRmQvdXV3RmZGeG5IZVE9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+贝爷影厅,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VEEvVEQxMU50SHgxVDQ4ckVMUktsemdrWDNXWjVtNXIzamJOcHlkdWJqWjhpbXpUbS9UZGxuQkxMK3hvYi9RNXQrcVdyaHkzMXJ3PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+贝爷影厅,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUYWpsUWpCZzZpTzB4d25FUDFqOU5CK05HdFlVMmwxb0VtdU9rdzl3blhYMm1mYmZrWnRtazlpemNNK0JvVmpDNFVQYzR3Z01WNjErSklsZ2pXWGlVb2tpd25BbkVKUXkwdz0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+超级电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yOHBvdFBNWVlxOTMxM055Q0t6OVlBT0oxVWJ6WkhsOXdZL1l2clc5RmVONDdXUG01VDJHYzdWaUpCclZMZm5GaWZiZEh1Ym5kMHVlYm1PeVEveVdZMXVvZVVEelBOOW1Xclp2NWVDOFIyRGtpTWNoY3A1dzNhTVdZODBvWWplWWtkZjhnV2orQnp6Rg==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV6_源1
+超级电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yMWdqVmdTY0JnS1lmSkdjM2dLMUQ3OTBoOHBBdUxFbDY1a3B0N2s5WGJqU0k5VXhNbnF2RTgzUU5qc2xXdExtdWpLNnFId3lRUHAwUWZVN2JRY1RrZjBqbkpaQXYwMmV2QksrVFBuQkZ5Qk9rMXBkczNIK0JiNlN3S3pKRXF3U1dvY0IvSFdjVFdZNQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV6_源2
+超级电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yMWdqVmdTY0JnS1lmSkdjM2dLMUQ3L3pSRU9USXVja05ZUnhSKzZIckpnY2N3K0RxWGJLZkxBM3EzK20rbHJSLzZzdDM4dEdKZ3ZzT0FtUEkyTTU1NWFRbnVmeG9UK29iYzBUWE5MSlhGOWZYOGJFQWJJWVVXMTQ3Qk9lTjE4bHZ4djloU3ZqUkhQbw==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV6_源3
+超级电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yNGFjV3grNHp5R1EwNGRNWFNDeWhZYTZvMDA3Nmx4MDBGSGpPUUVBaTRwdWh1ZFhoV20wTitCUFFkWjlLdmNIdWVwUlloR3FveFdwaXZ4b0F2anlybnpOU09PYkozbXZXVUFTVVBsaTNLaVA=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV6_源4
+超级电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yMWdqVmdTY0JnS1lmSkdjM2dLMUQ3OTBoOHBBdUxFbDY1a3B0N2s5WGJqU0k5VXhNbnF2RTgzUU5qc2xXdExtdWpLNnFId3lRUHAwUWZVN2JRY1RrZjBqbkpaQXYwMmV2QksrVFBuQkZ5Qk9rMXBkczNIK0JiNlN3S3pKRXF3U1dpYlV4QmRpMURLLw==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV6_源5
+避风影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUYkc5ek84VXlremU5U0lFdzU5dER5a0FCUVFNMlI2QUNrbFB5ODRTbXBUS1FpV1gxaGJTSXJLOEhOam91Y3hFY055aGNwS1d5RWdESVhvTlRtbE9hU2l0bzJqNHB6eWEwS1JVTUs1NHNvazRnPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+避风影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUWnI2blhDdkJIcyt1WUx3UDlmcDNlakVBMHZ5UnBRMFR3PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+邵氏影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN2x3Z3B0UEpsR0ZiUDhzOVkzK0R3L2NzQWU4djNaUlFVSVVaU05XeWRuaVgyWlIyNkxvZ3Z2anhsNm5wKzFsci93PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+邵氏影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUYUVUSFcrNERpc0NLOSsyTGt6ejFIVGk5QzdqN3hLTk93PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+邵氏影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VEEvVEQxMU50SHgxVDQ4ckVMUktsemdrWDNXWjVtNXIzamJOcHlkdWJqYU82OE9XcVdsdkJoQVhoaGZWcDYwZmtWbVI5RngwUEVIditEZXdVQXdiT1E9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+邵氏影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEdRdXV0a1VYaEtNbElyWkltUEdRVTkyMnlRa0pLenJJenJtNVRlR1JzQ1NGSUFxVktEWmJwcmxJZ3I2RWUwRnBNPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源4
+邵氏影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3NCQVlnT3RVdjB0OCt6NG4rRFlldTcydHBMWFpwcUJBenIzUnFqdjFTOEQxMTNkQTdIZTNUdmwzSWhSOEl5SElVPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源5
+邵氏影院,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEd4RHhUcGhuYTB5R004TmNGU2NyamxZakk2d2RYcnRhVlprcUNmUldmSVRuRG80QkY1WXBSc2wwdWpRWGd6NDMwPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源6
+重温经典,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qno5Qnp5NXFuMmNsaEtwOHJQTGNwMUtuU0F6NktjVVZZWEViYU5hcEhzTzJJUDAwSzZPSGc2U0duUnpMeXBOZUp2YWxJamRDQUUyV0MzTnlLSUhTVmtt/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+重温经典,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/K2FNT3Q4WlFvQjFhajdPei8zak0xZllramg3bGtIZjltVTYxampCc0F1cy9HUExaL0Q2Vjh1WktKZWVQdStHK3FUQ2pNYkZZZnA0SHhPL0RZRldiRFNLay95aHJBNVVVUC9ZM0lFMGcwbERTengxTEx3RGpOckQ1d3gxTk15UU9jRmxMQ0ZmRXRlVS8zSVNDZGJ4YWRoK1VobUhsZFJGL1YvY3pCTkl4Zi9DeDBmN2RObUxzWk9Oek1USnk5K0E0TWRRc29ZTmt3Z0hPeEhTRTRUQ0MySWhrMm1JZkJQOEFwSmJOVTd5am04RmlmZnE0RGVTVVRJcDZvbnorQlVRbnpBRFZReWM4NWtNZWtCaHYxL2FNR3pDN1Q4SUFZWEo2MHlxbmRZTjhDWEU9/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+重温经典,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0QxNWZobmxSTjFiTzNqYkdvdmJ0bDRieG9XMUVPVkJHRkZGaEo1Wi9QV1VxdVZrTjlyOVpxVFNaVWNSSTFrZndvNGFqdyt4eVlBRFZERGRkYSthVlUzTEMrTTlldGl2a2hyMUIxZ1Rub1Z1b3NnTVZLRVFyWlFMWENFME81QzdSQlNuWkdKVk5mOWlFOUpBZUNuNU1hWXUrUjQrRlRpdzI4PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+重温经典,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/VG12NFNITXlpWjlQMnlsVUpaMHFKbzhZUFN3Zkd1ZWFWR1pMZzVDckpMVGF2MXhOcnkvTk8ySHY4UU53U3VTZE9VbGhVZzZxTTh4U3EwcW8yYnEyNVNTbXJjaVJhbzZz/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源4
+重温经典,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/dlUwN0RTT2lrcHVvaE9DaWYzZ3lhVXRqNWl3NDh5QXpoM3Bob3pjOWNQZFAzV3N3cWVobzBadTdiOUxpVmRGaU5DRFNDZlRUanBDdGJmZEJkbkZKbGc9PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源5
+重温经典,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/RW5ncmZOdkxidWJpZVlJd3k2aVYxYUJzMzg0VGZhMG5lOTJoMHpLMjI1S1J1QnFBbElJRFhRPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源6
+電影劇場,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUYXZRN3poQnlEOUNOelB2RHo0NFMzNkQxUGVWU21zRlBZPQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+電影劇場,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndicEt3bHRhSUZjemhCUFZMZlpoV3JsZWdnYUdFVjJUWW1XQzIrRjVqZUc5V2pMTS85clNxOVFlYVQ5T3NKMExkQWdKRUU3VVdUc1p6dU42dHYwRWhGQ0U3MFphVmh4SDZzQXNENWpsZ0FQVDRuc1VmQ1pkcm1xM3R0SDdXeE40Ykx2a3V4dUppNExBPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+黑莓电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEZhUlZmcHJ2aS9VL1VsNlAxOEVYV0pRUjdSL3VobGs1VTJWS2NPSklXdEZESGkwVVZ4WE1HWmwxSHdpbkhHc21IY215K3ZjcnJ6cnFkYUxHM3NGdTJqNWt4MzhyeklPWnlZRnZYUnJkTHY1ZzVKNUxadmc4bkpNRWJKaXlMbDQzbWxCUGRlZlE3ejBnPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源1
+黑莓电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEZhUlZmcHJ2aS9VMlNHZmpiUW5zdHB4SjhROEx0cmxTZ0piM0JhWTdNcDJ3NnB1bGt6WnpHaEdoaU56VDE5TmVqMVRkdit0TjVWdlpxOStuS2dBZk02Y1lOM25IcnBxYjQ5cXFsMWhSZjkyY0pXMnRJYVZML0xBeXhPaXpoSFdtcW5nakt4SnNpc05BPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源2
+黑莓电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEZhUlZmcHJ2aS9VOUtVNnFMdUJQNk9KTDVha3VlbWJ3clJUMDZlcVUzTlN0OGljd1lzOWxndVdCRFA5cW1TSm9Mc3RrUUF6NVdCNEFDTHFSTDZLbGQ2aDZCNWVIWllQa3ZHZGc2NkdPNHpsQWo5V2tXbHMyanc0OHN3N0graHpwNTFVTCtFVk82M3VnPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源3
+黑莓电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEZhUlZmcHJ2aS9VNVBiVGh6V1ppbmRVRnBWRjl3UGpGUTVsaittdVJuanBRbjcxWHNnYXk2N3M0RytzU0Mwd3pOV0lFclRRZHJZc0ZmVHpGeUlDMTVqbmVLazAyUlZqZlJjM1czNHZiWFFJUHIzMjRWaGZ1STdSTGVuOG1teXFjNGdJdnBZNnh4T3VnPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源4
+黑莓电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEZhUlZmcHJ2aS9VNmhjSm10MW8vQ0twMVY3RDJlZjZYdTNSNWtKSENjeFFoOTlIMWVQaHVTYlZ5RHI2a3FvdWs0aHF0K0dYQlhJRzhxcXNNWUVLcDBacmlLczhaR3M5bnI2L0R2Z0NqYkhzbXBDOU0rd255SGJwMFo3b3dWVFVFeWRiZktNY254cGlBPT0=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV4_源5
+黑莓电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yOHBvdFBNWVlxOTNHTmFBNzBkTC9HTDZDOWsvWmlKYUxwQk1wSGpwaDBhaVpnYWdnSjBiMXZtaUVrZlV3Sms0ZThJT3JOWVpYMnAwb2VkRWNOUXNDMFZYWEdRcXVsYzlHcmdncHZyQ2hZanp6VUVmOUtBV29hYTVNbzQ0M3lSbW1IeXpHdktydHgxcQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV6_源1
+黑莓电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yMWdqVmdTY0JnS1lmSkdjM2dLMUQ3OUViYzVNMTBVQWhGTUVjbFVNZk9GRVQvaEJjQVllU0JSeXQrdDNuaURZOHcxc25aRXlwVkJ4TlpvcjZ4dHM4ekEyeFE2NkhYUksrTlVNRzZ1Q04xalI=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV6_源2
+黑莓电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yMWdqVmdTY0JnS1lmSkdjM2dLMUQ3L3pSRU9USXVja05ZUnhSKzZIckpnY2N3K0RxWGJLZkxBM3EzK20rbHJSLzZzdDM4dEdKZ3ZzT0FtUEkyTTU1NWJiUUoxN3ZXOFpaaHVqMGJoMHNBQitSeWxsdW52STY1ZEZOU3FTYWVWS2d6SFdtdE1aZ05XUA==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV6_源3
+黑莓电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yNGFjV3grNHp5R1EwNGRNWFNDeWhZYTZvMDA3Nmx4MDBGSGpPUUVBaTRwdWh1ZFhoV20wTitCUFFkWjlLdmNIdVIwUThQYWZJblllN0ZuR1dXY3JscEJpT2dmMVFFditoZXpDZTNuUlV2QTQ=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV6_源4
+黑莓电影,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/U2NaRklDSVpxZG8xdlc4NThpY28yNGFjV3grNHp5R1EwNGRNWFNDeWhZYTZvMDA3Nmx4MDBGSGpPUUVBaTRwdWh1ZFhoV20wTitCUFFkWjlLdmNIdVIwUThQYWZJblllZUFPWjdZWFkvQzY0UlhBSzZjRkRTYnVzbStlaFNiZHk=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/0$IPV6_源5
+
+体育,#genre#
+广东体育,http://219.137.29.213:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://183.11.239.36:808/hls/2/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+广东体育,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN25Oczk4aFJ4aTE2b2x0TDNkUmI0MnVQQjRQR2pDYmhCOEQrK1NkUjlZVk94Ymk4K2QxMi85K3luTDRHUitocE04PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+广东体育,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0NRQk53Y1U5bVlYemxSS3lOaThZNklXSDF2SUlqZFhCT20vZ3drMXpIUDhTbWlFZC9IRFR1T3o2Ny9EVGRRZ2doMDQwL2VmNmNMTER5SWdGRVRrbGFraGowRVAxNXVieHh4MjRyMU5RUHpYZz09/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+广东体育,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndBcGN0a0dFazBEb1RTVjVsaCs3Vmx0T0Z4c1Q4aytHQlVLK0tFaWE3QXZpTTFLQ3hiV0gyOXJpSll2TzNMLzJRcmxreDl1SjNKMk9qZmwyQTNrSlh6/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+广东体育,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN25Oczk4aFJ4aTE2b2x0TDNkUmI0MnVQQjRQR2pDYmhCOEQrK1NkUjlZVk8rU2VzRjJPRGhRMUgrMUpFNm8vWVp3PQ==/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+广东体育,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEZhUlZmcHJ2aS9VNElXczRJd094MlNpazdLME5QMXZVL0RkSllJM0RmOHFqejBXMjFBYUgzam5RcXFIVFphUjFlTUwzZkIzclQ0VTVWVlJEYTVSeTh3d3N3RkRCMjlpUXY0MjA1ejRHSm0xUVpoak9IemF5YXk=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+广东体育,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEZhUlZmcHJ2aS9VL0xobHRKZnR6WWNXRzFHUHZOQkV2aUlNOE5pMWM3ODJ3VXI3M0ZlVFRraExKOGJ0cUhMaW42TlJZY0dQYml6ZHg3THZhSVlDZXgwenVFSERicitFeXZCVThTOGYzMnVKVDZydDZGNzFKSjg=/Bz3feRiR1Wtv4hBGglrQ6w==/txt/2
+上海五星体育,http://116.237.248.80:9901/tsfile/live/1010_1.m3u8
+
+卫视频道,#genre#
+广东卫视,http://183.11.239.36:808/hls/80/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+广东卫视,http://219.137.29.213:4433/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://61.141.202.118:9901/tsfile/live/0125_2.m3u8?key=tvbox6_com&playlive=1&authid=0
+广东卫视,http://61.141.202.118:9901/tsfile/live/0125_2.m3u8?key=tvbox6_com&playlive=0&authid=0
+广东卫视,http://124.128.73.58:9901/tsfile/live/0125_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+广东卫视,http://www.8700956.top:18888/rtp/239.81.1.021:4056
+深圳卫视,http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
+深圳卫视,http://222.240.82.92:9901/tsfile/live/0126_1.m3u8
+深圳卫视,http://61.141.202.118:9901/tsfile/live/0126_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+深圳卫视,http://124.128.73.58:9901/tsfile/live/0126_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+深圳卫视,http://61.141.202.118:9901/tsfile/live/0126_1.m3u8?key=tvbox6_com&playlive=0&authid=0
+深圳卫视,http://www.8700956.top:18888/rtp/239.81.1.027:40568
+深圳卫视,http://222.240.82.92:9901/tsfile/live/0126_1.m3u8
+湖南卫视,http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
+江苏卫视,http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
+海南卫视,http://39.134.66.66/PLTV/88888888/224/3221225530/index.m3u8
+河北卫视,http://39.134.66.66/PLTV/88888888/224/3221225495/index.m3u8
+北京卫视,http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
+辽宁卫视,http://39.134.66.66/PLTV/88888888/224/3221225499/index.m3u8
+山东教育卫视,http://39.134.66.66/PLTV/88888888/224/3221225558/index.m3u8
+东方卫视,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
+东南卫视,http://39.134.66.66/PLTV/88888888/224/3221225500/index.m3u8
+贵州卫视,http://39.134.66.66/PLTV/88888888/224/3221225576/index.m3u8
+湖北卫视,http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
+
+重庆卫视,http://39.134.66.66/PLTV/88888888/224/3221225502/index.m3u8
+新疆卫视,http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
+云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
+云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
+青海安多卫视,http://39.134.66.66/PLTV/88888888/224/3221225531/index.m3u8
+青海卫视,http://39.134.66.66/PLTV/88888888/224/3221225573/index.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
+青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
+内蒙古卫视,http://39.134.66.66/PLTV/88888888/224/3221225577/index.m3u8
+天津卫视,http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
+西藏卫视,http://39.134.66.66/PLTV/88888888/224/3221225570/index.m3u8
+山西卫视,http://39.134.66.66/PLTV/88888888/224/3221225496/index.m3u8
+陕西卫视,http://39.134.66.66/PLTV/88888888/224/3221225567/index.m3u8
+
+
+
+
+广东台IPV4,#genre#
+乐昌综合,http://xxw.me0.cn/php/cdian.php?id=lctv
+云台山小寨沟,https://gcalic.v.myalicdn.com/gc/ytsxzg_1/index.m3u8
+云台山百家岩,https://gcalic.v.myalicdn.com/gc/ytsbjy_1/index.m3u8
+云台山红石峡,https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8
+云台山茱萸峰,https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8
+南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+广东-梅州梅江,http://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
+广东大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+广东少儿,http://183.11.239.36:808/hls/175/index.m3u8?key=tvbox6_com&playlive=1&authid=06
+广东影视,http://183.11.239.36:808/hls/6/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
+广东新闻,http://183.11.239.36:808/hls/5/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+广东综艺,http://183.11.239.36:808/hls/9/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+广宁综合,http://xxw.me0.cn/php/cdian.php?id=gnzh
+开平生活,http://xxw.me0.cn/php/cdian.php?id=kpsh
+开平综合,http://xxw.me0.cn/php/cdian.php?id=kpzh
+惠东综合,http://xxw.me0.cn/php/cdian.php?id=hdzh
+新会综合,http://xxw.me0.cn/php/cdian.php?id=xhzh
+普宁综合,http://xxw.me0.cn/php/cdian.php?id=pnzh
+梅州一套综合频道,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
+梅州二套公共频道,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
+梅州综合,https://epg.pw/stream/a9929c250f4886855160fd765fd58c44495264aae3afefc773535f5c5fde5914.m3u8
+汕头综合,https://epg.pw/stream/ad47796a356de5d15134763a853151099633faa1189c386264a5084a0529172f.m3u8
+深圳娱乐频道,http://183.11.239.36:808/hls/155/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+深圳少儿,http://183.11.239.36:808/hls/157/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+深圳电视剧,http://61.141.202.118:9901/tsfile/live/0126_3.m3u8?key=tvbox6_com&playlive=0&authid=0
+深圳电视剧,http://61.141.202.118:9901/tsfile/live/0126_3.m3u8?key=tvbox6_com&playlive=1&authid=0
+深圳电视剧频道,http://183.11.239.36:808/hls/141/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+深圳财经生活,http://183.11.239.36:808/hls/151/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+深圳都市,http://183.11.239.36:808/hls/140/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+深圳都市,http://61.141.202.118:9901/tsfile/live/0126_2.m3u8?key=tvbox6_com&playlive=1&authid=0
+深圳都市,http://61.141.202.118:9901/tsfile/live/0126_2.m3u8?key=tvbox6_com&playlive=0&authid=0
+深圳都市,https://epg.pw/stream/8c1177e00270c440056e291408af0215e06b0c78f6e4af4576d1069a82b17f64.m3u8
+潮安综合,http://xxw.me0.cn/php/cdian.php?id=cazh
+番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+紫金综合,http://xxw.me0.cn/php/cdian.php?id=zjzh
+经济科教,http://183.11.239.36:808/hls/4/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+英德综合,http://xxw.me0.cn/php/cdian.php?id=ydxw
+鹤山综合,http://xxw.me0.cn/php/cdian.php?id=hszh
+云浮综合,https://livestream.oeeee.com/slive/17806.m3u8
+
+湖北,#genre#
+武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
+武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
+武汉电视剧,http://stream.appwuhan.com/2tzb/sd/live.m3u8
+武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
+武汉外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
+武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8
+武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
+武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
+荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+荆门公共,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
+荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
+十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8 
+荆门，http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
+江夏，http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubdhttp://hbqjdb.chinashadt.com:2035/live/3.stream/playlist.m3u8
+
+
+
