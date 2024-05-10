@@ -85,7 +85,7 @@
       "name": "少小初高1"
     },
     {
-      "url": "https://gitee.com/heidelinou/ss/raw/master/%E7%B2%BE%E7%AE%80.json",
+      "url": "https://gitee.com/heidelinou/ss/raw/master/001.json",
       "name":"少小初高2"
     },
     {
