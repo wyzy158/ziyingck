@@ -161,6 +161,39 @@
                 "免嗅": "0"
             }
         },
+          {
+      "key": "OK影院",
+      "name": "OK|影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.okdyw.com/vodshow/{cateId}-{area}-------{catePg}---{year}/"
+      }
+    },
+     {
+      "key": "百度资源",
+      "name": "百度|云播 ",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "大陆剧",
+        "战争片",
+        "动作片",
+        "喜剧片"
+      ]
+    },
+     {
+            "key": "drpy_js_纽约影院",
+            "name": "纽约|影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/纽约影院.js"
+        },
     {
       "key": "jingluo",
       "name": "影视 | TVB云播",
