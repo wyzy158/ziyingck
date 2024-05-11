@@ -29,6 +29,10 @@
       "name": "影视线路3"
     },
     {
+      "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/K.json",
+      "name": "影视线路4"
+    },
+    {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
       "name": "少小初高1"
     },
