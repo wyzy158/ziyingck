@@ -27,17 +27,6 @@
         "分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"
       }
     },
-     {
-      "key": "悠云追剧",
-      "name": "悠云追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "简介": ">&&</div>",
-        "分类url": "https://www.yoyys.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
-      }
-    },
     {
       "key": "凯奇追剧",
       "name": "凯奇追剧",
