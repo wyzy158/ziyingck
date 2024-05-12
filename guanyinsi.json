@@ -49,28 +49,7 @@
         "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"
       }
     },
-    {
-      "key": "赘婿影视",
-      "name": "赘婿影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "数组": "video-img lazyload&&</p>",
-        "副标题": "mr-xs-0\">&&</span>",
-        "简介": "entry-content clearfix\">&&</p>",
-        "搜索url": "https://zhuixu.cc/Kansearch/-------------/?wd=",
-        "线路数组": "data-target=\"#ewave-playlist-&&</li>",
-        "线路标题": ">&&</a >",
-        "播放数组": "<ul class=\"row ewave-tab-content ewave-playlist-content&&</ul>",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "https://zhuixu.cc/type/{cateId}-{catePg}/",
-        "分类": "剧集$2#电影$1#番剧$4#纪录$39#短剧$44#体育$45#娱乐$46#解说$48"
-      }
-    },
-     {
+   {
       "key": "123影视",
       "name": "123影视",
       "type": 3,
