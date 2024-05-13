@@ -136,6 +136,139 @@
       "quickSearch": 1,
       "filterable": 1
     },
+     {
+      "key": "csp_Nkdy",
+      "name": "耐看影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Nkdy"
+    },
+    {
+      "key": "csp_Czys",
+      "name": "橙汁影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Czys"
+    },
+    {
+      "key": "csp_Juqq",
+      "name": "剧圈影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Juqq"
+    },
+    {
+      "key": "csp_LiteApple",
+      "name": "苹果影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_LiteApple"
+    },
+	{
+      "key": "比特",
+      "name": "比特影视",
+      "type": 3,
+      "api": "csp_Bttwo"
+    },
+	 {
+      "key": "csp_Vidhub2",
+      "name": "Vid影视",
+      "type": 3,
+      "api": "csp_Vidhub2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "厂长",
+      "name": "厂长影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.cz233.com/"
+    },
+    {
+      "key": "csp_AppRZ",
+      "name": "忍者影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_AppRZ",
+      "ext": "http://rzys.xyz/"
+    },
+    {
+      "key": "csp_Freeok",
+      "name": "️FreeOK影视",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_Freeok"
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "农民影视",
+      "type": 3,
+      "api": "csp_Nmys",
+      "playerType": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://v.nmvod.cn"
+    },
+    {
+      "key": "csp_Auete",
+      "name": "Aue影视",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Kuaikan",
+      "name": "快看影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	 {
+      "key": "哔嘀",
+      "name": "哔嘀影视",
+      "type": 3,
+      "api": "csp_Bdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": "1"
+    },
+    {
+      "key": "毛驴",
+      "name": "毛驴影视",
+      "type": 3,
+      "api": "csp_MaoLv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "兄弟",
+      "name": "兄弟影视",
+      "type": 3,
+      "api": "csp_Xdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_GanFan",
+      "name": "干饭影视",
+      "type": 3,
+      "api": "csp_GanFan",
+      "playerType": 2
+    },
     {
       "key": "非凡",
       "name": "影视 | 非凡",
