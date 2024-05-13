@@ -269,6 +269,16 @@
       "api": "csp_GanFan",
       "playerType": 2
     },
+     {
+      "key": "csp_Xdys",
+      "name": "小点",
+      "type": 3,
+      "api": "csp_Xdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
     {
       "key": "非凡",
       "name": "影视 | 非凡",
