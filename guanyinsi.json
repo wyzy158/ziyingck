@@ -297,16 +297,6 @@
             "ext": "http://aikun.tv/api.php/app/"
         },
         {
-            "key": "神马影视",
-            "name": "神马",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.shenmaysk.com/api.php/app/"
-        },
-        {
             "key": "小马影视",
             "name": "小马",
             "type": 3,
@@ -375,27 +365,7 @@
             "filterable": 1,
             "ext": "https://www.69mj.com/xgapp.php/v2/"
         },
-        {
-            "key": "大米星球",
-            "name": "大米",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://damifi.com/api.php/app/"
-        },
-        {
-            "key": "UM电影",
-            "name": "UM电影",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://app.umkan.app/mogai_api.php/v1.vod"
-        },
-        {
+       {
             "key": "555影院",
             "name": "555",
             "type": 3,
