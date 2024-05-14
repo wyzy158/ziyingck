@@ -400,8 +400,8 @@
       "name": "小学┃教育",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/小学课堂.json"
     },
