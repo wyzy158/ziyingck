@@ -397,13 +397,13 @@
         },
           {
       "key": "小学",
-      "name": "🌏 小学┃教育",
+      "name": " 小学┃教育",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/哔哩哔哩小学.json"
+      "ext": "./lib/小学课堂.json"
     },
      
       {
