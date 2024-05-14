@@ -104,6 +104,17 @@
   "分类url":"https://www.gtrgt.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
   "分类":"电影$1#电视剧$2#综艺$3#动漫$4#电影解说$21"}
  },
+  {
+      "key": "榜一短剧",
+      "name": "榜一短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/wxbtt/duanju/raw/master/jar/dongchen.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/wxbtt/duanju/raw/master//lib/duanjuu.json"
+ },
     {
       "key": "Wogg",
       "name": "阿里 | 玩偶哥哥",
