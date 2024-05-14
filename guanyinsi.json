@@ -397,7 +397,7 @@
         },
          {
       "key": "小学",
-      "name": "小学┃教育",
+      "name": "教育 | 小学课堂",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
