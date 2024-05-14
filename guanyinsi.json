@@ -403,7 +403,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./LB/哔哩哔哩小学.json"
+      "ext": "./lib/哔哩哔哩小学.json"
     },
       {
       "key": "Wogg",
