@@ -255,7 +255,177 @@
       "jar": "https://gitee.com/wxbtt/duanju/raw/master/lib/dj4.jar",
       "ext": "https://gitee.com/wxbtt/duanju/raw/master/lib/VS影院.json"
     },
-    {
+    
+        {
+            "key": "追剧兔",
+            "name": "剧兔",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.zjtu.tv/api.php/app/"
+        },
+        {
+            "key": "北极狐",
+            "name": "北狐",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.kuin.one/api.php/app/"
+        },
+        {
+            "key": "河狸影视",
+            "name": "河狸",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.heli888.cc/api.php/app/"
+        },
+        {
+            "key": "皮皮虾",
+            "name": "皮虾",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://aikun.tv/api.php/app/"
+        },
+        {
+            "key": "神马影视",
+            "name": "神马",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.shenmaysk.com/api.php/app/"
+        },
+        {
+            "key": "小马影视",
+            "name": "小马",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://mas.szyyds.cn/api.php/app/"
+        },
+        {
+            "key": "影视之家",
+            "name": "影窝",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+        },
+        {
+            "key": "映迷",
+            "name": "映迷",
+            "type": 1,
+            "api": "https://www.inmi.app/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "爱迪影院",
+            "name": "爱迪",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://adys.tv/xgapp.php/v1/"
+        },
+        {
+            "key": "影视站影视",
+            "name": "影库",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://xn--p3t583cbin.top/api.php/app/"
+        },
+        {
+            "key": "银河影视",
+            "name": "银河",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://134.175.219.46/mogai_api.php/v1.vod"
+        },
+        {
+            "key": "69美剧",
+            "name": "美剧",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.69mj.com/xgapp.php/v2/"
+        },
+        {
+            "key": "大米星球",
+            "name": "大米",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://damifi.com/api.php/app/"
+        },
+        {
+            "key": "UM电影",
+            "name": "UM电影",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://app.umkan.app/mogai_api.php/v1.vod"
+        },
+        {
+            "key": "555影院",
+            "name": "555",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://55wuv.com/api.php/app/"
+        },
+        {
+            "key": "千神影院",
+            "name": "千神",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.56aq.com/api.php/app/"
+        },
+        {
+            "key": "五一影视",
+            "name": "五一",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
+        },
+      {
       "key": "Wogg",
       "name": "阿里 | 玩偶哥哥",
       "type": 3,
