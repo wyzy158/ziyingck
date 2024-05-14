@@ -17,6 +17,17 @@
       }
     },
     {
+      "key": "红狐狸影院",
+      "name": "红狐狸影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "+line-height: 20px;\">&&</div>",
+        "分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"
+      }
+    },
+    {
       "key": "高清在线",
       "name": "高清在线",
       "type": 3,
