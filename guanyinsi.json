@@ -395,16 +395,17 @@
             "filterable": 1,
             "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
         },
-         {
+          {
       "key": "小学",
-      "name": " 小学┃教育",
+      "name": "🌏 小学┃教育",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/哔哩哔哩小学.json"
     },
+     
       {
       "key": "Wogg",
       "name": "阿里 | 玩偶哥哥",
