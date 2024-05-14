@@ -395,15 +395,15 @@
             "filterable": 1,
             "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
         },
-          {
+         {
       "key": "小学",
-      "name": " 小学┃教育",
+      "name": "小学┃教育",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/小学课堂.json"
+      "ext": "./LB/小学课堂.json"
     },
      
       {
