@@ -403,7 +403,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./LB/小学课堂.json"
+      "ext": "./lib/小学课堂.json"
     },
      
       {
