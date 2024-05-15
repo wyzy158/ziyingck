@@ -30,26 +30,6 @@
       "ext": "./lib/优酷.js"
     },
     {
-      "key": "py_cctv",
-      "name": "🎈 CCTV",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/py_cctv.py"
-    },
-    {
-      "key": "py_cctvdh",
-      "name": "🎈 CCTV动画",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/py_cctvdh.py"
-    },
-    {
       "key": "csp_XYQHiker_兔小贝",
       "name": "🎈 兔小贝1",
       "type": 3,
@@ -70,16 +50,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/兔小贝2.json"
-    },
-    {
-      "key": "ysjd",
-      "name": "🎈 央视┃经典",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/央视经典.json"
     },
     {
       "key": "童趣",
