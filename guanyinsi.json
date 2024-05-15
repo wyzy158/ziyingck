@@ -255,6 +255,15 @@
       "jar": "https://gitee.com/wxbtt/duanju/raw/master/lib/dj4.jar",
       "ext": "https://gitee.com/wxbtt/duanju/raw/master/lib/VS影院.json"
     },
+    {
+      "key": "短剧网",
+      "name": "影视 | 短剧网",
+      "type": 3,
+      "api": "csp_Duanjuw",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     
         {
             "key": "追剧兔",
