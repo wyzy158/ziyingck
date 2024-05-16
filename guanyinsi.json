@@ -369,16 +369,22 @@
             "filterable": 1,
             "ext": "https://adys.tv/xgapp.php/v1/"
         },
-        {
-            "key": "影视站影视",
-            "name": "影库",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://xn--p3t583cbin.top/api.php/app/"
-        },
+       {
+      "key": "掌心",
+      "name": "掌心影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "数组": "class=\"col8\"&&</li>",
+        "嗅探词": ".m3u8#mp4",
+        "分类url": "https://www.zhangxindy.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#动漫$4#电视剧$2#短剧$38#解说$39#综艺$3"
+        }
+    },
         {
             "key": "银河影视",
             "name": "银河",
