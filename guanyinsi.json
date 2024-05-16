@@ -421,6 +421,26 @@
             "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
         },
         {
+      "key": "shaozeyy",
+      "name": "少泽影客",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://yk.shaozeyy.com/api.php/app/"
+    },
+	 {
+      "key": "蚂蚁",
+      "name": "蚂蚁 ",
+      "type": 3,
+      "api": "csp_Mayiys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://rzys.xyz"
+    },
+        {
       "key": "Wogg",
       "name": "阿里 | 玩偶哥哥",
       "type": 3,
