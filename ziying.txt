@@ -34,7 +34,7 @@
     },
     {
       "url": "https://gitee.com/heidelinou/ss/raw/master/001.json",
-      "name":"少小初高"
+      "name":"影视线路5"
     },
     {
       "url": "https://www.yingm.cc/dm/dm.json",
