@@ -17,15 +17,14 @@
       }
     },
     {
-      "key": "红狐狸影院",
-      "name": "红狐狸影院",
+      "key": "影视工厂",
+      "name": "影视 | 影视工厂",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": {
-        "简介": "+line-height: 20px;\">&&</div>",
-        "分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"
-      }
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "分类url:https://www.ysgc.fun/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
     },
     {
       "key": "高清在线",
@@ -441,17 +440,16 @@
       "jar": "./lib/fan.txt;md5;9fdf355f7d803698900ccf4ceb4626cb",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
-    {
+   {
       "key": "厂长",
-      "name": "影视┃厂长",
+      "name": "影视 | 厂长",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
-      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.czys.top"
+      "ext": "https://www.czys.top/"
     },
     {
       "key": "低端",
