@@ -82,7 +82,7 @@
     },
     {
       "url": "https://gitee.com/heidelinou/ss/raw/master/001.json",
-      "name":"少小初高"
+      "name":"教育频道"
     },
     {
       "url": "https://www.yingm.cc/dm/dm.json",
