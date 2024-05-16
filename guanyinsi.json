@@ -430,16 +430,6 @@
       "changeable": 1,
       "ext": "https://yk.shaozeyy.com/api.php/app/"
     },
-	 {
-      "key": "蚂蚁",
-      "name": "蚂蚁 ",
-      "type": 3,
-      "api": "csp_Mayiys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://rzys.xyz"
-    },
         {
       "key": "Wogg",
       "name": "阿里 | 玩偶哥哥",
