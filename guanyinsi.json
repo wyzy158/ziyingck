@@ -522,16 +522,15 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
    {
-      "key": "厂长",
-      "name": "影视 | 厂长",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.czys.top/"
-    },
+         "key": "鑫鑫影院",
+         "name": "鑫鑫",
+         "type": 3,
+         "api": "csp_AppYsV2",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+      },
     {
       "key": "低端",
       "name": "影视 | 低端",
@@ -542,12 +541,11 @@
       "filterable": 1
     },
      {
-      "key": "csp_Nkdy",
-      "name": "耐看影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Nkdy"
-    },
+		"key": "e173267b0d7e1f1a1189c22c3bb7b556", 
+		"name": "淘片", 
+		"type": 0, 
+		"api": "https://taopianapi.com/cjapi/mc10/vod/xml.html"
+   },
     {
       "key": "csp_Czys",
       "name": "橙汁影视",
