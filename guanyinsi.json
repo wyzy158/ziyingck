@@ -666,11 +666,11 @@
       "filterable": 1
     },
     {
-      "key": "csp_GanFan",
-      "name": "干饭影视",
+      "key": "csp_Nkdy",
+      "name": "耐看影视",
       "type": 3,
-      "api": "csp_GanFan",
-      "playerType": 2
+      "playerType": "2",
+      "api": "csp_Nkdy"
     },
      {
       "key": "csp_Xdys",
