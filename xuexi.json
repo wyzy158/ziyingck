@@ -1,7 +1,6 @@
-//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
-    "spider": "./spider.jar",
+    "spider": "./xuexi.jar",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -613,26 +612,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "fan",
-            "name": "导航 https://饭太硬.top",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "cc",
-            "name": "请勿相信视频中广告",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
         }
-    ],
+      ],
     "doh": [
         {
             "name": "Google",
