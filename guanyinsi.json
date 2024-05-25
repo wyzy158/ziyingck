@@ -306,25 +306,6 @@
       "ext":"https://www.kuin.one/api.php/app/"
     },
     {
-      "key": "秒播短剧",
-      "name": "短剧直连",
-      "type": 3,
-      "api": "csp_Wexduanjuvop",
-      "jar": "./lib/djuzl.jar",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "星芽短剧",
-      "name": "星芽短剧",
-      "type": 3,
-      "api": "csp_AppXY",
-      "jar": "./lib/djuzl.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "csp_XYQHiker_VSYY",
       "name": "短剧11",
       "type": 3,
