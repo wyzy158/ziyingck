@@ -560,7 +560,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "./json/少儿教育.json"
+            "ext": "./json/少儿.json"
         },
         {
             "key": "小学课堂",
@@ -574,7 +574,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "./json/小学课堂.json"
+            "ext": "./json/小学.json"
         },
         {
             "key": "初中课堂",
@@ -588,7 +588,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "./json/初中课堂.json"
+            "ext": "./json/初中.json"
         },
         {
             "key": "高中教育",
@@ -602,7 +602,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "./json/高中课堂.json"
+            "ext": "./json/高中.json"
         },
         {
             "key": "Nbys",
