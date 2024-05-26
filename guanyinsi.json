@@ -139,7 +139,7 @@
                  "播放标题":"<span&&</span",
                 "导演": "导演：&&</div>",
                 "主演": "主演：&&</div>",
-                "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$28#少儿$38",
+                "分类": "电影$1#连续剧$2#动漫$4#综艺$3#少儿$38",
                 "分类url": "http://www.qimaoym.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
         }
 	},
