@@ -91,6 +91,38 @@
         "分类": "剧集$2#电影$1#番剧$4#纪录$39#短剧$44#体育$45#娱乐$46#解说$48"
       }
     },
+    {"key": "bt影院",
+	"name": "bt影院",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": {
+		"二次截取": "class=\"module-items&&class=\"module-footer",
+		"数组": "class=\"module-item\"&&class=\"module-item\"",
+		"标题": "title=\"&&\"",
+		"副标题": "class=\"module-item-caption\">&&</div",
+		"链接": "href=\"&&\"",
+		"搜索url": "https://www.btbtl.com/search/{wd}",
+		"搜索数组": "class=\"module-item-pic&&</div",
+		"搜索模式": "1",
+		"多线二次截取": "class=\"module-row-info&&立即下载",
+		"多线数组": "class=\"module-row-text&&</a",
+		"多线链接": "href=\"&&\"",
+		"多线链接前缀": "",
+		"多线链接后缀": "",
+		"播放数组": "class=\"video-info-footer&&</div",
+		"列表二次截取": "",
+		"播放列表": "<a&&<svg",
+		"播放标题": "title=\"&&\"",
+		"播放链接": "href=\"magnet:?xt=urn:btih:&&\"",
+		"播放链接前缀": "magnet:?xt=urn:btih:",
+		"播放链接后缀": "",
+		"分类": "电影$movies#电视剧$tv",
+		"分类url": "https://www.btbtl.com/type/{cateId}/{catePg}/"
+	 }
+	},   		    
     {
      "key":"bkyy",
      "name":"布卡影视",
