@@ -365,23 +365,6 @@
             }
     },
     {
-       "key": "极品短剧",
-      "name": "极品短剧",
-      "type": 3,
-      "api": "csp_Wexduanjuvmp",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "河马短剧",
-      "name": "河马短剧",
-      "type": 3,
-      "api": "csp_Wexduanjuhema",
-      "searchable": 1,
-      "changeable": 1
-    },
-
-    {
             "key": "追剧兔",
             "name": "剧兔",
             "type": 3,
