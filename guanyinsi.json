@@ -90,8 +90,28 @@
         "分类url": "https://zhuixu.cc/type/{cateId}-{catePg}/",
         "分类": "剧集$2#电影$1#番剧$4#纪录$39#短剧$44#体育$45#娱乐$46#解说$48"
       }
+   },
+       {
+      "key": "多聚影视",
+      "name": "影视 | 多聚影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "分类url:https://duoju.vip/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
     },
-    {"key": "bt影院",
+    {
+      "key": "海兔",
+      "name": "影视 | 海兔影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "filterable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "分类url:https://www.haituu.tv/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
+    },
+   {"key": "bt影院",
 	"name": "bt影院",
 	"type": 3,
 	"api": "csp_XBPQ",
