@@ -564,6 +564,39 @@
             "timeout": 10
         },
         {
+      "key": "csp_CandyMuj_taoju",
+      "name": "淘剧影院",
+      "type": 3,
+      "api": "csp_CandyMuj_taoju",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	  {
+      "key": "csp_CandyMuj_qiqiyy",
+      "name": "琪琪影院",
+      "type": 3,
+      "api": "csp_CandyMuj_qiqiyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	 {
+      "key": "csp_BTPiaoHua",
+      "name": "新飘花电影网(磁力)",
+      "type": 3,
+      "api": "csp_BTPiaoHua",
+      "searchable": 1
+    },
+    {
+      "key": "csp_SixV",
+      "name": "6V电影网(磁力)",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "ext": "https://www.6vdy.org/"
+    },
+        {
       "key": "Wogg",
       "name": "阿里 | 玩偶哥哥",
       "type": 3,
