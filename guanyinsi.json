@@ -1127,70 +1127,6 @@
       }
     },
     {
-      "key": "03影院",
-      "name": "03|影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "playerType": "2",
-      "ext": {
-        "主页url": "https://www.03yy.co",
-        "数组": "<div class=\"pic-content pic-width-2\">&&</div",
-        "副标题": "<span>&&</span>",
-        "嗅探词": ".mp4?#m3u8#adsmind.ugdtimg.com",
-        "简介": "<p&&</p>",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "搜索模式": "1",
-        "搜索url": "https://www.03yy.co/search.php?searchword={wd}",
-        "搜索副标题": "<span>&&</span>",
-        "搜索链接": "href=\"&&\"",
-        "线路二次截取": "<ul id=\"playlist\">&&</ul",
-        "线路数组": " <li&&li>",
-        "线路标题": ">&&<",
-        "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId}&area={area}&year={year}",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
-      }
-    },
-    {
-      "key": "乌鸦",
-      "name": "乌鸦|影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "站名": "乌鸦影视",
-        "主页url": "https://wyys.wuyays.top/appto/v1/home/cateData?id=1",
-        "请求头": "User-Agent$Dart/2.19 (dart:io)",
-        "二次截取": "\"data\"*[&&]",
-        "数组": "{&&}",
-        "图片": "\"vod_pic\"*\"&&\"",
-        "标题": "\"vod_name\"*\"&&\"",
-        "副标题": "\"vod_remarks\"*\"&&\"",
-        "链接": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getVod?id=+\"vod_id\":&&,+_platform=android&__ic=lqGGz9NM4aHVoD8jSoFFcmfeQ0zcjkG0a6dOiCPe4lHMGzMEigPzyXuhccQRZf6D75pAyu5qXZa8Woq50p8Xvf11kZq38Yk6UAkKR0nWIPWyUN%2BrL68%2FTxsj%2Fs%2F%2Bdvz3d9mhjzeyYUyI71OEzzkEnw%3D%3D",
-        "线路数组": "\"player_info\":{&&}",
-        "线路标题": "\"show\"*\"&&\"",
-        "导演": "vod_director\"*\"&&\"",
-        "主演": "vod_actor\"*\"&&\"",
-        "简介": "vod_blurb\"*\"&&\"",
-        "播放二次截取": "&&[替换]",
-        "播放数组": "urls*\\[&&\\]",
-        "播放列表": "{&&}",
-        "跳转播放链接": "\"url\"*\"&&\"",
-        "播放标题": "\"name\"*\"&&\"",
-        "跳转解析": "默认$空#墨鸦内部$https://vip.yybjs.top/home/api?type=ys&uid=2691400&key=bcmqsvwyzACFIPY368&url=#墨鸦VIP$http://110.42.2.247:880//analysis//json//?uid=2496&my=adegilpstxyAEFOQWY&format=json&url=",
-        "播放链接": "解析+\"url\"*\"&&\"",
-        "搜索url": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getVodSearch?wd={wd}&page=1&type",
-        "搜索模式": "1",
-        "分类url": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=21;;u0",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
-      }
-    },
-    {
       "key": "黑狐",
       "name": "黑狐|影视",
       "type": 3,
@@ -1233,9 +1169,7 @@
         "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
       }
     },
-   
- 
-   {
+    {
             "key": "奇虎资源",
             "name": "奇虎|影视",
             "type": 1,
@@ -2252,26 +2186,6 @@
       ]
     },
     {
-      "key": "悠云影视",
-      "name": "影视 | 悠云影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "filterable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "分类url:https://yoyys.com/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4#纪录片$38"
-    },
-    {
-      "key": "光棍影视",
-      "name": "影视 | 光棍影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "filterable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "分类url:https://www.ggdy.net/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
-    },
-    {
       "key": "机器人",
       "name": "影视 | 机器人",
       "type": 3,
@@ -2279,124 +2193,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "农民影视",
-      "name": "农民影视",
-      "type": 3,
-      "api": "csp_WebNM",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://v.nmvod.cn"
-    },
-    {
-      "key": "03YINGSHI",
-      "name": "影视 | 零三影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/03影院.json"
-    },
-    {
-      "key": "两个磁力",
-      "name": "影视 | 两个磁力",
-      "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/两个磁力.js"
-    },
-    {
-      "key": "爱奇艺",
-      "name": "爱奇艺",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/爱奇艺.js"
-    },
-    {
-      "key": "三六零",
-      "name": "三六零",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/三六零.js"
-    },
-    {
-      "key": "追剧迷",
-      "name": "追剧迷",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/追剧迷.js"
-    },
-    {
-      "key": "看了么",
-      "name": "看了么",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/看了么.js"
-    },
-	 {
-      "key": "茶杯狐",
-      "name": "茶杯狐",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/茶杯狐.js"
-    },
-	{
-      "key": "腾讯视频",
-      "name": "腾讯视频",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/腾讯视频.js"
-    },
-    {
-      "key": "优酷视频",
-      "name": "优酷视频",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/优酷视频.js"
-    },
-    {
-      "key": "芒果视频",
-      "name": "芒果视频",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/芒果视频.js"
-    },
-    {
-      "key": "搜狗视频",
-      "name": "搜狗视频",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/搜狗视频.js"
-    },
-    {
-      "key": "乐鱼影视",
-      "name": "乐鱼影视",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/乐鱼影视.js"
-    },
-    {
-      "key": "碟调影视",
-      "name": "碟调影视",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/碟调影视.js"
-    },
-	{
-      "key": "欧帝影院",
-      "name": "欧帝影院",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/欧帝影院.js"
-    },
-    {
-      "key": "金曼影视",
-      "name": "金曼影视",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/金曼影视.js"
     },
     {
       "key": "策驰影院",
@@ -2409,13 +2205,6 @@
       "ext": "./lib/cechi.json"
     },
     {
-      "key": "畅梦影视",
-      "name": "影视 | 畅梦影视",
-      "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/畅梦影视.js"
-    },
-   {
       "key": "圣城影视",
       "name": "影视 | 圣城影视",
       "type": 3,
@@ -2426,16 +2215,6 @@
       "ext": "./lib/圣城影视.json"
     },
     {
-      "key": "徕米影视",
-      "name": "影视 | 徕米影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/徕米影视.json"
-    },
-    {
       "key": "萌猫影视",
       "name": "影视 | 萌猫影视",
       "type": 3,
@@ -2444,16 +2223,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/萌猫影视.json"
-    },
-    {
-      "key": "好戏影视",
-      "name": "影视 | 好戏影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/好戏影视.json"
     },
     {
       "key": "爱看影视",
