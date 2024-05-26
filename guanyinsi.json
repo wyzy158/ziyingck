@@ -556,6 +556,17 @@
             "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
         },
         {
+      "key": "胖虎",
+      "name": "胖虎影视",
+      "type": 3,
+      "api": "csp_Panghu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 1,
+      "ext": "https://physvod.com"
+    },
+        {
       "key": "shaozeyy",
       "name": "少泽影客",
       "type": 3,
