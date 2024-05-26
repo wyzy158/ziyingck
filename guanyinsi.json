@@ -136,16 +136,6 @@
   "分类":"电影$1#电视剧$2#综艺$3#动漫$4#电影解说$21"}
  },
  {
-  "key": "高清在线",
-  "name": "高清在线",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "ext": {"简介":"剧情介绍: +stui-pannel_bd\">&&</div>",
-  "线路数组":"stui-pannel__head bottom-line active clearfix\">&&</div>",
-  "分类": "短剧$duanju#电视剧$dsj#电影$dy#动漫$dm#综艺$zy"
- }
-},	
- {
       "key": "晴天",
       "name": "晴天",
       "type": 3,
