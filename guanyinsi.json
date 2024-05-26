@@ -364,6 +364,22 @@
                 "分类url": "http://5uduanju.com/vodtype/{cateId}.html"
             }
     },
+    {
+       "key": "极品短剧",
+      "name": "极品短剧",
+      "type": 3,
+      "api": "csp_Wexduanjuvmp",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "河马短剧",
+      "name": "河马短剧",
+      "type": 3,
+      "api": "csp_Wexduanjuhema",
+      "searchable": 1,
+      "changeable": 1
+    },
 
     {
             "key": "追剧兔",
@@ -513,6 +529,40 @@
             ]
         },
         {
+      "key": "快车资源",
+      "name": "快车资源",
+      "type": 1,
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "剧情片",
+        "动画片",
+        "纪录片",
+        "国产剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "泰国剧",
+        "海外剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺"
+      ]
+    },
+        {
             "key": "五一影视",
             "name": "五一",
             "type": 3,
@@ -568,6 +618,113 @@
       "type": 3,
       "api": "csp_WexMingriys",
       "jar": "./lib/sp.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+     {
+      "key": "南瓜影视",
+      "name": "南瓜影视",
+      "type": 3,
+      "api": "csp_WexNgys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "天天影视",
+      "name": "天天影视",
+      "type": 3,
+      "api": "csp_TTian",
+      "ext": "http://op.ysdqjs.cn"
+    },
+	 {
+      "key": "腐剧视频",
+      "name": "腐剧视频",
+      "type": 3,
+      "api": "csp_WexFujutv",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "韩剧视频",
+      "name": "韩剧视频",
+      "type": 3,
+      "api": "csp_Wexhanjutv",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
+      "key": "花漾影视",
+      "name": "花漾影视",
+      "type": 3,
+      "api": "csp_Wexhuayang",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "佳佳影视",
+      "name": "佳佳影视",
+      "type": 3,
+      "api": "csp_Wexjiajia",
+      "searchable": 1,
+      "changeable": 1
+    },
+	 {
+      "key": "看看影视",
+      "name": "看看影视",
+      "type": 3,
+      "api": "csp_WebIV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "米米影视",
+      "name": "米米影视",
+      "type": 3,
+      "api": "csp_WebDM",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+	 {
+      "key": "南坊追剧",
+      "name": "南坊追剧",
+      "type": 3,
+      "api": "csp_WebNF",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://www.nfzj.fun"
+    },
+	 {
+      "key": "八八影视",
+      "name": "八八影视",
+      "type": 3,
+      "api": "csp_AppEight",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "siteUrl": "https://api.kpyun6.cn",
+        "deviceId": "b0d43379a488e74d"
+      }
+    },
+	{
+      "key": "视频库",
+      "name": "视频库",
+      "type": 3,
+      "api": "csp_WebVidHub",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://vidhub1.cc"
+    },
+	 {
+      "key": "素白白",
+      "name": "素白白",
+      "type": 3,
+      "api": "csp_Subaibai",
       "searchable": 1,
       "changeable": 1
     },
@@ -2166,6 +2323,97 @@
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/两个磁力.js"
+    },
+    {
+      "key": "爱奇艺",
+      "name": "爱奇艺",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/爱奇艺.js"
+    },
+    {
+      "key": "三六零",
+      "name": "三六零",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/三六零.js"
+    },
+    {
+      "key": "追剧迷",
+      "name": "追剧迷",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/追剧迷.js"
+    },
+    {
+      "key": "看了么",
+      "name": "看了么",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/看了么.js"
+    },
+	 {
+      "key": "茶杯狐",
+      "name": "茶杯狐",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/茶杯狐.js"
+    },
+	{
+      "key": "腾讯视频",
+      "name": "腾讯视频",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/腾讯视频.js"
+    },
+    {
+      "key": "优酷视频",
+      "name": "优酷视频",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/优酷视频.js"
+    },
+    {
+      "key": "芒果视频",
+      "name": "芒果视频",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/芒果视频.js"
+    },
+    {
+      "key": "搜狗视频",
+      "name": "搜狗视频",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/搜狗视频.js"
+    },
+    {
+      "key": "乐鱼影视",
+      "name": "乐鱼影视",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/乐鱼影视.js"
+    },
+    {
+      "key": "碟调影视",
+      "name": "碟调影视",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/碟调影视.js"
+    },
+	{
+      "key": "欧帝影院",
+      "name": "欧帝影院",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/欧帝影院.js"
+    },
+    {
+      "key": "金曼影视",
+      "name": "金曼影视",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/金曼影视.js"
     },
     {
       "key": "策驰影院",
