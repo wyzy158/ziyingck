@@ -621,18 +621,7 @@
       },
       "timeout": 25
     },
-     {
-      "key": "csp_Zxzj",
-      "name": "在线",
-      "type": 3,
-      "api": "csp_XBPQ",
-	   "jar": "./lib/Yoursmile.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
-    },
-     {
+    {
       "key": "南瓜影视",
       "name": "南瓜影视",
       "type": 3,
