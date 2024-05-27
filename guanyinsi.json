@@ -564,7 +564,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 1,
-      "ext": "https://physvod.com"
+      "ext": "https://physvod.com",
+      "jar": "./lib/85e832f30273e71868b241a45f4c7082.jar"
     },
         {
       "key": "shaozeyy",
