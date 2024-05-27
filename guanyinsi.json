@@ -55,6 +55,23 @@
       }
     },
     {
+  "key": "红狐狸影院",
+  "name": "红狐狸影院",
+  "type": 3,   
+  "api": "csp_XBPQ",
+  "ext": {"简介":"+line-height: 20px;\">&&</div>",
+  "分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+  "分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"}
+},
+{
+  "key": "白嫖者",
+  "name": "白嫖者联盟",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "分类":"电影$1#电视剧$2#动漫$4#综艺$3"}
+},
+    {
       "key": "看片狂人",
       "name": "看片狂人",
       "type": 3,
@@ -1785,27 +1802,7 @@
       "filterable": 1,
       "ext": "./lib/虎虎.json"
     },
-    {
-      "key":"茶狐杯",
-      "name":"茶狐杯",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./lib/茶狐杯.json"
-    },
-    {
-      "key":"csp_xBPQ白嫖电影网",
-      "name":"白嫖电影网",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./lib/白嫖电影网.json"
-    },
-    {
+   {
       "key": "jingluo",
       "name": "影视 | TVB云播",
       "type": 3,
