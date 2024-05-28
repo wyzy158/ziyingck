@@ -433,16 +433,6 @@
             "ext": "https://mas.szyyds.cn/api.php/app/"
         },
         {
-		    "key": "电影狗",
-		    "name": "电影狗",
-		    "type": 3,
-		    "api": "csp_AppYsV2",
-		    "searchable": 1,
-		    "quickSearch": 1,
-		    "filterable": 1,
-		    "ext": "http://app.88dyg.com:80/icciu_api.php/v1.vod"
-		},
-        {
             "key": "映迷",
             "name": "映迷",
             "type": 1,
