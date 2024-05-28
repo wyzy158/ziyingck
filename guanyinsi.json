@@ -459,6 +459,15 @@
             "filterable": 1,
             "ext": "https://adys.tv/xgapp.php/v1/"
         },
+         {
+            "key": "360_spider",
+            "name": "360影视",
+            "type": 3,
+            "api": "csp_SP360",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
        {
       "key": "掌心",
       "name": "掌心影视",
