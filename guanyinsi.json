@@ -167,22 +167,7 @@
         "分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"
       }
     },
-   {
-            "key": "567🎬",
-            "name": "567",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.567dyy.com/show/{cateId}--------{catePg}---.html",
-                "分类": "电影&电视剧&综艺&动漫",
-                "分类值": "1&2&3&4"
-            }
-        },
-      {
+    {
             "key": "qimaoys",
             "name": "七猫",
             "type": 3,
@@ -208,6 +193,15 @@
                 "分类url": "http://www.qimaoym.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
         }
 	},
+    {
+		  "key":"红牛资源",
+		  "name":"红牛",
+		  "type":1,
+		  "api":"https://www.hongniuzy2.com/api.php/provide/vod/",
+		  "searchable":1,
+		  "changeable":1,
+		  "categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","纪录片","动漫电影"]
+	    },
     {
       "key": "短视频",
       "name": "短视频",
