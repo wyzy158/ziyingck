@@ -167,27 +167,20 @@
         "分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"
       }
     },
-    {
-            "key": " 网飞猫 ",
-            "name": "网飞猫",
+   {
+            "key": "567🎬",
+            "name": "567",
             "type": 3,
             "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-            "首页": "120",
-            "起始页": "1",
-                "分类url": "https://www.ncat3.com:51111/show/{cateId}-{class}-{area}--{year}-{by}-{catePg}.html;;rc",
-                "分类": "电影&连续剧&动漫&综艺纪录&短剧",
-                "分类值": "1&2&3&4&6",
-                "数组": "<div class=\"module-item&&</a>",
-                "图片": "https://vres.vukfnqr.com+data-original=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "副标题": "item-bottom\"> <span>&&</span>",
-                "链接": "href=\"&&\""
-            },
-            "jar": "./jar/xyqxbpq.jar"
+                "分类url": "https://www.567dyy.com/show/{cateId}--------{catePg}---.html",
+                "分类": "电影&电视剧&综艺&动漫",
+                "分类值": "1&2&3&4"
+            }
         },
       {
             "key": "qimaoys",
