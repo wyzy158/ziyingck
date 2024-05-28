@@ -194,6 +194,21 @@
         }
 	},
     {
+"key": "顶级电影",
+"name": "顶配",
+"type": 3,
+"api": "csp_XBPQ",
+"jar": "./jar/xyqxbpq.jar",
+"ext": {
+"主页url": "https://www.topmovie.cc/",
+"简介": "module-info-introduction\">&&ⓒ顶级电影",
+"影片类型": "tag-link\">&&立即播放",
+"线路数组": "data-dropdown-value=&&</div>[排序:三网>>专线>>备用]",
+"线路标题": "<span>&&<+共+<small>&&+集[不包含:海外专线#备用-2#官方专线#官方#专线1#专线2#三网专线]",
+"分类url": "/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类": "电影$1#剧集$2#综艺$3#记录$4#体育$24#短剧$26#动漫$28"}
+    },
+  {
             "key": "❤️1080",
             "name": "聚合",
             "type": 3,
@@ -288,7 +303,7 @@
             "ext": {
                 "分类url": "https://www.567dyy.com/show/{cateId}--------{catePg}---.html",
                 "分类": "电影&电视剧&综艺&动漫",
-                "分类值": "1&2&3&4",
+                "分类值": "1&2&3&4"
             }
         },
 		{
