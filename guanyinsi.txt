@@ -226,7 +226,7 @@
     },
     {      
   "key": "fszydj",    
-  "name": "最新短剧",      
+  "name": "最新全集短剧",      
   "type": 1,    
   "api":  " https://www.feisuzyapi.com/api.php/provide/vod/?ac=list   ",       
   "searchable": 1,   
@@ -247,20 +247,10 @@
       "jar": "https://gitee.com/wxbtt/duanju/raw/master/jar/custom_spider.jar;md5;2913291fc4c832e3753573593b727b89",
       "ext": "http://106.52.241.21:83/api.php/app/"
     },
-    {
-      "key": "duanju2",
-      "name": "短剧2",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/wxbtt/duanju/raw/master/jar/custom_spider.jar;md5;2913291fc4c832e3753573593b727b89",
-      "ext": "http://122.228.84.103:6822/api.php/app/"
-    },
+   
     {
       "key": "duanju3",
-      "name": "短剧3",
+      "name": "短剧2",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -271,7 +261,7 @@
     },
     {
       "key": "rarbt",
-      "name": "短剧4",
+      "name": "短剧3",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/wxbtt/duanju/raw/master/jar/XBPQ.jar",
@@ -283,7 +273,7 @@
     },
     {
       "key": "毒舌影视",
-      "name": "短剧5",
+      "name": "短剧4",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -308,32 +298,11 @@
         "分类url": "https://www.dushe7.app/show/{cateId}-{class}-{area}--{year}-{by}-{catePg}.html"
       } 
     },
-    {
-      "key": "555zxdy",
-      "name": "短剧6",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/wxbtt/duanju/raw/master/jar/XBPQ.jar",
-      "ext": {
-        "分类": "电影$1#电视剧$2#短剧$45#动漫$4",
-        "分类url": "https://www.555zxdy.com/vod/show/by/{by}/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
-      }
-    },
-	{
   
-      "key": "PT",
-      "name": "短剧7",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "数组": "class=\"stui-vodlist__box&&</li",
-        "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
-        "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
-      }
-    },
+
     {
       "key": "csp_XBPQ_vstv",
-      "name": "短剧8",
+      "name": "短剧5",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/wxbtt/duanju/raw/master/lib/dj3.jar",
@@ -347,7 +316,7 @@
     },
     {
       "key": "csp_AppYsV2_Mxone",
-      "name": "短剧9",
+      "name": "短剧6",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -357,7 +326,7 @@
     },
     {
       "key":"陌陌",
-      "name":"短剧10",
+      "name":"短剧7",
       "type":3,
       "api":"csp_AppYsV2",
       "searchable":1,
@@ -367,7 +336,7 @@
     },
     {
       "key": "csp_XYQHiker_VSYY",
-      "name": "短剧11",
+      "name": "短剧8",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -377,21 +346,8 @@
       "ext": "https://gitee.com/wxbtt/duanju/raw/master/lib/VS影院.json"
     },
     {
-"key": "csp_xml_ikun",
-"name": "短剧12",
-"type": 1,
-"api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"playerType": 2,
-"categories": [
-"爽文短剧"
-]
-},
-        {
-           "key": "无忧短剧",
-           "name": "短剧13",
+           "key": "短剧9",
+           "name": "短剧9",
            "type": 3,
            "api": "csp_XBPQ",
            "jar": "https://6741.kstore.space/xbpq.jar",
