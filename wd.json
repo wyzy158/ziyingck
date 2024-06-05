@@ -122,40 +122,7 @@
       "filterable": 1,
       "ext": "./lib/高中课堂.json"
     },
-     {
-      "key": "小学",
-      "name": "小学教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "./lib/Bili.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/哔哩哔哩小学.json"
-    },
-    {
-      "key": "初中",
-      "name": " 初中教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "./lib/Bili.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/哔哩哔哩初中.json"
-    },
-    {
-      "key": "高中",
-      "name": "高中教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "./lib/Bili.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/哔哩哔哩高中.json"
-    },
-    {
+   {
       "key": "外语课堂",
       "name": "外语课堂",
       "type": 3,
