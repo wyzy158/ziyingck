@@ -379,12 +379,6 @@
             "filterable": 1,
             "ext": "https://www.zjtu.tv/api.php/app/"
         },
-	{
-       "key": "真不卡",
-       "name": "极速资源",
-       "type": 1,
-       "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8?wd="
-    },
         {
             "key": "北极狐",
             "name": "北狐",
