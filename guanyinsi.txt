@@ -379,16 +379,6 @@
             "filterable": 1,
             "ext": "https://www.zjtu.tv/api.php/app/"
         },
-        {
-      "key": "益达影视",
-      "name": "益达",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://myd666.tv/lvdou_api.php/v1.vod"
-    },
 	{
        "key": "真不卡",
        "name": "极速资源",
