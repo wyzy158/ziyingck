@@ -1,10 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/guanyinsi.json",
-      "name": "自营线路"   
-    },
-    {
       "url": "https://k.seavod.cc/uploads/itvbox/json/yxdezynew.json",
       "name": "影视短剧儿童"  
     },
