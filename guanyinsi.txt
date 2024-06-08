@@ -292,7 +292,7 @@
         "线路标题": "<span class=\"source-item-label\">&&</span>+-+source-item-num\">&&</i>[替换:线路>>空]",
         "搜索url": "https://www.dushe7.app/search?k={wd}&page={pg}",
         "地区": "[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
-        "剧情": "[替换:伦理>>NETFLIX]",
+        "剧情": "[替换:道理>>NETFLIX]",
         "排序": "综合$1#最新$2#最热$3#评分$4",
         "分类": "电影$1#连续剧$2#动漫$3#综艺$4#短剧$6",
         "分类url": "https://www.dushe7.app/show/{cateId}-{class}-{area}--{year}-{by}-{catePg}.html"
