@@ -356,29 +356,9 @@
         "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
       }
     },
-    {
-      "key": "csp_AppYsV2_Mxone",
-      "name": "短剧6",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
-    {
-      "key":"陌陌",
-      "name":"短剧7",
-      "type":3,
-      "api":"csp_AppYsV2",
-      "searchable":1,
-      "quickSearch":1,
-      "changeable":1,
-      "ext":"https://www.kuin.one/api.php/app/"
-    },
      {
-           "key": "短剧9",
-           "name": "短剧9",
+           "key": "短剧6",
+           "name": "短剧6",
            "type": 3,
            "api": "csp_XBPQ",
            "jar": "https://6741.kstore.space/xbpq.jar",
