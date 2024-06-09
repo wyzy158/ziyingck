@@ -18,60 +18,206 @@
         "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"
       }
     },
+    {
+      "key": "影视工厂",
+      "name": "影视 | 影视工厂",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "分类url:https://www.ysgc.fun/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
+    },
+    {
+      "key": "高清在线",
+      "name": "高清在线",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "剧情介绍: +stui-pannel_bd\">&&</div>",
+        "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>",
+        "分类url": "https://www.gxfiber.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "短剧$duanju#电视剧$dsj#电影$dy#动漫$dm#综艺$zy"
+      }
+    },
+     {
+      "key": "晨光电影",
+      "name": "晨光电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "剧情介绍: +white-space: initial;\">&&</div>",
+        "数组": "fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>",
+        "图片": "data-original=\"&&\"",
+        "标题": "fed-visible fed-part-eone\" href=*>&&</a>",
+        "副标题": "fed-text-white fed-text-center\">&&</span>",
+        "线路数组": "fed-drop-btns fed-padding fed-col-xs3 fed-col-md2\">&&</li>",
+        "分类url": "https://www.cgdyw.net/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+        "分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"
+      }
+    },
+    {
+  "key": "红狐狸影院",
+  "name": "红狐狸影院",
+  "type": 3,   
+  "api": "csp_XBPQ",
+  "ext": {"简介":"+line-height: 20px;\">&&</div>",
+  "分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+  "分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"}
+},
+{
+  "key": "白嫖者",
+  "name": "白嫖者联盟",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "分类":"电影$1#电视剧$2#动漫$4#综艺$3"}
+},
+{
+      "key": "看片狂人",
+      "name": "看片狂人",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "免嗅": "1",
+        "线路数组": "class=\"fed-drop-btns fed-padding&&</li>",
+        "搜索url": "https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}",
+        "分类url": "https://www.kpkuang.fun/vodshow/{cateId}-{area}-time------{catePg}---{year}--.html[https://www.kpkuang.one/vodtype/{cateId}/]",
+        "分类": "国产剧$13#电影$1#连续剧$2#综艺$3#动漫$4"
+      }
+    },
    {
-      "key": "玩偶",
-      "name": "玩偶 | 饭太硬接口",
+      "key": "赘婿影视",
+      "name": "赘婿影视",
       "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "aliToken": "tvbox/token.txt",
-        "quarkCookie": "tvbox/cookie.txt",
-        "from": "4k|auto|fhd",
-        "siteUrl": "https://www.wogg.link/",
-        "danMu": "弹"
-      },
-      "jar": "./lib/fan.txt"
-    },
-    {
-      "key": "Wogg",
-      "name": "阿里 | 玩偶哥哥",
-      "type": 3,
-      "api": "csp_Wogg",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "site": "https://www.wogg.net/",
-        "danmu": true
-      },
-      "jar": "./lib/2.jar"
-    },
+        "数组": "video-img lazyload&&</p>",
+        "副标题": "mr-xs-0\">&&</span>",
+        "简介": "entry-content clearfix\">&&</p>",
+        "搜索url": "https://zhuixu.cc/Kansearch/-------------/?wd=",
+        "线路数组": "data-target=\"#ewave-playlist-&&</li>",
+        "线路标题": ">&&</a >",
+        "播放数组": "<ul class=\"row ewave-tab-content ewave-playlist-content&&</ul>",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "分类url": "https://zhuixu.cc/type/{cateId}-{catePg}/",
+        "分类": "剧集$2#电影$1#番剧$4#纪录$39#短剧$44#体育$45#娱乐$46#解说$48"
+      }
+   },
+  {
+    "key": "bt影院",
+	"name": "bt影院",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": {
+		"二次截取": "class=\"module-items&&class=\"module-footer",
+		"数组": "class=\"module-item\"&&class=\"module-item\"",
+		"标题": "title=\"&&\"",
+		"副标题": "class=\"module-item-caption\">&&</div",
+		"链接": "href=\"&&\"",
+		"搜索url": "https://www.btbtl.com/search/{wd}",
+		"搜索数组": "class=\"module-item-pic&&</div",
+		"搜索模式": "1",
+		"多线二次截取": "class=\"module-row-info&&立即下载",
+		"多线数组": "class=\"module-row-text&&</a",
+		"多线链接": "href=\"&&\"",
+		"多线链接前缀": "",
+		"多线链接后缀": "",
+		"播放数组": "class=\"video-info-footer&&</div",
+		"列表二次截取": "",
+		"播放列表": "<a&&<svg",
+		"播放标题": "title=\"&&\"",
+		"播放链接": "href=\"magnet:?xt=urn:btih:&&\"",
+		"播放链接前缀": "magnet:?xt=urn:btih:",
+		"播放链接后缀": "",
+		"分类": "电影$movies#电视剧$tv",
+		"分类url": "https://www.btbtl.com/type/{cateId}/{catePg}/"
+	 }
+	},
     {
-      "key": "厂长",
-      "name": "影视 | 厂长",
+     "key":"bkyy",
+     "name":"布卡影视",
+     "type":3, 
+     "api":"csp_XBPQ",
+     "timeout":1,
+   "quickSearch":1,
+   "filterable":1,
+  "ext":{"副标题":"观影视APP",
+  "分类url":"https://www.gtrgt.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+  "分类":"电影$1#电视剧$2#综艺$3#动漫$4#电影解说$21"}
+ },
+ {
+      "key": "晴天",
+      "name": "晴天",
       "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.czys.top/"
+      "ext": {
+        "分类url": "https://www.qinttv.com/qtyy/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+        "搜索url": "https://www.qinttv.com/qtcz.html;post;wd={wd}&submit=",
+        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"
+      }
     },
     {
-      "key": "哔嘀",
-      "name": "影视 | 哔嘀",
-      "type": 3,
-      "api": "csp_Bdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
+            "key": "qimaoys",
+            "name": "七猫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "http://www.qimaoym.com",
+                "数组":"class=\"module-item-cover\">&&class=\"module-item\">",
+                "标题": "title=\"&&\"",
+                "副标题": "module-item-text\">&&</div>",
+                "链接":"href=\"&&\"",
+                "图片": "data-src=\"&&\"",
+                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "搜索url": "http://www.qimaoym.com/index.php/vod/search/wd/{wd}",
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+                "线路数组": "module-tab-item tab-item\"&&</div>",
+                 "线路标题": "<span>&&</small>[替换:</span><small>>>🍥]+集",
+                 "播放数组":"class=\"module-blocklist\">&&</div",
+                 "播放列表":"<a&&</a",
+                 "播放标题":"<span&&</span",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "分类": "电影$1#连续剧$2#动漫$4#综艺$3#少儿$38",
+                "分类url": "http://www.qimaoym.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
+        }
+	},
+    {      
+  "key": "fszydj",    
+  "name": "最新全集短剧",      
+  "type": 1,    
+  "api":  " https://www.feisuzyapi.com/api.php/provide/vod/?ac=list   ",       
+  "searchable": 1,   
+  "quickSearch": 1,   
+  "filterable": 1,   
+  "categories": [       
+  "短剧"   
+  ]   
+},
+ {
+            "key": "追剧兔",
+            "name": "剧兔",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.zjtu.tv/api.php/app/"
+        },
+   		{
       "key": "低端",
       "name": "影视 | 低端",
       "type": 3,
