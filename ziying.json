@@ -1,5 +1,10 @@
 {
   "urls": [
+    {
+      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/cj.json",
+      "name": "自营线路"
+    },
+   
    {
       "url": "https://www.macms.pro/box/3.json",
       "name": "影视短剧儿童1"  
