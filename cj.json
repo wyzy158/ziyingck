@@ -376,7 +376,7 @@
       "api": "csp_Duanju",
       "searchable": 1,
       "changeable": 0,
-      "jar": "./lib/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
+      "jar": "./lib/danmu.jar"
     },
  {
             "key": "追剧兔",
