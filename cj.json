@@ -369,6 +369,15 @@
                 "分类url": "http://5uduanju.com/vodtype/{cateId}.html"
             }
     },
+    {
+      "key": "上头短剧",
+      "name": "上头短剧",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "./lib/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
+    },
  {
             "key": "追剧兔",
             "name": "剧兔",
