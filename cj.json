@@ -421,6 +421,76 @@
             "ext": "https://mas.szyyds.cn/api.php/app/"
         },
         {
+            "key": "NRTFIY星球",
+            "name": "星星",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.netfly.tv/api.php/app/"
+        },
+        {
+            "key": "鸭奈飞",
+            "name": "鸭飞",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yanetflix.me/api.php/app/"
+        },
+ {
+            "key": "老蟹电影",
+            "name": "老蟹",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.ajj001.top/api.php/app/"
+        },
+        {
+            "key": "柠檬影院",
+            "name": "柠檬",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://mf.songshu.cyou/api.php/app/"
+        },
+ {
+            "key": "北川影视",
+            "name": "北川",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.bczhuiju.com/api.php/v1.vod"
+        },
+        {
+            "key": "自由影视",
+            "name": "自由",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.freeys.cc/api.php/v1.vod"
+        },
+ {
+            "key": "星易影影院",
+            "name": "星影",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.xingyiying.com/api.php/v1.vod"
+        },
+        {
             "key": "爱迪影院",
             "name": "爱迪",
             "type": 3,
@@ -429,6 +499,96 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://adys.tv/xgapp.php/v1/"
+        },
+ {
+            "key": "影视站影视",
+            "name": "影站",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://xn--p3t583cbin.top/api.php/app/"
+        },
+        {
+            "key": "影馆影视",
+            "name": "影馆",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://4kdyg.top/api.php/v1.vod"
+        },
+  {
+            "key": "大米星球",
+            "name": "大米",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://damifi.com/api.php/app/"
+        },
+        {
+            "key": "思古电影",
+            "name": "思古",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://siguyy.cn/api.php/app/"
+        },
+ {
+            "key": "零刻影视",
+            "name": "零刻",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
+        },
+        {
+            "key": "千梦影视",
+            "name": "千梦",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.qmjzys.com/api.php/app/"
+        },
+ {
+            "key": "沐沐电影",
+            "name": "沐沐",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://nnystv.cn/api.php/app/"
+        },
+        {
+            "key": "UM电影",
+            "name": "UM",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.umvod.cc/mogai_api.php/v1.vod"
+        },
+  {
+            "key": "555影院",
+            "name": "555",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://fivezn.com/api.php/app/"
         },
 		{
             "key": "银河影视",
