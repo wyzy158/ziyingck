@@ -195,6 +195,41 @@
                 "分类url": "http://www.qimaoym.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
         }
 	},
+     {
+            "key": "酷秒影视",
+            "name": "酷秒",
+            "type": 1,
+            "api": "http://caiji.ikum.cc:8099/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "电影",
+                "国产剧",
+                "港台剧",
+                "日韩剧",
+                "欧美剧",
+                "其他剧",
+                "儿童",
+                "综艺",
+                "动漫",
+                "哔哩哔哩"
+            ]
+        },
+        {
+            "key": "猫咪影视",
+            "name": "猫咪",
+            "type": 1,
+            "api": "http://zy.xiaomaomi.cc/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "电影",
+                "连续剧",
+                "综艺",
+                "动漫"
+            ]
+        },
+		
       {
             "key": "极客影视",
             "name": "极客┃直连",
