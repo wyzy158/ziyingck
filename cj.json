@@ -196,6 +196,115 @@
         }
 	},
      {
+            "key": "剧迷影院",
+            "name": "剧迷┃中心",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content\"&&</div>",
+                "分类url": "https://gimy.video/channel/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "電影$1#電視劇$2#動漫$30#綜藝$29"
+            }
+        },
+      {
+            "key": "橙汁",
+            "name": "橙汁┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类": "短剧$42#电视剧$2#动漫$4#电影$1#综艺$3#纪录片$5",
+                "分类url": "https://ork.ink/show/{cateId}--------{catePg}---{year}.html"
+            }
+        },
+        {
+            "key": "热播之家",
+            "name": "热播┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类": "电视剧$2#电影$1#动漫$4#综艺$5#纪录片$3#短剧$28#动作$6#喜剧$7#爱情$8#科幻$9#恐怖$10#剧情$11#战争$12#国产剧$13#港台剧$14#日韩剧$15#海外剧$16#国产动漫$24#日韩动漫$25#港台动漫$26#欧美动漫$27#大陆综艺$17#港台综艺$18#日韩综艺$20#欧美综艺$21",
+                "分类url": "https://rebozj.pro/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+            }
+        },
+        {
+            "key": "csp_mgtva",
+            "name": "木瓜┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "电影&电视剧&综艺&动漫",
+                "分类值": "dianying&lianxuju&zongyi&dongman"
+            }
+        },
+        {
+            "key": "csp_ipianba",
+            "name": "片吧┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "线路数组": "<span class=\"pull-right1&&</span>",
+                "线路标题": ">&&<",
+                "分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#动漫$3#综艺$4"
+            }
+        },
+        {
+            "key": "全集影视",
+            "name": "全集┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://quan.cn.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$39"
+            }
+        },
+       {
+            "key": "在线之家",
+            "name": "在线┃之家",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.zxzj123.com/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$23#动漫$4#综艺$3"
+            }
+        },
+       {
+            "key": "播剧影视",
+            "name": "播剧┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.boju.cc/vodshow/movie-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$movie#电视剧$tvplay#动漫$dongman#综艺$tvshow#短剧$duanju#电影解说$dyjs"
+            }
+        },
+       
+     {
             "key": "酷秒影视",
             "name": "酷秒",
             "type": 1,
