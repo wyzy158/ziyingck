@@ -339,10 +339,10 @@
             ]
         },
 {
-  "key": "csp_xingkong", 
-  "name": "星空 | 直连",
+  "key": "天龙影视", 
+  "name": "天龙 | 直连",
   "type": 1,
-  "api": "https://hndegao.com/api.php/provide/vod",
+  "api": "http://3882.dysport.org.cn/api.php/provide/vod",
   "searchable": 1,
   "quickSearch": 1
 },
