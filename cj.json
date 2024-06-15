@@ -324,6 +324,16 @@
                 "哔哩哔哩"
             ]
         },
+ {
+  "key": "csp_xingkong", 
+  "name": "星空",
+  "type": 3,
+  "api": "csp_xinokong",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext":"https://hndegao.com/"
+},
         {
             "key": "猫咪影视",
             "name": "猫咪",
