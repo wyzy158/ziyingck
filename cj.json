@@ -324,17 +324,7 @@
                 "哔哩哔哩"
             ]
         },
- {
-  "key": "csp_xingkong", 
-  "name": "星空",
-  "type": 3,
-  "api": "csp_xinokong",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext":"https://hndegao.com/"
-},
-        {
+       {
             "key": "猫咪影视",
             "name": "猫咪",
             "type": 1,
@@ -348,6 +338,14 @@
                 "动漫"
             ]
         },
+{
+  "key": "csp_xingkong", 
+  "name": "星空 | 直连",
+  "type": 1,
+  "api": "https://hndegao.com/api.php/provide/vod",
+  "searchable": 1,
+  "quickSearch": 1
+},
 		
       {
             "key": "极客影视",
