@@ -2278,36 +2278,7 @@
                 "港台综艺"
             ]
         },
-        {
-      "key": "New6v",
-      "name": "New6V┃磁力",
-      "type": 3,
-      "api": "csp_New6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.xb6v.com"
-    },
-	  {
-      "key": "迅雷吧",
-      "name": "迅雷吧┃磁力",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-	{
-      "key": "酷吧电影",
-      "name": "酷吧┃磁力",
-      "type": 3,
-      "api": "csp_KubaCL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-	
-          {
+       {
             "key": "资源",
             "name": "微吧采集",
             "type": 1,
