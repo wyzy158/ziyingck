@@ -14,7 +14,7 @@
  },
 {
   "key": "戏 曲" ,
-  "name": "国粹戏曲",
+  "name": "戏曲",
   "type":3,
   "api":"csp_Bili",
   "searchable":1,
