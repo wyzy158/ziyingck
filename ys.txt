@@ -432,7 +432,7 @@
       "name": "有声🎧小说",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./有声小说吧.js",
+      "ext": "./lib/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
