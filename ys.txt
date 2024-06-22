@@ -377,12 +377,12 @@
       "name": "美剧迷影视",
       "type": 3,
       "api": "csp_Meijumi",
-      "jar": "./pg0318.jar",
+      "jar": "./lib/pg0318.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
+      "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
     },
     {
       "key": "茶狐影视",
@@ -425,13 +425,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./dmbs.json"
+      "ext": "./lib/dmbs.json"
     },
     {
       "key": "有声小说js",
       "name": "有声🎧小说",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./有声小说吧.js",
       "style": {
         "type": "rect",
