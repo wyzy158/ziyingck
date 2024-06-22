@@ -690,7 +690,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/xinchen.json"
+      "ext": "./xinchen.json"
     },
     {
       "key": "韩剧影院",
