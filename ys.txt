@@ -446,7 +446,7 @@
       "name": "农民直连",
       "type": 3,
       "api": "csp_WexNmys",
-      "jar": "./nmys.jar",
+      "jar": "./lib/nmys.jar",
       "searchable": 1,
       "changeable": 1
     },
