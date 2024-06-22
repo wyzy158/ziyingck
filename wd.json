@@ -181,61 +181,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/小灯塔人文.json"
-    },
-    {
-      "key": "经典",
-      "name": "经典┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=央视经典"
-    },
-	 {
-      "key": "Bili",
-      "name": "哔哩┃合集┃蓝光",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=哔哩合集"
-    },
-    {
-      "key": "Biliych",
-      "name": "哔哩┃歌曲┃蓝光",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=哔哩歌曲"
-    },
-    {
-      "key": "Bili",
-      "name": "bili｜MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://ystv.aiyinch.cn/jk/ystv/lib/bilibili.json"
-    
     }
-    ],
+ ],
 
 
 "parses":
