@@ -128,7 +128,7 @@
       "name": "甲子影视",
       "type": 3,
       "api": "csp_Wexjiazitv",
-      "jar": "./jiazi.jar",
+      "jar": "./lib/jiazi.jar",
       "playerType": 1,
       "searchable": 1,
       "changeable": 1
@@ -138,7 +138,7 @@
       "name": "河马短剧",
       "type": 3,
       "api": "csp_Wexduanjuhema",
-      "jar": "./jiazi.jar",
+      "jar": "./lib/jiazi.jar",
       "searchable": 1,
       "changeable": 1
     },
