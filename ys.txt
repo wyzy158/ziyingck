@@ -29,14 +29,14 @@
       "name": "转存及夸克配置",
       "type": 3,
       "api": "csp_Config",
-      "jar": "./pg0426.jar",
+      "jar": "./lib/pg0426.jar",
       "searchable": 0,
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "./tokenm.json"
+      "ext": "./lib/tokenm.json"
     },
     {
       "key": "土豆弹幕版",
@@ -77,11 +77,11 @@
        "name": "夸克弹幕4K",
        "type": 3,
        "api": "csp_Wobg",
-       "jar": "./PG.jar",
+       "jar": "./lib/PG.jar",
        "changeable": 1,
        "filterable": 1,
        "timeout": 60,
-       "ext": "./tokenm.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./json/wogg.json"
+       "ext": "./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./json/wogg.json"
         },
     {
       "key": "阿里合集",
@@ -107,7 +107,7 @@
       "name": "磁力慎用4K",
       "type": 3,
       "api": "csp_Xb6v",
-      "jar": "./pg0328.jar",
+      "jar": "./lib/pg0328.jar",
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
@@ -389,7 +389,7 @@
       "name": "茶狐影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -421,7 +421,7 @@
       "name": "动漫🚌巴士",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -431,7 +431,7 @@
       "key": "有声小说js",
       "name": "有声🎧小说",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/有声小说吧.js",
       "style": {
         "type": "rect",
@@ -455,7 +455,7 @@
       "name": "饭团影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -466,7 +466,7 @@
       "name": "明日影视",
       "type": 3,
       "api": "csp_WexMingriys",
-      "jar": "./sp.jar",
+      "jar": "./lib/sp.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -475,7 +475,7 @@
       "name": "在线外剧",
       "type": 3,
       "api": "csp_Zxzj",
-      "jar": "./fan0313.txt",
+      "jar": "./lib/fan0313.txt",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -486,7 +486,7 @@
       "key": "yyt",
       "name": "音悦台MV",
       "type": 3,
-      "api": "./yinyuetai.js",
+      "api": "./lib/yinyuetai.js",
       "searchable": 0
     },
     {
@@ -494,18 +494,18 @@
       "name": "剧圈蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./jqqzx.json"
+      "ext": "./lib/jqqzx.json"
     },
     {
       "key": "csp_Kuaikan",
       "name": "快看直连",
       "type": 3,
       "api": "csp_Kuaikan",
-      "jar": "./PandaQ240216.jar",
+      "jar": "./lib/PandaQ240216.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -515,12 +515,12 @@
       "name": "子子蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zizi.json"
+      "ext": "./lib/zizi.json"
     },
     {
       "key": "飞刀",
@@ -566,10 +566,10 @@
       "name": "美柏蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./meibai.json"
+      "ext": "./lib/meibai.json"
     },
     {
       "key": "可可影视",
@@ -578,28 +578,28 @@
       "playerType": 2,
       "searchable": 1,
       "api": "csp_XBPQ",
-      "jar": "./dongchen.jar",
-      "ext": "./kkys.json"
+      "jar": "./lib/dongchen.jar",
+      "ext": "./lib/kkys.json"
     },
     {
       "key": "黑狐影视",
       "name": "黑狐蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./heihu.json"
+      "ext": "./lib/heihu.json"
     },
     {
       "key": "素白白影视",
       "name": "素白蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./subaibai.json"
+      "ext": "./lib/subaibai.json"
     },
     {
       "key": "原创",
@@ -617,7 +617,7 @@
       "name": "南瓜影视",
       "type": 3,
       "api": "csp_WexNgys",
-      "jar": "./nangua.jar",
+      "jar": "./lib/nangua.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -626,17 +626,17 @@
       "key": "低端影视",
       "name": "低端影视",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./diduan.js"
+      "ext": "./lib/diduan.js"
     },
     {
       "key": "天天影视",
       "name": "天天影视",
       "type": 3,
       "api": "csp_AppTT",
-      "jar": "./nmys.jar",
+      "jar": "./lib/nmys.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -646,7 +646,7 @@
       "name": "Mp4电影磁力",
       "type": 3,
       "api": "csp_Mp4Mov",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -656,7 +656,7 @@
       "name": "迅雷吧磁力",
       "type": 3,
       "api": "csp_Xunlei8",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -666,7 +666,7 @@
       "name": "网红直播",
       "type": 3,
       "api": "csp_Yj1211",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -676,7 +676,7 @@
       "name": "BT2秒播",
       "type": 3,
       "api": "csp_Wexbttwo",
-      "jar": "./nmys.jar",
+      "jar": "./lib/nmys.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -685,30 +685,30 @@
       "name": "星辰影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./xinchen.json"
+      "ext": "./lib/xinchen.json"
     },
     {
       "key": "韩剧影院",
       "name": "韩剧TV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hanju.json"
+      "ext": "./lib/hanju.json"
     },
     {
       "key": "看球",
       "name": "88看球",
       "type": 3,
       "api": "csp_Kanqiu",
-      "jar": "./PandaQ240309.jar",
+      "jar": "./lib/PandaQ240309.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -721,19 +721,19 @@
       "key": "310js",
       "name": "体育直播",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "changeable": 0,
       "gridview": 3,
       "style": {
         "type": "list"
       },
-      "ext": "./310直播.js"
+      "ext": "./lib/310直播.js"
     },
     {
       "key": "NT动漫",
       "name": "NT动漫",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -744,18 +744,18 @@
       "key": "路漫漫动漫",
       "name": "路漫漫动漫",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lu.js"
+      "ext": "./lib/lu.js"
     },
     {
       "key": "csp_xifan",
       "name": "稀饭动漫",
       "type": 3,
       "api": "csp_Xifan",
-      "jar": "./PandaQ240309.jar",
+      "jar": "./lib/PandaQ240309.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -854,18 +854,18 @@
       "name": "云盘资源",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./yunpan.json"
+      "ext": "./lib/yunpan.json"
     },
     {
       "key": "csp_Yisou",
       "name": "易搜网盘",
       "type": 3,
       "api": "csp_Yisou",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -876,59 +876,59 @@
        "name": "秒搜网盘",
        "type": 3,
        "api": "csp_MiaoSou",
-       "jar": "./pg0426.jar",
+       "jar": "./lib/pg0426.jar",
        "timeout": 60,
-       "ext": "./tokenm.json"
+       "ext": "./lib/tokenm.json"
         },
     {
       "key": "Funletu",
       "name": "趣盘搜夸克",
       "type": 3,
       "api": "csp_Funletu",
-      "jar": "./PG.jar",
+      "jar": "./lib/PG.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./tokenm.json"
+      "ext": "./lib/tokenm.json"
     },
     {
       "key": "混合盘",
       "name": "混合盘网盘",
       "type": 3,
       "api": "csp_HunHePan",
-      "jar": "./pg0316.jar",
+      "jar": "./lib/pg0316.jar",
       "timeout": 60,
-      "ext": "./tokenm.json"
+      "ext": "./lib/tokenm.json"
     },
     {
       "key": "csp_XYQHikerAL_影搜",
       "name": "影搜网盘",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./yingso.json"
+      "ext": "./lib/yingso.json"
     },
     {
       "key": "csp_XYQHiker_盘搜索",
       "name": "盘搜网盘",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./pansearch.json"
+      "ext": "./lib/pansearch.json"
     },
     {
       "key": "csp_Upyunso",
       "name": "UP云搜网盘",
       "type": 3,
       "api": "csp_Upyunso",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -939,7 +939,7 @@
       "name": "喵狸盘搜",
       "type": 3,
       "api": "csp_AliPS",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -950,18 +950,18 @@
       "name": "影视网盘",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./dongchen.jar",
+      "jar": "./lin/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./77zys.json"
+      "ext": "./lib/77zys.json"
     },
     {
       "key": "Gitcafe",
       "name": "小纸条云盘",
       "type": 3,
       "api": "csp_Gitcafe",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -972,18 +972,18 @@
       "name": "阿里云盘",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./dongchen.jar",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./alypw.json"
+      "ext": "./lib/alypw.json"
     },
     {
       "key": "盘Se",
       "name": "盘Se弹幕",
       "type": 3,
       "api": "csp_PanSearch",
-      "jar": "./dongchenzx.jar",
+      "jar": "./lib/dongchenzx.jar",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1013,7 +1013,7 @@
       "name": "小纸条弹幕",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
-      "jar": "./xiaozt.jar",
+      "jar": "./lib/xiaozt.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
