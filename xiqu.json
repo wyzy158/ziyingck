@@ -245,8 +245,8 @@
         "quarkCookie": "http://127.0.0.1:9978/file/fatcat/cookie.txt",
         "from": "4k|auto|fhd"
       }
-    },
-{
+    }
+  ],
   "parses": [
     {
       "name": "Web聚合",
