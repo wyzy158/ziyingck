@@ -118,7 +118,7 @@
       "name": "花蕊影视",
       "type": 3,
       "api": "csp_Wexhuaruitv",
-      "jar": "./jiazi.jar",
+      "jar": "./lib/jiazi.jar",
       "playerType": 1,
       "searchable": 1,
       "changeable": 1
