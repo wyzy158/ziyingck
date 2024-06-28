@@ -3,6 +3,17 @@
 "sites":
 	[
     {
+  "key":"Biliych",
+  "name":"合集",
+  "type": 3,
+  "api": "csp_Bili",
+  "style":{"type":"rect","ratio":1.597},
+  "searchable":1,
+  "quickSearch":0,
+  "changeable":0,
+  "ext":"./lib/biliych.json"
+  },
+    {
       "key": "儿童拼音",
       "name": "儿童拼音",
       "type": 3,
