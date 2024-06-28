@@ -3,7 +3,7 @@
 "sites":
 	[
     {
-  "key":"Bili",
+  "key":"资源",
   "name":"资源",
   "type": 3,
   "api": "csp_Bili",
@@ -14,7 +14,7 @@
   "ext":"./lib/bili.json"
   },
     {
-  "key":"Biliych",
+  "key":"合集",
   "name":"合集",
   "type": 3,
   "api": "csp_Bili",
@@ -26,7 +26,7 @@
   },
   
 {
-  "key":"Bili",
+  "key":"搜索",
   "name":"搜索",
   "type": 3,
   "api": "csp_Bili",
