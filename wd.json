@@ -2,42 +2,7 @@
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[
-    {
-  "key":"资源",
-  "name":"资源",
-  "type": 3,
-  "api": "csp_Bili",
-  "style":{"type":"rect","ratio":1.597},
-  "searchable":1,
-  "quickSearch":0,
-  "changeable":0,
-  "ext":"./lib/bili.json"
-  },
-    {
-  "key":"合集",
-  "name":"合集",
-  "type": 3,
-  "api": "csp_Bili",
-  "style":{"type":"rect","ratio":1.597},
-  "searchable":1,
-  "quickSearch":0,
-  "changeable":0,
-  "ext":"./lib/biliych.json"
-  },
-  
-{
-  "key":"搜索",
-  "name":"搜索",
-  "type": 3,
-  "api": "csp_Bili",
-  "style":{"type":"rect","ratio":1.597},
-  "searchable":1,
-  "quickSearch":0,
-  "changeable":0,
-  "ext":"./lib/bilibili.json"
-},
- 
-    {
+   {
       "key": "儿童拼音",
       "name": "儿童拼音",
       "type": 3,
@@ -216,7 +181,29 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/小灯塔人文.json"
-    }
+    },
+    {
+  "key":"资源",
+  "name":"资源",
+  "type": 3,
+  "api": "csp_Bili",
+  "style":{"type":"rect","ratio":1.597},
+  "searchable":1,
+  "quickSearch":0,
+  "changeable":0,
+  "ext":"./lib/bili.json"
+  },
+  {
+  "key":"搜索",
+  "name":"搜索",
+  "type": 3,
+  "api": "csp_Bili",
+  "style":{"type":"rect","ratio":1.597},
+  "searchable":1,
+  "quickSearch":0,
+  "changeable":0,
+  "ext":"./lib/bilibili.json"
+}
  ],
 
 
