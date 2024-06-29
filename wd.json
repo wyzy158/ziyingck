@@ -203,6 +203,16 @@
       "ext": "./lib/Blixs.json"
     },
      {
+      "key": "评书",
+      "name": "评书",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/评书.json"
+    },
+     {
   "key":"动画",
   "name":"动画",
   "type": 3,
