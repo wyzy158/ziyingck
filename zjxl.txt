@@ -17,10 +17,6 @@
       "name": "少儿频道"
     },
     {
-      "url": "http://www.lyyytv.cn/yt/yt.json",
-      "name": "少儿线路"
-    },
-    {
       "url": "https://www.yingm.cc/dm/dm.json",
       "name": "动漫频道"
     },
