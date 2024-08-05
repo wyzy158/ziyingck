@@ -1,10 +1,6 @@
 {
   "urls": [
 	 {
-      "url": "https://raw.gitcode.com/2301_79001949/jiekou/raw/main/cj.json",
-      "name": "影视线路"
-    },
-	 {
       "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/%E7%9F%AD%E5%89%A7.json",
       "name": "短剧线路"
     },
