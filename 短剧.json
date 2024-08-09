@@ -2,36 +2,17 @@
     "spider": "./dongchen.jar",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
-  {
-      "key": "lzzywdj",
-      "name": "短剧一次看爽1",
-      "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
-
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
- 
-            "短剧"
-        
-      ]
-    },
-    
-      {      "key": "xldj",    "name": "短剧再来一个",      "type": 1,     "api": "   https://api.xinlangapi.com/xinlangapi.php/provide/vod/   ",      "searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": [        "短剧"   ]   },
+ {      "key": "jisuzydj",    "name": "短剧一次看爽1",      "type": 1,    "api": " https://jszyapi.com/api.php/provide/vod ",       "searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": [        "短剧"   ]   },
     
     
-         {      "key": "jisuzydj",    "name": "短剧一次看爽2",      "type": 1,    "api": " https://jszyapi.com/api.php/provide/vod ",       "searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": [        "短剧"   ]   },
-    
-    
-          {      "key": "haohuaziyuandj",    "name": "️短剧一次看爽3",      "type": 1,    "api":  "   https://hhzyapi.com/api.php/provide/vod/?ac=videolistt   ",       "searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": [        "短剧"   ]   },
+          {      "key": "haohuaziyuandj",    "name": "️短剧一次看爽2",      "type": 1,    "api":  "   https://hhzyapi.com/api.php/provide/vod/?ac=videolistt   ",       "searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": [        "短剧"   ]   },
             
     
-      {      "key": "feidj",    "name": "️短剧一次看爽4",      "type": 1,    "api":  " https://www.feisuzyapi.com/api.php/provide/vod/?ac=list   ",       "searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": [        "短剧"   ]   },
+      {      "key": "feidj",    "name": "️短剧一次看爽3",      "type": 1,    "api":  " https://www.feisuzyapi.com/api.php/provide/vod/?ac=list   ",       "searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": [        "短剧"   ]   },
     
     {
       "key": "songdj",
-      "name": "短剧一次看爽5",
+      "name": "短剧一次看爽4",
       "type": 1,
       "api": "http://mf.songshu.cyou/api.php/provide/vod/?ac=list ",
       "searchable": 1,
@@ -45,7 +26,7 @@
     },
     {      
      "key": "fszydj",    
-	 "name": "短剧一次看爽6",      
+	 "name": "短剧一次看爽5",      
 	 "type": 1,    
 	 "api":  " https://www.himi.cc/api.php/provide/vod/?ac=list ",       
 	 "searchable": 1, 
@@ -57,7 +38,7 @@
  },
   {
       "key": "ecmydj",
-      "name": "短剧一次看爽7",
+      "name": "短剧一次看爽6",
       "type": 1,
       "api": "https://www.ecmys.com/api.php/provide/vod/?ac=list ",
       "searchable": 1,
@@ -69,7 +50,7 @@
     },
   {
       "key": "leshidj",
-      "name": "短剧一次看爽8",
+      "name": "短剧一次看爽7",
       "type": 1,
       "api": "https://leshiapi.com/api.php/provide/vod/?ac=list ",
       "searchable": 1,
