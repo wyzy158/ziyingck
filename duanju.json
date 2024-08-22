@@ -1,4 +1,4 @@
-﻿{
+{
     "spider": "./sp.jar",
     "sites": [
         {
@@ -175,7 +175,6 @@
                 "线路标题": "<spanclass=\"source-item-label\">&&</span>+-+source-item-num\">&&</i>[替换:线路>>空]",
                 "搜索url": "https://www.dushe7.app/search?k={wd}&page={pg}",
                 "地区": "[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
-                "剧情": "[替换:伦理>>NETFLIX]",
                 "排序": "综合$1#最新$2#最热$3#评分$4",
                 "分类": "短剧$6",
                 "分类url": "https://www.dushe7.app/show/{cateId}-{class}-{area}--{year}-{by}-{catePg}.html"
@@ -215,19 +214,11 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
-                "简介": "拾光祝您观影愉快",
+                "简介": "观影视祝您观影愉快",
                 "分类": "逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生",
                 "分类url": "http://2ju.cc/show/duanju/class/{cateId}/page/{catePg}.html"
             },
             "jar": "./jar/短剧tv.jar"
-        }
-    ],
-    "lives": [
-        {
-            "name": "live",
-            "type": 0,
-            "url": "./lives/live.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ],
     "rules": [
@@ -499,7 +490,6 @@
                 "澳门皇冠赌场",
                 "哥哥快来",
                 "美女荷官",
-                "裸聊",
                 "新片首发",
                 "UUE29"
             ]
