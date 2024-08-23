@@ -110,6 +110,25 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#纪录片$69#短剧$68#电影解说$76"
             }
         },
+         {
+            "key": "速迅影视",
+            "name": "速迅影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "影片年代": "<div class=\"module-info-tag\">&&</div>",
+                "影片地区": "观影视制作",
+                "影片状态": "备注：&&</div>",
+                "影片类型": "module-info-tag\">&&立即播放",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+                "分类url": "https://vip.suxun.site/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$43"
+            }
+        },
        {
             "key": "可乐影视",
             "name": "可乐┃蓝光",
