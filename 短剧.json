@@ -139,7 +139,7 @@
                 "影片地区": "备用有广！",
                 "影片状态": "备注：&&</div>",
                 "影片类型": "module-info-tag\">&&立即播放",
-                "线路数组": "data-dropdown-value=&&</div>[不包含:奇艺#优酷#腾讯#PC#B仿#芒果]",
+                "线路数组": "data-dropdown-value=&&</div>",
                 "线路标题": "<span>&&</span>",
                 "分类url": "https://www.phyt.net/vodshow/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "短剧$7"
@@ -158,6 +158,48 @@
                 "分类": "短剧$5"
             }
 },
+       {
+            "key": "柯南短剧",
+            "name": "柯南短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.knvod.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+                "分类": "短剧$6"
+            }
+        },
+		 {
+            "key": "电影狗短剧",
+            "name": "电影狗短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://dygou.tv/index.php/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "短剧$68"
+            }
+        },
+   {
+            "key": "速迅短剧",
+            "name": "速迅短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://vip.suxun.site/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "短剧$43"
+            }
+        },
+
+
+
  {
             "key": "rarbt1",
             "name": "rarbt",
