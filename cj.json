@@ -57,6 +57,28 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
             }
         },
+         {
+            "key": "柯南影视",
+            "name": "柯南影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</span>",
+                "嗅探词": "jx.behds.cn#dgkdhls.mcloud.139.com#.m3u8#.mp4",
+                "过滤词": "/api.knvod.com/",
+                "影片年代": "<div class=\"module-info-tag\">&&</div>",
+                "影片地区": "观影视制作",
+                "影片状态": "备注：&&</div>",
+                "影片类型": "module-info-tag\">&&立即播放",
+                "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
+                "分类url": "https://www.knvod.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+                "分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5#短剧$6"
+            }
+        },
 {
             "key": "可乐影视",
             "name": "可乐┃蓝光",
