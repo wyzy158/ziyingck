@@ -111,23 +111,32 @@
             }
         },
          {
-            "key": "速迅影视",
-            "name": "速迅影视",
-            "type": 3,
-            "api": "csp_XBPQ",
+            "key": "VOFIX影视",
+            "name": "VOFIX影视",
+            "type": 1,
+            "api": "https://www.voflix.vip/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "影片年代": "<div class=\"module-info-tag\">&&</div>",
-                "影片地区": "观影视制作",
-                "影片状态": "备注：&&</div>",
-                "影片类型": "module-info-tag\">&&立即播放",
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-                "分类url": "https://vip.suxun.site/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$43"
-            }
+            "categories": [
+                "电影",
+                "剧集",
+                "综艺",
+                "动漫",
+                "动作",
+                "喜剧",
+                "爱情",
+                "科幻",
+                "恐怖",
+                "剧情",
+                "战争",
+                "国产剧",
+                "港台剧",
+                "日韩剧",
+                "欧美剧",
+                "纪录片",
+                "动画",
+                "泰国剧"
+            ]
         },
        {
             "key": "可乐影视",
