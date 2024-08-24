@@ -57,60 +57,83 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
             }
         },
-         {
-            "key": "柯南影视",
-            "name": "柯南影视",
+		  {
+            "key": "白雾影视",
+            "name": "白雾┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</span>",
-                "嗅探词": "jx.behds.cn#dgkdhls.mcloud.139.com#.m3u8#.mp4",
-                "过滤词": "/api.knvod.com/",
-                "影片年代": "<div class=\"module-info-tag\">&&</div>",
+                "搜索url": "https://www.baiwoo.com/search.php?searchword={wd}",
+                "简介": "请勿相信影片中的广告，以免上当受骗。+剧情介绍：&&</li>",
+                "线路数组": "<span style=\"font-size:16px;&&</span>",
+                "线路标题": ">&&<",
+                "分类url": "https://www.baiwoo.com/{cateId}-{catePg}.html",
+                "分类": "动作片$i/?5#爱情片$i/?6#科幻片$i/?7#恐怖片$i/?8#战争片$i/?9#喜剧片$i/?10#剧情片$i/?12#纪录片$i/?28#大陆剧$i/?13#港台剧$i/?14#欧美剧$i/?15#日韩剧$i/?16#海外剧$i/?31#动漫$i/?4#综艺$i/?3"
+            }
+        },
+		 {
+            "key": "金漫TV",
+            "name": "金漫┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
                 "影片地区": "观影视制作",
+                "影片年代": "<div class=\"module-info-tag\">&&</div>",
                 "影片状态": "备注：&&</div>",
                 "影片类型": "module-info-tag\">&&立即播放",
-                "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
-                "分类url": "https://www.knvod.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-                "分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5#短剧$6"
+                "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</span>",
+                "分类url": "https://www.jinman6.com/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$3#综艺$4#纪录片$5#短剧$25"
+            }
+        },
+		 {
+            "key": "剧迷TV",
+            "name": "剧迷┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "影片地区": "观影视制作",
+                "影片年代": "<div class=\"module-info-tag\">&&</div>",
+                "影片状态": "备注：&&</div>",
+                "影片类型": "module-info-tag\">&&立即播放",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+                "分类url": "https://www.jagcys.com/vodshow/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$dianying#电视剧$dsj#动漫$dongman#综艺$zongyi#体育赛事$tiyusaishi"
+            }
+        },
+ {
+            "key": "一个G",
+            "name": "逸哥┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "影片地区": "观影视制作",
+                "影片年代": "<div class=\"module-info-tag\">&&</div>",
+                "影片状态": "备注：&&</div>",
+                "影片类型": "module-info-tag\">&&立即播放",
+                "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</span>",
+                "分类url": "https://yigeg.pro/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
             }
         },
         {
-            "key": "剧汇影视",
-            "name": "剧汇影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "线路数组": "href=\"javascript:void(0);\"&&</a>",
-                "线路标题": "alt=\"&&\"",
-                "分类url": "https://www.hwjh.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "剧集$2#电影$1#动漫$4#综艺$3"
-            }
-        },
-         {
-            "key": "电影狗",
-            "name": "电影狗",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "简介": "<div class=\"content_desc context clearfix\"&&</div>",
-                "线路数组": "href=\"javascript:void(0);\"&&</a>",
-                "线路标题": "alt=\"&&\"",
-                "分类url": "https://dygou.tv/index.php/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#纪录片$69#短剧$68#电影解说$76"
-            }
-        },
-{
             "key": "可乐影视",
             "name": "可乐┃蓝光",
             "type": 3,
@@ -512,6 +535,37 @@
 		   "分类":"电影$dy#电视剧$juji#动漫$dongman#综艺$zongyi"
 		   }
 		},
+		 {
+            "key": "剧汇影视",
+            "name": "剧汇影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "线路数组": "href=\"javascript:void(0);\"&&</a>",
+                "线路标题": "alt=\"&&\"",
+                "分类url": "https://www.hwjh.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "剧集$2#电影$1#动漫$4#综艺$3"
+            }
+        },
+         {
+            "key": "电影狗",
+            "name": "电影狗",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "简介": "<div class=\"content_desc context clearfix\"&&</div>",
+                "线路数组": "href=\"javascript:void(0);\"&&</a>",
+                "线路标题": "alt=\"&&\"",
+                "分类url": "https://dygou.tv/index.php/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#纪录片$69#短剧$68#电影解说$76"
+            }
+        },
 {
     "key": "bt影院",
 	"name": "bt影院",
@@ -1527,22 +1581,7 @@
       "filterable": 1,
       "ext": "./西屋影视.json"
     },
-
-
-
-     {
-      "key": "phys",
-      "name": "胖虎┃影视",
-      "type": 3,
-      "api": "csp_Panghu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 1,
-      "ext": "https://physvod.com",
-      "jar": "./meow3.jar"
-    },
-    {
+{
       "key": "csp_Mp4Mov",
       "name": "Mp4电影",
       "type": 3,
@@ -2654,8 +2693,8 @@
       "ext": "分类url:https://www.yanaifei.me/vod/type/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
     },
     {
-      "key": "海浪",
-      "name": "影视 | 海浪资源",
+      "key": "新浪",
+      "name": "影视 | 新浪资源",
       "type": 1,
       "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -2718,8 +2757,8 @@
       ]
     },
     {
-      "key": "海狼影视",
-      "name": "影视 | 海狼影视",
+      "key": "战狼影视",
+      "name": "影视 | 战狼影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -2923,7 +2962,7 @@
   "简介":"请勿相信影片中的广告，以免上当受骗。+vod_content\"*\"&&\"",
   "线路二次截取":"\"list\":[&&]",
   "线路数组":"\"vod_play_from\":&&,",
-  "线路标题":"🌹观影视🌹",
+  "线路标题":"🌹观影视🌹各平台一网打尽",
   "播放数组":"vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]",
   "播放二次截取":"",
   "播放列表":"表&&表",
@@ -2959,7 +2998,7 @@
   "搜索图片":"data-src=\"&&\"",
   "搜索链接":"href=\"&&\"",
   "线路数组":"data-dropdown-value=&&</div>[不包含:SD源#BD源#TK源#UK源#WJ源#BJ源#HN源]",
-  "线路标题":"🌹观影视🌹",
+  "线路标题":"🌹观影视🌹各平台一网打尽",
   "分类url":"https://waipian14.com/show-{cateId}-{area}-{by}-{class}-----{catePg}---{year}/;;am0k",
   "分类":"电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian"
   }
@@ -2980,7 +3019,7 @@
   "搜索数组":"pic\">&&</ul>",
   "搜索副标题":"text-overflow\">&&</p>",
   "线路数组":"role=\"group\"&&</em>",
-  "线路标题":"🌹观影视🌹",
+  "线路标题":"🌹观影视🌹各平台一网打尽",
   "分类url":"http://www.wuyevod.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
   "分类":"电影$vod#电视剧$tv#综艺$zongyi#动漫$dongman"
   }
@@ -3531,8 +3570,8 @@
          ]
         },
        {
-      "key": "度资源",
-      "name": "度云播 ",
+      "key": "百度资源",
+      "name": "百度|云播 ",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -3665,8 +3704,8 @@
             ]
         },
         {
-            "key": "zy_浪",
-            "name": "浪|影视",
+            "key": "zy_新浪",
+            "name": "新浪|影视",
             "type": 1,
             "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
             "searchable": 1,
@@ -3709,8 +3748,8 @@
             ]
         },
         {
-            "key": "尼",
-            "name": "尼|影视",
+            "key": "索尼",
+            "name": "索尼|影视",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
             "playUrl": "",
@@ -3744,8 +3783,8 @@
             ]
         },
         {
-            "key": "牛资源",
-            "name": "牛|影视",
+            "key": "红牛资源",
+            "name": "红牛|影视",
             "type": 1,
             "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
             "searchable": 1,
@@ -4266,8 +4305,8 @@
             ]
         },
         {
-            "key": "海视",
-            "name": "海视采集",
+            "key": "乐视",
+            "name": "乐视采集",
             "type": 1,
             "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
             "playUrl": "",
@@ -4316,8 +4355,8 @@
             ]
         },
         {
-            "key": "牙资源",
-            "name": "牙采集",
+            "key": "虎牙资源",
+            "name": "虎牙采集",
             "type": 1,
             "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
             "playUrl": "",
@@ -4595,7 +4634,7 @@
   "播放二次截取":"class=\"playlist\"&&</div>",
   "播放数组":"<ul>&&</ul>",
   "分类url":"https://www.kuaikanys.net/s/{cateId}/page/{catePg}.html",
-  "简介":"观影视+text\">&&</div>",
+  "简介":"观影视为您+text\">&&</div>",
   "分类数组":"<li>&&</li>",
   "分类标题":">&&</a>",
   "分类ID":"/t/&&.html"
