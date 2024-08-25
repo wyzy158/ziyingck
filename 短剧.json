@@ -197,6 +197,59 @@
                 "分类": "短剧$43"
             }
         },
+                {
+            "key": "金漫短剧",
+            "name": "金漫短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "影片地区": "观影视制作",
+                "影片年代": "<div class=\"module-info-tag\">&&</div>",
+                "影片状态": "备注：&&</div>",
+                "影片类型": "module-info-tag\">&&立即播放",
+                "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</span>",
+                "分类url": "https://www.jinman6.com/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "短剧$25"
+          }
+        },
+		{
+            "key": "逸哥短剧",
+            "name": "逸哥短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "影片地区": "观影视制作",
+                "影片年代": "<div class=\"module-info-tag\">&&</div>",
+                "影片状态": "备注：&&</div>",
+                "影片类型": "module-info-tag\">&&立即播放",
+                "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</span>",
+                "分类url": "https://yigeg.pro/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "短剧$5"
+           }
+         },
+		 {
+            "key": "短剧天下",
+            "name": "短剧天下",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+			      "分类url": "https://duanjutt.tv/vodtype/{cateId}-{catePg}.html",
+                  "分类": "逆袭$1#甜宠$2#虐恋$3#穿越$4#重生$5#都市$20#现代言情$21#古装$22#古代言情$23#战神$24#神医$25#神豪$26#超能$27#萌宝$28#复仇$29#脑洞$30#赘婿$31#玄幻$32#热血$33#其他$34"
+		   }
+         },
 
 
 
