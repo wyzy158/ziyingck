@@ -218,7 +218,7 @@
             "name": "58┃动漫",
             "type": 3,
             "api": "./drpy2.min.js",
-			 "jar":  "./jar/PG.jar",
+			 "jar":  "./jar/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
