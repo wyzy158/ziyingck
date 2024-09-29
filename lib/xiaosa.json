@@ -1,5 +1,5 @@
 {
-  "spider": "./dm.jar",
+  "spider": "./dm.jar;md5;c52fb9e051491089b007fea2b3109ee8",
   "wallpaper": "./bizhi.php",
   "sites": [
     {
