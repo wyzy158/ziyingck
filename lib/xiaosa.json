@@ -1,6 +1,6 @@
 {
-  "spider": "./jar/spider.jar;md5;c52fb9e051491089b007fea2b3109ee8",
-  "wallpaper": "https://api.likepoems.com/img/bing",
+  "spider": "./dm.jar",
+  "wallpaper": "./bizhi.php",
   "sites": [
     {
       "key": "56动漫",
