@@ -173,7 +173,6 @@
   "name": "O站影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
   "ext": {
            "简介": "观影视剧情介绍:+line-height: 20px;\">&&</div>",
            "分类url": "https://www.omofun.site/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
