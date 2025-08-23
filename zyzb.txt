@@ -18,7 +18,7 @@ CCTV7国防军事,http://wangdong.store:10086/udp/233.50.200.102:5140
 CCTV8电视剧,http://183.220.20.17:4321/udp/239.11.0.103:5140
 CCTV8电视剧,http://wangdong.store:10086/udp/233.50.200.110:5140
 CCTV9纪录,http://wangdong.store:10086/udp/233.50.200.23:5140
-CCTV9记录,http://183.220.20.17:4321/udp/239.11.0.111:5140
+CCTV9纪录,http://183.220.20.17:4321/udp/239.11.0.111:5140
 CCTV10科教,http://183.220.20.17:4321/udp/239.11.0.112:5140
 CCTV10科教,http://wangdong.store:10086/udp/233.50.200.22:5140
 CCTV11戏曲,http://183.220.20.17:4321/udp/239.11.0.22:5140
@@ -236,3 +236,4 @@ CHC影迷电影,https://stream1.freetv.fun/9c51861c134f5e2e53ef56eef8d4ca5ab3269
 西宁新闻综合,http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
 黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+
