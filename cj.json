@@ -17,23 +17,23 @@
       "playerType": 1
     },
 	   {
-            "名称": "冰茶1",
-            "类型": 0,
-            "玩家类型": 2,
+            "name": "冰茶1",
+            "type": 0,
+            "playerType": 2,
             "url": "https://bc.188766.xyz/?ip=192.168.1.2&mishitong=true&mima=mianfeibuhuaqian",
-            "ua": "bingcha/1.1 (免费方向)"
-        }
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
+        },
         {
-      "名称": "冰茶2"
-      "类型": 0,
-      "玩家类型": 2,
+      "name": "冰茶2",
+      "type": 0,
+      "playerType": 2,
       "url": "https://bc.188766.xyz/?ip=&json=true",
-      "ua": "bingcha/1.1 (免费分享)"
-    }
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
     {
-            "名称": "冰茶3"
-            "类型": 0,
-            "玩家类型": 2,
+            "name": "冰茶3",
+            "type": 0,
+            "playerType": 2,
             "url": "https://bc.188766.xyz/?ip=&mima=mianfeibuhuaqian&json=true",
             "ua": "bingcha/1.1 (mianfeifenxiang) "
         },
@@ -1563,36 +1563,6 @@
                 "欧美动漫"
             ]
         },
-	  {
-      "key": "螃蟹影视",
-      "name": "螃蟹影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/pangxie.json"
-    },
-	 {
-      "key": "大鹅影视",
-      "name": "大鹅影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/dae.json"
-    },
-	 {
-      "key": "四个圈",
-      "name": "四圈影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://pg.fenwe078.cf/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}.html",
-        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
-      }
-    },
 		 {
             "key": "时代影院",
             "name": "时代影院",
