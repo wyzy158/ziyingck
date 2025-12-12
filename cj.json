@@ -16,6 +16,27 @@
       "url": "https://gongdian.top/tv/bingcha",
       "playerType": 1
     },
+	   {
+            "name": "🧊冰茶🧊",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://bc.188766.xyz/?ip=192.168.1.2&mishitong=true&mima=mianfeibuhuaqian",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
+        },
+        {
+      "name": "☕冰茶☕",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://bc.188766.xyz/?ip=&json=true",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+    {
+            "name": "🫖冰茶🫖",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://bc.188766.xyz/?ip=&mima=mianfeibuhuaqian&json=true",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
+        },
     {
       "name": "酒店源",
       "type": 0,
@@ -74,20 +95,6 @@
   "filterable": 0
 },
 {
-      "key": "莫小影视",
-      "name": "莫小影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/MoXiaoYS.json"
-    },
-    {
-      "key": "明星影视",
-      "name": "明星影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/MXYS.json"
-    },
-    {
       "key": "面包影视",
       "name": "面包影视",
       "type": 3,
@@ -101,9 +108,7 @@
       "api": "csp_XBPQ",
       "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/YLYS.json"
     },
-      
-
-		{
+    {
             "key": "雨见视频",
             "name": "雨见蓝光",
             "type": 3,
