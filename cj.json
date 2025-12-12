@@ -74,52 +74,33 @@
   "filterable": 0
 },
 {
-            "key": "天翼影视",
-            "name": "天翼影视",
-            "type": 1,
-            "api": "http://7.qqqtv.top/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "推荐",
-                "电影",
-                "电视剧",
-                "综艺",
-                "动漫"
-            ]
-        },
-       {
-            "key": "面包影视",
-            "name": "面包影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/MBYS.json"
-        },
-        {
-            "key": "永乐影视",
-            "name": "永乐影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/YLYS.json"
-        },
-      {
-            "key": "猪猪影视",
-            "name": "猪猪蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "主页url": "https://www.lyzccl.com/",
-                "数组": "class=\"myui-vodlist__thumb lazyload\"&&</div>",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "简介": "class=\"video-des\"&&</div>",
-                "线路标题": "data-toggle=\"tab\">&&</a>",
-                "分类url": "https://www.lyzccl.com/vodtype/{cateId}.html",
-                "分类": "首页$/#电影$1#电视剧$2#综艺$3#动漫$4#动画片$20#短剧$40#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#奇幻片$21#犯罪片$22#悬疑片$23#惊悚片$24#纪录片$25#邵氏电影$25#国产剧$13#香港剧$14#台湾剧$15#日本剧$16#韩国剧$26"
-            }
-        },
+      "key": "莫小影视",
+      "name": "莫小影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/MoXiaoYS.json"
+    },
+    {
+      "key": "明星影视",
+      "name": "明星影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/MXYS.json"
+    },
+    {
+      "key": "面包影视",
+      "name": "面包影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/MBYS.json"
+    },
+    {
+      "key": "永乐影视",
+      "name": "永乐影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/YLYS.json"
+    },
       
 
 		{
