@@ -1571,7 +1571,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/pangxie.json"
+      "ext": "./json/pangxie.json"
     },
 	 {
       "key": "大鹅影视",
@@ -1581,7 +1581,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/dae.json"
+      "ext": "./json/dae.json"
     },
 	 {
       "key": "四个圈",
