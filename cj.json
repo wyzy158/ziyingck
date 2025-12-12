@@ -4,11 +4,31 @@
   "warningText": "观影视提醒您,资源来自互联网，请不要相信视频中的任何广告，以免上当受骗。如若不听，后果自负",
   "lives": [
     {
-      "name": "冰茶",
+      "name": "冰茶直播",
       "type": 0,
       "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
       "timeout": 10,
       "ua": "bingcha/1.1(mianfeifenxiang)"
+    },
+	  {
+      "name": "咪咕直播",
+      "type": 0,
+      "url": "https://gongdian.top/tv/bingcha",
+      "playerType": 1
+    },
+    {
+      "name": "酒店源",
+      "type": 0,
+      "url": "https://gongdian.top/tv/guovin",
+      "playerType": 1,
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png"
+    },
+    {
+      "name": "webview源",
+      "type": 0,
+      "url": "https://gongdian.top/tv/webvideo.txt",
+      "playerType": 1,
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png"
     },
     {
       "name": "虎牙一起看",
