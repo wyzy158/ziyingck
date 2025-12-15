@@ -1563,6 +1563,26 @@
                 "欧美动漫"
             ]
         },
+	  {
+            "key": "螃蟹影视",
+            "name": "螃蟹影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/pangxie.json"
+        },
+		 {
+            "key": "大鹅影视",
+            "name": "大鹅影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/dae.json"
+        },
 		 {
             "key": "时代影院",
             "name": "时代影院",
