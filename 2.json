@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/yiwu369/6758/raw/master/jar/999.jar",
+  "spider": "./999.jar",
   "sites": [
     {
       "key": "乐播资源",
