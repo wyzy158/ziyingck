@@ -1,39 +1,39 @@
 {
   "spider": "https://gitee.com/yiwu369/6758/raw/master/jar/999.jar",
-  "生活"：[
+  "lives": [
     {
-      "名称": "天上人间",
-      "类型"：0，
+      "name": "天上人间",
+      "type": 0,
       "url": "clan://localhost/FL.txt",
-      "玩家类型": 1,
+      "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "https://diyp20.112114.xyz/",
-      "标志": "https://gd-hbimg.huaban.com/ca8b4e7379e601bca6eb21c33c1994e59e991b481ec6c7-RbvXmL_fw658"
+      "logo": "https://gd-hbimg.huaban.com/ca8b4e7379e601bca6eb21c33c1994e59e991b481ec6c7-RbvXmL_fw658"
     }
-  ]，
-  "网站": [
+  ],
+  "sites": [
     {
-      "键": "乐播资源",
-      "名称": "🈲🔞🐯白虎视频",
-      "类型"：0，
+      "key": "乐播资源",
+      "name": "🈲🔞🐯白虎视频",
+      "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
-      "可搜索的"：1，
-      "快速搜索"：1，
-      "可过滤的": 1
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "键": "美少女资源",
-      "名称": "🔞美少女资源",
-      "类型"：0，
+      "key": "美少女资源",
+      "name": "🔞美少女资源",
+      "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
-      "可搜索的"：1，
-      "快速搜索"：1，
-      "可过滤的": 1
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "键": "淫水机资源",
-      "名称": "🔞淫水机资源",
-      "类型"：0，
+      "key": "淫水机资源",
+      "name": "🔞淫水机资源",
+      "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
