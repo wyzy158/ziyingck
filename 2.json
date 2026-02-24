@@ -1,35 +1,9 @@
 {
   "spider": "./999.jar",
   "sites": [
-       {
-            "key": "乐播资源",
-            "name": "🔞乐播┃资源",
-            "type": 1,
-            "api": "http://lebozy5.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "亚洲情色",
-                "国产主播",
-                "国产自拍",
-                "无码专区",
-                "欧美性爱",
-                "熟女人妻",
-                "强奸乱伦",
-                "巨乳美乳",
-                "中文字幕",
-                "制服诱惑",
-                "女同性恋",
-                "卡通动画",
-                "视频伦理",
-                "少女萝莉",
-                "重口色情",
-                "人兽性交"
-            ]
-        },
         {
             "key": "番号资源",
-            "name": "🔞番号┃资源",
+            "name": "🔞番号资源",
             "type": 1,
             "api": "http://fhapi9.com/api.php/provide/vod/at/json/",
             "searchable": 1,
@@ -54,7 +28,7 @@
         },
         {
             "key": "奶香香资源",
-            "name": "🔞奶香香┃资源",
+            "name": "🔞奶香香资源",
             "type": 1,
             "api": "https://naixxzy.com/api.php/provide/vod/",
             "searchable": 1,
@@ -84,24 +58,6 @@
             ]
         },
     {
-      "key": "zp059",
-      "name": "🔞番号资源",
-      "type": 0,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "zp100",
-      "name": "🔞乐播",
-      "type": 0,
-      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "*乐播资源",
       "name": "🔞乐播资源",
       "type": 1,
@@ -109,31 +65,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
-    },
-    {
-      "key": "💞番号资源💞",
-      "name": "💞番号资源💞",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "*色猫资源",
-      "name": "*色猫资源",
-      "type": 1,
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "kxgav.com",
-      "name": "成人01",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
     }
   ],
   "parses": [
